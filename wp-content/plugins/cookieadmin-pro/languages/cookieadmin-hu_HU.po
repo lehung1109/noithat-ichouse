@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-02-09 17:03+0530\n"
+"PO-Revision-Date: 2026-02-13 13:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: cookieadmin\n"
+"X-Poedit-SearchPath-1: cookieadmin-pro\n"
+
+#: cookieadmin-pro/includes/admin.php:57 cookieadmin/includes/admin.php:97
+msgid "Consent Logs"
+msgstr "Hozzájárulási naplók"
+
+#: cookieadmin-pro/includes/admin.php:75
+msgid "Export CSV"
+msgstr "CSV exportálása"
+
+#: cookieadmin-pro/includes/admin.php:82
+msgid "Consent Id"
+msgstr "Hozzájárulás azonosító"
+
+#: cookieadmin-pro/includes/admin.php:83
+msgid "Status"
+msgstr "Állapot"
+
+#: cookieadmin-pro/includes/admin.php:84
+msgid "Country"
+msgstr "Ország"
+
+#: cookieadmin-pro/includes/admin.php:85
+msgid "User IP (Anonymized)"
+msgstr "Felhasználó IP (anonimizált)"
+
+#: cookieadmin-pro/includes/admin.php:86
+msgid "Time"
+msgstr "Idő"
+
+#: cookieadmin-pro/includes/admin.php:113
+msgid "No consent logs recorded yet!"
+msgstr "Még nem rögzítettek hozzájárulási naplókat!"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "Displaying"
+msgstr "Megjelenítés"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "of"
+msgstr "ból/ből"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "item(s)"
+msgstr "elem(ek)"
+
+#: cookieadmin-pro/includes/admin.php:235
+#: cookieadmin-pro/includes/admin.php:322
+msgid "Accepted"
+msgstr "Elfogadva"
+
+#: cookieadmin-pro/includes/admin.php:238
+#: cookieadmin-pro/includes/admin.php:324
+msgid "Rejected"
+msgstr "Elutasítva"
+
+#: cookieadmin-pro/includes/admin.php:241
+#: cookieadmin-pro/includes/admin.php:326
+msgid "Partially Accepted"
+msgstr "Részben elfogadva"
+
+#: cookieadmin-pro/includes/admin.php:293
+msgid "Table does not exists"
+msgstr "A tábla nem létezik"
+
+#: cookieadmin-pro/includes/admin.php:304
+msgid "No data to export"
+msgstr "Nincs exportálható adat"
+
+#: cookieadmin-pro/includes/admin.php:362
+msgid "Unknow version difference type"
+msgstr "Ismeretlen verziókülönbség típus"
+
+#: cookieadmin-pro/includes/admin.php:386
+#: cookieadmin/includes/admin/scan.php:492
+msgid "Error : Cookie details missing"
+msgstr "Hiba : Hiányzó cookie részletek"
+
+#: cookieadmin-pro/includes/admin.php:420
+msgid "Cookie addition Failed, Error: "
+msgstr "Cookie hozzáadása sikertelen, hiba: "
+
+#: cookieadmin-pro/includes/admin.php:427
+msgid "Cookie addition successful"
+msgstr "Cookie hozzáadása sikeres"
+
+#: cookieadmin-pro/includes/admin.php:438
+msgid "Deletion is already running in the background. You will be notified on completion."
+msgstr "A törlés már fut a háttérben. Értesítést kap a befejezésről."
+
+#: cookieadmin-pro/includes/admin.php:448
+msgid "Please set a valid logs expiry day(s) limit to start deleting."
+msgstr "Kérjük, állítson be érvényes napló lejárati nap(ok) korlátot a törlés megkezdéséhez."
+
+#: cookieadmin-pro/includes/admin.php:460
+msgid "Deletion has started in the background. You will be notified on completion."
+msgstr "A törlés elindult a háttérben. Értesítést kap a befejezésről."
+
+#: cookieadmin-pro/includes/functions.php:239
+msgid "Install CookieAdmin Pro License Key"
+msgstr "CookieAdmin Pro licenckulcs telepítése"
+
+#: cookieadmin-pro/includes/functions.php:417
+#, php-format
+msgid "Your SoftWP license has %1$sexpired%2$s. Please renew it to continue receiving uninterrupted updates and support for %3$s."
+msgstr "A SoftWP licenc %1$seljárt le%2$s. Kérjük, újítsa meg a megszakítás nélküli frissítések és támogatás érdekében %3$s-hez."
+
+#: cookieadmin-pro/includes/functions.php:497
+#: cookieadmin/includes/admin/scan.php:103
+msgid "Name"
+msgstr "Név"
+
+#: cookieadmin-pro/includes/functions.php:498
+#: cookieadmin/includes/admin/scan.php:104
+#: cookieadmin/includes/admin/scan.php:172
+msgid "Description"
+msgstr "Leírás"
+
+#: cookieadmin-pro/includes/functions.php:499
+#: cookieadmin/includes/admin/scan.php:105
+msgid "Expiry"
+msgstr "Lejárat"
+
+#: cookieadmin-pro/includes/functions.php:513
+msgid "days"
+msgstr "nap"
+
+#: cookieadmin-pro/includes/functions.php:513 cookieadmin/includes/admin.php:63
+#: cookieadmin/includes/admin/scan.php:43 cookieadmin/includes/enduser.php:45
+msgid "Session"
+msgstr "Munkamenet"
+
+#: cookieadmin-pro/includes/functions.php:518
+msgid "Not Available"
+msgstr "Nem elérhető"
+
+#: cookieadmin-pro/includes/license.php:21
+msgid "Security Check Failed"
+msgstr "Biztonsági ellenőrzés sikertelen"
+
+#: cookieadmin-pro/includes/license.php:28
+msgid "The license key was not submitted"
+msgstr "A licenckulcs nem lett beküldve"
+
+#: cookieadmin-pro/includes/license.php:35
+msgid "The response was malformed"
+msgstr "A válasz hibás formátumú volt"
+
+#: cookieadmin-pro/includes/license.php:42
+msgid "The license key is invalid"
+msgstr "A licenckulcs érvénytelen"
+
+#: cookieadmin-pro/includes/license.php:46
+msgid "Successfully updated the license key"
+msgstr "Licenckulcs sikeresen frissítve"
+
+#: cookieadmin-pro/includes/license.php:58 cookieadmin/includes/admin.php:100
+msgid "License"
+msgstr "Licenc"
+
+#: cookieadmin-pro/includes/license.php:64
+msgid "CookieAdmin Version"
+msgstr "CookieAdmin verzió"
+
+#: cookieadmin-pro/includes/license.php:66
+msgid "Pro Version"
+msgstr "Pro verzió"
+
+#: cookieadmin-pro/includes/license.php:71
+msgid "CookieAdmin License"
+msgstr "CookieAdmin licenc"
+
+#: cookieadmin-pro/includes/license.php:74
+msgid "Unlicensed"
+msgstr "Nincs licenc"
+
+#: cookieadmin-pro/includes/license.php:77
+msgid "Update License"
+msgstr "Licenc frissítése"
+
+#: cookieadmin-pro/includes/license.php:84
+msgid "License Status"
+msgstr "Licenc állapota"
+
+#: cookieadmin-pro/includes/license.php:85
+msgid "License Expires"
+msgstr "Licenc lejár"
+
+#: cookieadmin-pro/includes/license.php:100
+msgid "Server's IP Address"
+msgstr "Szerver IP címe"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:776
+msgid "Check for updates"
+msgstr "Frissítések keresése"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:821
+msgid "This plugin is up to date."
+msgstr "A bővítmény naprakész."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:823
+msgid "A new version of this plugin is available."
+msgstr "Új verzió érhető el ehhez a bővítményhez."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:825
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Ismeretlen frissítés-ellenőrző állapot \"%s\""
+
+#: cookieadmin-pro/includes/scanner.php:42
+msgid "Network error: "
+msgstr "Hálózati hiba: "
+
+#: cookieadmin-pro/includes/scanner.php:54
+msgid "Status Code: "
+msgstr "Állapotkód: "
+
+#: cookieadmin-pro/includes/scanner.php:60
+msgid "The scanner server returned an unreadable response."
+msgstr "A szkenner szerver olvashatatlan választ adott."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:122
+msgid "You have not installed the free version of CookieAdmin. CookieAdmin Pro depends on the free version, so you must install it first in order to use CookieAdmin Pro."
+msgstr "Nem telepítette a CookieAdmin ingyenes verzióját. A CookieAdmin Pro az ingyenes verziótól függ, ezért először azt kell telepítenie a használathoz."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:136
+msgid "CookieAdmin Pro depends on the free version of CookieAdmin, so you need to install / update the free version first."
+msgstr "A CookieAdmin Pro az ingyenes CookieAdmin verziótól függ, ezért először telepítenie/frissítenie kell az ingyenes verziót."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:137
+msgid "Install/Update Now"
+msgstr "Telepítés/frissítés most"
+
+#: cookieadmin-pro/init.php:179
+msgid "You are using an older version of CookieAdmin Pro. We recommend updating to the latest version to ensure seamless and uninterrupted use of the application."
+msgstr "Régebbi CookieAdmin Pro verziót használ. Ajánlott a legújabb verzióra frissíteni a zavartalan működés érdekében."
+
+#: cookieadmin-pro/init.php:185
+msgid "You are using an older version of CookieAdmin. We recommend updating to the latest free version to ensure smooth and uninterrupted use of the application."
+msgstr "Régebbi CookieAdmin verziót használ. Ajánlott a legújabb ingyenes verzióra frissíteni a zavartalan működés érdekében."
+
+#: cookieadmin/assets/cookie/policies.php:16
+msgid "We respect your privacy"
+msgstr "Tiszteletben tartjuk az Ön magánszféráját"
+
+#: cookieadmin/assets/cookie/policies.php:17
+msgid "Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking <b>Customize</b>. Click <b>Accept All</b> to consent or <b>Reject All</b> to decline non-essential cookies."
+msgstr "A cookie-k segítenek javítani az élményt, személyre szabott tartalmat nyújtani és forgalmat elemezni. Kiválaszthatja, mely cookie-kat engedélyezi a <b>Testreszabás</b> gombra kattintva. Kattintson a <b>Mind elfogadása</b> gombra a hozzájáruláshoz vagy a <b>Mind elutasítása</b> gombra a nem alapvető cookie-k elutasításához."
+
+#: cookieadmin/assets/cookie/policies.php:18
+msgid "Personalize Your Cookie Preferences"
+msgstr "Személyre szabhatja cookie-beállításait"
+
+#: cookieadmin/assets/cookie/policies.php:19
+msgid "We use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below. <br />Cookies marked as <b>Necessary</b> are stored in your browser because they are essential for basic site functionality. <b>These cookies do not require your consent under GDPR.</b> <br />We also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience."
+msgstr "Cookie-kat használunk a gördülékeny navigáció és alapvető webhelyfunkciók biztosításához. Az egyes cookie-kategóriák részletes adatait alább tekintheti meg. <br />A <b>Szükséges</b> cookie-k a böngészőben tárolódnak, mert alapvetőek a webhely működéséhez. <b>Ezekhez a cookie-khoz nem szükséges az Ön hozzájárulása a GDPR szerint.</b> <br />Harmadik féltől származó cookie-kat is használunk a webhelyhasználat elemzésére, az Ön preferenciáinak megjegyzésére és releváns tartalom, valamint hirdetések megjelenítésére. Ezek csak az Ön hozzájárulásával aktiválódnak. Engedélyezheti vagy letilthatja ezeket a cookie-kat, de kérjük, vegye figyelembe, hogy bizonyos típusok kikapcsolása befolyásolhatja böngészési élményét."
+
+#: cookieadmin/assets/cookie/policies.php:20
+#: cookieadmin/assets/cookie/policies.php:55
+msgid "Modify Cookie Preferences"
+msgstr "Cookie-beállítások módosítása"
+
+#: cookieadmin/assets/cookie/policies.php:29
+#: cookieadmin/assets/cookie/policies.php:64
+msgid "Customize"
+msgstr "Testreszabás"
+
+#: cookieadmin/assets/cookie/policies.php:32
+#: cookieadmin/assets/cookie/policies.php:67
+msgid "Reject All"
+msgstr "Mind elutasítása"
+
+#: cookieadmin/assets/cookie/policies.php:35
+#: cookieadmin/assets/cookie/policies.php:70
+msgid "Accept All"
+msgstr "Mind elfogadása"
+
+#: cookieadmin/assets/cookie/policies.php:38
+#: cookieadmin/assets/cookie/policies.php:73
+msgid "Save Preferences"
+msgstr "Beállítások mentése"
+
+#: cookieadmin/assets/cookie/policies.php:51
+msgid "Your Privacy Matters"
+msgstr "Fontos az Ön magánszférája"
+
+#: cookieadmin/assets/cookie/policies.php:52
+msgid "We use cookies to improve your browsing experience, deliver personalized content and ads, and analyze website traffic. By clicking <b>Accept All</b>, you consent to our use of cookies. You can choose to manage your preferences or opt out of the sale or sharing of your personal information."
+msgstr "Cookie-kat használunk böngészési élményének javítására, személyre szabott tartalom és hirdetések biztosítására, valamint a webhelyforgalom elemzésére. A <b>Mind elfogadása</b> gombra kattintva hozzájárul cookie-használatunkhoz. Beállításait kezelheti vagy leiratkozhat személyes adatainak értékesítéséről vagy megosztásáról."
+
+#: cookieadmin/assets/cookie/policies.php:53
+msgid "Customize Your Cookie Settings"
+msgstr "Cookie-beállítások testreszabása"
+
+#: cookieadmin/assets/cookie/policies.php:54
+msgid "We use cookies to support essential site functions and help you navigate efficiently. You can find detailed information about each cookie category below. <br /><b>Necessary</b> cookies are required for core site functionality and are always enabled. These do not require your consent. <br />Other cookies, including third-party cookies, are used to analyze usage, remember preferences, and provide relevant ads and content. These cookies are only used if you choose to enable them. You can adjust your preferences at any time. Disabling certain cookies may impact your browsing experience."
+msgstr "Cookie-kat használunk alapvető webhelyfunkciók támogatására és hatékony navigációra. Az egyes cookie-kategóriák részletes adatait alább találja. <br /><b>Szükséges</b> cookie-k a webhely alapfunkcióihoz szükségesek és mindig engedélyezettek. Ezekhez nem szükséges az Ön hozzájárulása. <br />Más cookie-k, beleértve a harmadik féltől származókat is, a használat elemzésére, preferenciák megjegyzésére, valamint releváns hirdetések és tartalom biztosítására szolgálnak. Ezek csak akkor használatosak, ha Ön engedélyezi őket. Beállításait bármikor módosíthatja. Bizonyos cookie-k letiltása befolyásolhatja böngészési élményét."
+
+#: cookieadmin/includes/admin.php:60
+msgid "Show more"
+msgstr "Több megjelenítése"
+
+#: cookieadmin/includes/admin.php:61 cookieadmin/includes/enduser.php:43
+msgid "Show less"
+msgstr "Kevesebb megjelenítése"
+
+#: cookieadmin/includes/admin.php:62 cookieadmin/includes/admin/scan.php:45
+msgid "Day(s)"
+msgstr "Nap(ok)"
+
+#: cookieadmin/includes/admin.php:86
+msgid "CookieAdmin"
+msgstr "CookieAdmin"
+
+#: cookieadmin/includes/admin.php:88
+#: cookieadmin/includes/admin/dashboard.php:15
+msgid "Dashboard"
+msgstr "Irányítópult"
+
+#: cookieadmin/includes/admin.php:90 cookieadmin/includes/admin/consent.php:22
+msgid "Consent Form"
+msgstr "Hozzájárulási űrlap"
+
+#: cookieadmin/includes/admin.php:92 cookieadmin/includes/admin/settings.php:19
+msgid "Settings"
+msgstr "Beállítások"
+
+#: cookieadmin/includes/admin.php:94
+msgid "Scan Cookies"
+msgstr "Cookie-k szkennelése"
+
+#: cookieadmin/includes/admin.php:104
+msgid "CookieAdmin Go Pro"
+msgstr "CookieAdmin Go Pro"
+
+#: cookieadmin/includes/admin.php:104
+msgid "Go Pro"
+msgstr "Pro verzió"
+
+#: cookieadmin/includes/admin.php:143
+msgid "Share with your followers"
+msgstr "Ossza meg követőivel"
+
+#: cookieadmin/includes/admin.php:145
+msgid "I easily manage Cookie Consent Banner on my #WordPress site using @cookieadmin"
+msgstr "Könnyen kezelem a Cookie Hozzájárulási Bannert a #WordPress oldalamon az @cookieadmin segítségével"
+
+#: cookieadmin/includes/admin.php:155
+msgid " You can report any bugs "
+msgstr " Bármilyen hibát bejelenthetsz "
+
+#: cookieadmin/includes/admin.php:155
+msgid "here"
+msgstr "itt"
+
+#: cookieadmin/includes/admin.php:187
+#, php-format
+msgid "<br><strong>Cookie Scan is running:</strong> %d Cookies found. Please wait for cookies to appear on <a href=\"%s\">Scan Cookies Page</a>"
+msgstr "<br><strong>Cookie szkennelés folyamatban:</strong> %d cookie található. Kérjük, várjon, amíg a cookie-k megjelennek a <a href=\"%s\">Cookie szkennelés oldalán</a>"
+
+#: cookieadmin/includes/admin.php:192
+#, php-format
+msgid "<br><strong>Cookie Scan completed successfully:</strong> Please visit <a href=\"%s\">Scan Cookies</a> to review scan results."
+msgstr "<br><strong>Cookie szkennelés sikeresen befejezve:</strong> Kérjük, látogasson el a <a href=\"%s\">Cookie szkennelés</a> oldalra az eredmények megtekintéséhez."
+
+#: cookieadmin/includes/admin.php:196
+#, php-format
+msgid "<br><strong>Cookie Scan failed:</strong> Please <a href=\"%s\">Scan Cookies</a> again for compliance. %s"
+msgstr "<br><strong>Cookie szkennelés sikertelen:</strong> Kérjük, <a href=\"%s\">szkennelje újra a cookie-kat</a> a megfelelőség érdekében. %s"
+
+#: cookieadmin/includes/admin.php:244
+#, php-format
+msgid "<br><strong>Consent logs are being deleted :</strong> %d logs deleted. Please wait for deletion process to complete."
+msgstr "<br><strong>Hozzájárulási naplók törlése folyamatban:</strong> %d napló törölve. Kérjük, várjon a törlési folyamat befejezéséig."
+
+#: cookieadmin/includes/admin.php:250
+#, php-format
+msgid "<br><strong>Consent logs deleted successfully:</strong> %d logs deleted."
+msgstr "<br><strong>Hozzájárulási naplók sikeresen törölve:</strong> %d napló törölve."
+
+#: cookieadmin/includes/admin.php:254
+#, php-format
+msgid "<br><strong>Consent logs deletion failed:</strong> %d logs deleted. Error : %s"
+msgstr "<br><strong>Hozzájárulási naplók törlése sikertelen:</strong> %d napló törölve. Hiba : %s"
+
+#: cookieadmin/includes/admin.php:312
+#, php-format
+msgid "New versions of %1$s %2$s available. Updating ensures better performance, security, and access to the latest features."
+msgstr "Új verziók érhetők el a %1$s %2$s-hez. A frissítés jobb teljesítményt, biztonságot és legújabb funkciókhoz való hozzáférést biztosít."
+
+#: cookieadmin/includes/admin.php:369
+msgid "Pro"
+msgstr "Pro"
+
+#: cookieadmin/includes/admin/consent.php:33
+#: cookieadmin/includes/admin/dashboard.php:28
+msgid "Consent Type"
+msgstr "Hozzájárulás típusa"
+
+#: cookieadmin/includes/admin/consent.php:36
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "GDPR"
+msgstr "GDPR"
+
+#: cookieadmin/includes/admin/consent.php:37
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "US State Laws"
+msgstr "USA állami törvények"
+
+#: cookieadmin/includes/admin/consent.php:43
+msgid "Consent Expiry"
+msgstr "Hozzájárulás lejárata"
+
+#: cookieadmin/includes/admin/consent.php:50
+msgid "Notice Type"
+msgstr "Értesítés típusa"
+
+#: cookieadmin/includes/admin/consent.php:54
+msgid "Box"
+msgstr "Doboz"
+
+#: cookieadmin/includes/admin/consent.php:58
+msgid "Footer"
+msgstr "Lábléc"
+
+#: cookieadmin/includes/admin/consent.php:62
+msgid "Popup"
+msgstr "Felugró ablak"
+
+#: cookieadmin/includes/admin/consent.php:68
+msgid "Notice Position"
+msgstr "Értesítés pozíciója"
+
+#: cookieadmin/includes/admin/consent.php:72
+msgid "Bottom Left"
+msgstr "Bal alsó"
+
+#: cookieadmin/includes/admin/consent.php:76
+msgid "Bottom Right"
+msgstr "Jobb alsó"
+
+#: cookieadmin/includes/admin/consent.php:80
+msgid "Top Left"
+msgstr "Bal felső"
+
+#: cookieadmin/includes/admin/consent.php:84
+msgid "Top Right"
+msgstr "Jobb felső"
+
+#: cookieadmin/includes/admin/consent.php:88
+msgid "Top"
+msgstr "Fent"
+
+#: cookieadmin/includes/admin/consent.php:92
+msgid "Bottom"
+msgstr "Lent"
+
+#: cookieadmin/includes/admin/consent.php:98
+msgid "Preference Position"
+msgstr "Beállítási pozíció"
+
+#: cookieadmin/includes/admin/consent.php:102
+msgid "Center"
+msgstr "Közép"
+
+#: cookieadmin/includes/admin/consent.php:106
+msgid "Side"
+msgstr "Oldal"
+
+#: cookieadmin/includes/admin/consent.php:110
+msgid "Draw down"
+msgstr "Lenyíló"
+
+#: cookieadmin/includes/admin/consent.php:116
+msgid "Notice Section"
+msgstr "Értesítési szekció"
+
+#: cookieadmin/includes/admin/consent.php:118
+#: cookieadmin/includes/admin/consent.php:124
+#: cookieadmin/includes/admin/consent.php:207
+#: cookieadmin/includes/admin/consent.php:213
+msgid "Title"
+msgstr "Cím"
+
+#: cookieadmin/includes/admin/consent.php:120
+msgid "Notice"
+msgstr "Értesítés"
+
+#: cookieadmin/includes/admin/consent.php:131
+#: cookieadmin/includes/admin/consent.php:220
+msgid "Content"
+msgstr "Tartalom"
+
+#: cookieadmin/includes/admin/consent.php:138
+#: cookieadmin/includes/admin/consent.php:227
+msgid "Background"
+msgstr "Háttér"
+
+#: cookieadmin/includes/admin/consent.php:145
+#: cookieadmin/includes/admin/consent.php:234
+msgid "Border"
+msgstr "Keret"
+
+#: cookieadmin/includes/admin/consent.php:156
+msgid "Buttons"
+msgstr "Gombok"
+
+#: cookieadmin/includes/admin/consent.php:205
+msgid "Preference Section"
+msgstr "Beállítási szekció"
+
+#: cookieadmin/includes/admin/consent.php:209
+msgid "Privacy Notice"
+msgstr "Adatvédelmi értesítés"
+
+#: cookieadmin/includes/admin/consent.php:244
+msgid "Links"
+msgstr "Hivatkozások"
+
+#: cookieadmin/includes/admin/consent.php:251
+msgid "Button Switch On"
+msgstr "Gomb bekapcsolva"
+
+#: cookieadmin/includes/admin/consent.php:258
+msgid "Button Switch Off"
+msgstr "Gomb kikapcsolva"
+
+#: cookieadmin/includes/admin/consent.php:270
+#: cookieadmin/includes/admin/settings.php:126
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: cookieadmin/includes/admin/consent.php:271
+msgid "Show Preview"
+msgstr "Előnézet megjelenítése"
+
+#: cookieadmin/includes/admin/consent.php:295
+#: cookieadmin/includes/admin/settings.php:151
+msgid "Sorry, but you do not have permissions to perform this action"
+msgstr "Sajnáljuk, de nincs jogosultsága a művelet végrehajtásához"
+
+#: cookieadmin/includes/admin/consent.php:382
+#: cookieadmin/includes/admin/settings.php:188
+msgid "Settings saved successfully"
+msgstr "Beállítások sikeresen elmentve"
+
+#: cookieadmin/includes/admin/dashboard.php:23
+msgid "Consent Banner"
+msgstr "Hozzájárulási sáv"
+
+#: cookieadmin/includes/admin/dashboard.php:24
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+#: cookieadmin/includes/admin/dashboard.php:29
+#: cookieadmin/includes/admin/dashboard.php:36
+#: cookieadmin/includes/admin/dashboard.php:43
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: cookieadmin/includes/admin/dashboard.php:35
+#: cookieadmin/includes/admin/settings.php:62
+msgid "Google Consent Mode v2"
+msgstr "Google Hozzájárulási mód v2"
+
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Disabled"
+msgstr "Letiltva"
+
+#: cookieadmin/includes/admin/dashboard.php:42
+msgid "Auto Scan"
+msgstr "Automatikus keresés"
+
+#: cookieadmin/includes/admin/scan.php:14
+msgid "Manage Cookies"
+msgstr "Sütik kezelése"
+
+#: cookieadmin/includes/admin/scan.php:74
+#: cookieadmin/includes/admin/scan.php:75
+msgid "No Cookies Found!"
+msgstr "Nem található süti!"
+
+#: cookieadmin/includes/admin/scan.php:84
+msgid "Scanned Cookies"
+msgstr "Felderített sütik"
+
+#: cookieadmin/includes/admin/scan.php:85
+msgid "Scanned cookies will be automatically categorised and displayed here. You can add, edit and delete cookies as per your needs."
+msgstr "A felderített sütik automatikusan kategorizálva lesznek és itt megjelennek. Sütiket hozzáadhat, szerkeszthet és törölhet igényei szerint."
+
+#: cookieadmin/includes/admin/scan.php:89
+msgid "Add Cookie"
+msgstr "Süti hozzáadása"
+
+#: cookieadmin/includes/admin/scan.php:92
+msgid "Basic scan might miss some cookies."
+msgstr "Az alap szkennelés egyes sütiket kihagyhat."
+
+#: cookieadmin/includes/admin/scan.php:94
+msgid "Scan"
+msgstr "Szkennelés"
+
+#: cookieadmin/includes/admin/scan.php:95
+msgid "Full Scan"
+msgstr "Teljes szkennelés"
+
+#: cookieadmin/includes/admin/scan.php:106
+msgid "Action"
+msgstr "Művelet"
+
+#: cookieadmin/includes/admin/scan.php:110
+#: cookieadmin/includes/functions.php:220
+msgid "Necessary Cookies"
+msgstr "Szükséges sütik"
+
+#: cookieadmin/includes/admin/scan.php:114
+#: cookieadmin/includes/functions.php:222
+msgid "Functional Cookies"
+msgstr "Funkcionális sütik"
+
+#: cookieadmin/includes/admin/scan.php:118
+#: cookieadmin/includes/functions.php:224
+msgid "Analytical Cookies"
+msgstr "Elemző sütik"
+
+#: cookieadmin/includes/admin/scan.php:122
+msgid "Marketing Cookies"
+msgstr "Marketing sütik"
+
+#: cookieadmin/includes/admin/scan.php:126
+msgid "Unknown Cookies"
+msgstr "Ismeretlen sütik"
+
+#: cookieadmin/includes/admin/scan.php:149
+msgid "Edit Cookie"
+msgstr "Süti szerkesztése"
+
+#: cookieadmin/includes/admin/scan.php:155
+msgid "Category"
+msgstr "Kategória"
+
+#: cookieadmin/includes/admin/scan.php:157
+msgid "Select a category"
+msgstr "Válasszon kategóriát"
+
+#: cookieadmin/includes/admin/scan.php:158
+#: cookieadmin/includes/admin/settings.php:35
+msgid "Necessary"
+msgstr "Szükséges"
+
+#: cookieadmin/includes/admin/scan.php:159
+#: cookieadmin/includes/admin/settings.php:38
+msgid "Functional"
+msgstr "Funkcionális"
+
+#: cookieadmin/includes/admin/scan.php:160
+#: cookieadmin/includes/admin/settings.php:41
+msgid "Analytical"
+msgstr "Elemző"
+
+#: cookieadmin/includes/admin/scan.php:161
+msgid "Marketing"
+msgstr "Marketing"
+
+#: cookieadmin/includes/admin/scan.php:162
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: cookieadmin/includes/admin/scan.php:167
+msgid "Cookie Name/ID"
+msgstr "Süti neve/azonosítója"
+
+#: cookieadmin/includes/admin/scan.php:168
+msgid "Enter Cookie Name or id"
+msgstr "Adja meg a süti nevét vagy azonosítóját"
+
+#: cookieadmin/includes/admin/scan.php:173
+msgid "Enter Cookie description here"
+msgstr "Adja meg a süti leírását"
+
+#: cookieadmin/includes/admin/scan.php:177 cookieadmin/includes/enduser.php:44
+msgid "Duration"
+msgstr "Időtartam"
+
+#: cookieadmin/includes/admin/scan.php:178
+msgid "Set 0 for Session or expiry in days"
+msgstr "Állítsa 0-ra munkamenethez vagy lejárati napok számát"
+
+#: cookieadmin/includes/admin/scan.php:183
+msgid "Save"
+msgstr "Mentés"
+
+#: cookieadmin/includes/admin/scan.php:264
+msgid "Cookie Scan can be triggered once an hour"
+msgstr "A süti szkennelés óránként egyszer indítható"
+
+#: cookieadmin/includes/admin/scan.php:341
+msgid "No Cookies Found"
+msgstr "Nem található süti"
+
+#: cookieadmin/includes/admin/scan.php:477
+msgid "No new cookies Found!"
+msgstr "Nem található új süti!"
+
+#: cookieadmin/includes/admin/scan.php:513
+msgid "Cookie updation Failed, Error: "
+msgstr "Süti frissítés sikertelen, hiba: "
+
+#: cookieadmin/includes/admin/scan.php:518
+msgid "Cookie updation successful"
+msgstr "Süti frissítés sikeres"
+
+#: cookieadmin/includes/admin/scan.php:530
+msgid "Error : Cookie Id missing"
+msgstr "Hiba: Süti azonosító hiányzik"
+
+#: cookieadmin/includes/admin/scan.php:541
+msgid "Cookie deletion Failed, Error: "
+msgstr "Süti törlés sikertelen, hiba: "
+
+#: cookieadmin/includes/admin/scan.php:545
+msgid "Cookie deletion successful"
+msgstr "Süti törlés sikeres"
+
+#: cookieadmin/includes/admin/settings.php:29
+msgid "Load Cookies prior to consent"
+msgstr "Sütik betöltése a hozzájárulás előtt"
+
+#: cookieadmin/includes/admin/settings.php:30
+msgid "Selected category of cookies will be loaded before user consent."
+msgstr "A kiválasztott süti kategóriák betöltődnek a felhasználói hozzájárulás előtt."
+
+#: cookieadmin/includes/admin/settings.php:44
+msgid "Advertisement"
+msgstr "Hirdetés"
+
+#: cookieadmin/includes/admin/settings.php:46
+msgid "Loading cookies prior to receiving user consent will make your website non-compliant with GDPR."
+msgstr "A sütik betöltése a felhasználói hozzájárulás előtt a weboldal GDPR-nak nem megfelelő működését eredményezi."
+
+#: cookieadmin/includes/admin/settings.php:49
+msgid "Reload page on consent"
+msgstr "Oldal újratöltése hozzájáruláskor"
+
+#: cookieadmin/includes/admin/settings.php:50
+msgid "Page will be loaded on user consent."
+msgstr "Az oldal betöltődik a felhasználói hozzájáruláskor."
+
+#: cookieadmin/includes/admin/settings.php:63
+msgid "Enable Google consent mode v2."
+msgstr "Google hozzájárulási mód v2 engedélyezése."
+
+#: cookieadmin/includes/admin/settings.php:74
+msgid "Hide Powered by Link"
+msgstr "Powered by link elrejtése"
+
+#: cookieadmin/includes/admin/settings.php:75
+msgid "Hide powered by CookieAdmin on banner."
+msgstr "A CookieAdmin által biztosított link elrejtése a sávon."
+
+#: cookieadmin/includes/admin/settings.php:86
+msgid "Hide Re-consent Icon"
+msgstr "Újrahozzájárulás ikon elrejtése"
+
+#: cookieadmin/includes/admin/settings.php:87
+msgid "Hide reconsent icon after user consent."
+msgstr "Az újrahozzájárulás ikon elrejtése a felhasználói hozzájárulás után."
+
+#: cookieadmin/includes/admin/settings.php:98
+msgid "Auto Cookies Scan"
+msgstr "Automatikus süti szkennelés"
+
+#: cookieadmin/includes/admin/settings.php:99
+msgid "Monthly auto scan will detect cookies."
+msgstr "Havi automatikus szkennelés észleli a sütiket."
+
+#: cookieadmin/includes/admin/settings.php:110
+msgid "Consent Log Cleanup"
+msgstr "Hozzájárulási napló takarítás"
+
+#: cookieadmin/includes/admin/settings.php:111
+msgid "Daily auto delete consent logs older than the set limit."
+msgstr "Napi automatikus törlés a beállított határidőnél régebbi hozzájárulási naplókból."
+
+#: cookieadmin/includes/admin/settings.php:118
+msgid "Keep consent logs for these many days"
+msgstr "Hozzájárulási naplók megőrzése ennyi napig"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete consent logs older than the set limit (runs once)"
+msgstr "Törölje a beállított határidőnél régebbi hozzájárulási naplókat (egyszer fut)"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete Now"
+msgstr "Törlés most"
+
+#: cookieadmin/includes/enduser.php:46
+msgid "Days"
+msgstr "Napok"
+
+#: cookieadmin/includes/functions.php:214
+msgid "Powered by"
+msgstr "Powered by"
+
+#: cookieadmin/includes/functions.php:215
+msgid "Re-consent"
+msgstr "Újrahozzájárulás"
+
+#: cookieadmin/includes/functions.php:216
+msgid "Cookie Preferences"
+msgstr "Süti beállítások"
+
+#: cookieadmin/includes/functions.php:217
+msgid "Always Active"
+msgstr "Mindig aktív"
+
+#: cookieadmin/includes/functions.php:218
+msgid "Remark"
+msgstr "Megjegyzés"
+
+#: cookieadmin/includes/functions.php:219
+msgid "None"
+msgstr "Egyik sem"
+
+#: cookieadmin/includes/functions.php:221
+msgid "Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data."
+msgstr "A szükséges sütik alapvető webhelyfunkciókat biztosítanak, mint például a biztonságos bejelentkezés és a hozzájárulási beállítások kezelése. Nem tárolnak személyes adatokat."
+
+#: cookieadmin/includes/functions.php:223
+msgid "Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools."
+msgstr "A funkcionális sütik támogatják az olyan funkciókat, mint a tartalommegosztás közösségi médiában, visszajelzés gyűjtése és harmadik fél eszközök engedélyezése."
+
+#: cookieadmin/includes/functions.php:225
+msgid "Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources."
+msgstr "Az elemző sütik követik a látogatók interakcióit, betekintést nyújtva olyan mutatókba, mint a látogatószám, visszafordulási arány és forgalmi források."
+
+#: cookieadmin/includes/functions.php:226
+msgid "Advertisement Cookies"
+msgstr "Hirdetési sütik"
+
+#: cookieadmin/includes/functions.php:227
+msgid "Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns."
+msgstr "A hirdetési sütik személyre szabott hirdetéseket jelenítenek meg korábbi látogatások alapján, és elemzik a hirdetési kampányok hatékonyságát."
+
+#: cookieadmin/includes/functions.php:228
+msgid "Unclassified Cookies"
+msgstr "Nem besorolt sütik"
+
+#: cookieadmin/includes/functions.php:229
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "A nem besorolt sütik olyan sütik, amelyeket jelenleg osztályozunk, együttműködve az egyes sütik szolgáltatóival."

@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-02-09 17:03+0530\n"
+"PO-Revision-Date: 2026-02-12 16:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: cookieadmin\n"
+"X-Poedit-SearchPath-1: cookieadmin-pro\n"
+
+#: cookieadmin-pro/includes/admin.php:57 cookieadmin/includes/admin.php:97
+msgid "Consent Logs"
+msgstr "Zapisi pristanka"
+
+#: cookieadmin-pro/includes/admin.php:75
+msgid "Export CSV"
+msgstr "Izvoz CSV"
+
+#: cookieadmin-pro/includes/admin.php:82
+msgid "Consent Id"
+msgstr "ID pristanka"
+
+#: cookieadmin-pro/includes/admin.php:83
+msgid "Status"
+msgstr "Status"
+
+#: cookieadmin-pro/includes/admin.php:84
+msgid "Country"
+msgstr "Država"
+
+#: cookieadmin-pro/includes/admin.php:85
+msgid "User IP (Anonymized)"
+msgstr "IP korisnika (anonimizirano)"
+
+#: cookieadmin-pro/includes/admin.php:86
+msgid "Time"
+msgstr "Vrijeme"
+
+#: cookieadmin-pro/includes/admin.php:113
+msgid "No consent logs recorded yet!"
+msgstr "Još nema zapisa pristanka!"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "Displaying"
+msgstr "Prikazujem"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "of"
+msgstr "od"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "item(s)"
+msgstr "stavka(a)"
+
+#: cookieadmin-pro/includes/admin.php:235
+#: cookieadmin-pro/includes/admin.php:322
+msgid "Accepted"
+msgstr "Prihvaćeno"
+
+#: cookieadmin-pro/includes/admin.php:238
+#: cookieadmin-pro/includes/admin.php:324
+msgid "Rejected"
+msgstr "Odbijeno"
+
+#: cookieadmin-pro/includes/admin.php:241
+#: cookieadmin-pro/includes/admin.php:326
+msgid "Partially Accepted"
+msgstr "Djelomično prihvaćeno"
+
+#: cookieadmin-pro/includes/admin.php:293
+msgid "Table does not exists"
+msgstr "Tablica ne postoji"
+
+#: cookieadmin-pro/includes/admin.php:304
+msgid "No data to export"
+msgstr "Nema podataka za izvoz"
+
+#: cookieadmin-pro/includes/admin.php:362
+msgid "Unknow version difference type"
+msgstr "Nepoznat tip razlike verzije"
+
+#: cookieadmin-pro/includes/admin.php:386
+#: cookieadmin/includes/admin/scan.php:492
+msgid "Error : Cookie details missing"
+msgstr "Greška : Nedostaju detalji kolačića"
+
+#: cookieadmin-pro/includes/admin.php:420
+msgid "Cookie addition Failed, Error: "
+msgstr "Dodavanje kolačića nije uspjelo, greška: "
+
+#: cookieadmin-pro/includes/admin.php:427
+msgid "Cookie addition successful"
+msgstr "Dodavanje kolačića uspješno"
+
+#: cookieadmin-pro/includes/admin.php:438
+msgid "Deletion is already running in the background. You will be notified on completion."
+msgstr "Brisanje je već pokrenuto u pozadini. Bit ćete obaviješteni po završetku."
+
+#: cookieadmin-pro/includes/admin.php:448
+msgid "Please set a valid logs expiry day(s) limit to start deleting."
+msgstr "Molimo postavite valjani broj dana za isteka zapisa da bi se započelo brisanje."
+
+#: cookieadmin-pro/includes/admin.php:460
+msgid "Deletion has started in the background. You will be notified on completion."
+msgstr "Brisanje je započelo u pozadini. Bit ćete obaviješteni po završetku."
+
+#: cookieadmin-pro/includes/functions.php:239
+msgid "Install CookieAdmin Pro License Key"
+msgstr "Instalirajte licencni ključ CookieAdmin Pro"
+
+#: cookieadmin-pro/includes/functions.php:417
+#, php-format
+msgid "Your SoftWP license has %1$sexpired%2$s. Please renew it to continue receiving uninterrupted updates and support for %3$s."
+msgstr "Vaša SoftWP licenca je %1$spregasila%2$s. Molimo obnovite je za nastavak primanja neprekidnih ažuriranja i podrške za %3$s."
+
+#: cookieadmin-pro/includes/functions.php:497
+#: cookieadmin/includes/admin/scan.php:103
+msgid "Name"
+msgstr "Ime"
+
+#: cookieadmin-pro/includes/functions.php:498
+#: cookieadmin/includes/admin/scan.php:104
+#: cookieadmin/includes/admin/scan.php:172
+msgid "Description"
+msgstr "Opis"
+
+#: cookieadmin-pro/includes/functions.php:499
+#: cookieadmin/includes/admin/scan.php:105
+msgid "Expiry"
+msgstr "Istek"
+
+#: cookieadmin-pro/includes/functions.php:513
+msgid "days"
+msgstr "dana"
+
+#: cookieadmin-pro/includes/functions.php:513 cookieadmin/includes/admin.php:63
+#: cookieadmin/includes/admin/scan.php:43 cookieadmin/includes/enduser.php:45
+msgid "Session"
+msgstr "Sesija"
+
+#: cookieadmin-pro/includes/functions.php:518
+msgid "Not Available"
+msgstr "Nije dostupno"
+
+#: cookieadmin-pro/includes/license.php:21
+msgid "Security Check Failed"
+msgstr "Provjera sigurnosti nije uspjela"
+
+#: cookieadmin-pro/includes/license.php:28
+msgid "The license key was not submitted"
+msgstr "Licencni ključ nije poslan"
+
+#: cookieadmin-pro/includes/license.php:35
+msgid "The response was malformed"
+msgstr "Odgovor je neispravan"
+
+#: cookieadmin-pro/includes/license.php:42
+msgid "The license key is invalid"
+msgstr "Licencni ključ nije valjan"
+
+#: cookieadmin-pro/includes/license.php:46
+msgid "Successfully updated the license key"
+msgstr "Uspješno ažuriran licencni ključ"
+
+#: cookieadmin-pro/includes/license.php:58 cookieadmin/includes/admin.php:100
+msgid "License"
+msgstr "Licenca"
+
+#: cookieadmin-pro/includes/license.php:64
+msgid "CookieAdmin Version"
+msgstr "Verzija CookieAdmin"
+
+#: cookieadmin-pro/includes/license.php:66
+msgid "Pro Version"
+msgstr "Pro verzija"
+
+#: cookieadmin-pro/includes/license.php:71
+msgid "CookieAdmin License"
+msgstr "Licenca CookieAdmin"
+
+#: cookieadmin-pro/includes/license.php:74
+msgid "Unlicensed"
+msgstr "Nelicencirano"
+
+#: cookieadmin-pro/includes/license.php:77
+msgid "Update License"
+msgstr "Ažuriraj licencu"
+
+#: cookieadmin-pro/includes/license.php:84
+msgid "License Status"
+msgstr "Status licence"
+
+#: cookieadmin-pro/includes/license.php:85
+msgid "License Expires"
+msgstr "Licenca istječe"
+
+#: cookieadmin-pro/includes/license.php:100
+msgid "Server's IP Address"
+msgstr "IP adresa servera"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:776
+msgid "Check for updates"
+msgstr "Provjeri ažuriranja"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:821
+msgid "This plugin is up to date."
+msgstr "Ovaj dodatak je ažuran."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:823
+msgid "A new version of this plugin is available."
+msgstr "Dostupna je nova verzija ovog dodatka."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:825
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Nepoznat status provjere ažuriranja \"%s\""
+
+#: cookieadmin-pro/includes/scanner.php:42
+msgid "Network error: "
+msgstr "Mrežna greška: "
+
+#: cookieadmin-pro/includes/scanner.php:54
+msgid "Status Code: "
+msgstr "Statusni kod: "
+
+#: cookieadmin-pro/includes/scanner.php:60
+msgid "The scanner server returned an unreadable response."
+msgstr "Server za skeniranje vratio je nečitljiv odgovor."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:122
+msgid "You have not installed the free version of CookieAdmin. CookieAdmin Pro depends on the free version, so you must install it first in order to use CookieAdmin Pro."
+msgstr "Niste instalirali besplatnu verziju CookieAdmin. CookieAdmin Pro ovisi o besplatnoj verziji, stoga je morate prvo instalirati da biste koristili CookieAdmin Pro."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:136
+msgid "CookieAdmin Pro depends on the free version of CookieAdmin, so you need to install / update the free version first."
+msgstr "CookieAdmin Pro ovisi o besplatnoj verziji CookieAdmin, stoga trebate prvo instalirati / ažurirati besplatnu verziju."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:137
+msgid "Install/Update Now"
+msgstr "Instaliraj/Ažuriraj sada"
+
+#: cookieadmin-pro/init.php:179
+msgid "You are using an older version of CookieAdmin Pro. We recommend updating to the latest version to ensure seamless and uninterrupted use of the application."
+msgstr "Koristite stariju verziju CookieAdmin Pro. Preporučujemo ažuriranje na najnoviju verziju za neometano i neprekidno korištenje aplikacije."
+
+#: cookieadmin-pro/init.php:185
+msgid "You are using an older version of CookieAdmin. We recommend updating to the latest free version to ensure smooth and uninterrupted use of the application."
+msgstr "Koristite stariju verziju CookieAdmin. Preporučujemo ažuriranje na najnoviju besplatnu verziju za glatko i neprekidno korištenje aplikacije."
+
+#: cookieadmin/assets/cookie/policies.php:16
+msgid "We respect your privacy"
+msgstr "Poštujemo vašu privatnost"
+
+#: cookieadmin/assets/cookie/policies.php:17
+msgid "Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking <b>Customize</b>. Click <b>Accept All</b> to consent or <b>Reject All</b> to decline non-essential cookies."
+msgstr "Kolačići nam pomažu poboljšati vaše iskustvo, isporučiti personalizirani sadržaj i analizirati promet. Možete odabrati koje kolačiće želite dopustiti klikom na <b>Prilagodi</b>. Kliknite <b>Prihvati sve</b> za pristanak ili <b>Odbij sve</b> za odbijanje nebitnih kolačića."
+
+#: cookieadmin/assets/cookie/policies.php:18
+msgid "Personalize Your Cookie Preferences"
+msgstr "Personalizirajte svoje postavke kolačića"
+
+#: cookieadmin/assets/cookie/policies.php:19
+msgid "We use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below. <br />Cookies marked as <b>Necessary</b> are stored in your browser because they are essential for basic site functionality. <b>These cookies do not require your consent under GDPR.</b> <br />We also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience."
+msgstr "Koristimo kolačiće za osiguranje glatke navigacije i omogućavanje osnovnih funkcija stranice. Detaljne informacije o svakoj kategoriji kolačića možete vidjeti u nastavku. <br />Kolačići označeni kao <b>Potrebni</b> pohranjuju se u vaš preglednik jer su nužni za osnovnu funkcionalnost stranice. <b>Za ove kolačiće nije potreban vaš pristanak prema GDPR-u.</b> <br />Također koristimo kolačiće trećih strana za analizu korištenja stranice, pamćenje vaših postavki i isporuku relevantnog sadržaja i oglasa. Oni će se aktivirati samo uz vaš pristanak. Možete ih uključiti ili isključiti, no imajte na umu da isključivanje nekih vrsta može utjecati na vaše iskustvo pregledavanja."
+
+#: cookieadmin/assets/cookie/policies.php:20
+#: cookieadmin/assets/cookie/policies.php:55
+msgid "Modify Cookie Preferences"
+msgstr "Izmijeni postavke kolačića"
+
+#: cookieadmin/assets/cookie/policies.php:29
+#: cookieadmin/assets/cookie/policies.php:64
+msgid "Customize"
+msgstr "Prilagodi"
+
+#: cookieadmin/assets/cookie/policies.php:32
+#: cookieadmin/assets/cookie/policies.php:67
+msgid "Reject All"
+msgstr "Odbij sve"
+
+#: cookieadmin/assets/cookie/policies.php:35
+#: cookieadmin/assets/cookie/policies.php:70
+msgid "Accept All"
+msgstr "Prihvati sve"
+
+#: cookieadmin/assets/cookie/policies.php:38
+#: cookieadmin/assets/cookie/policies.php:73
+msgid "Save Preferences"
+msgstr "Spremi postavke"
+
+#: cookieadmin/assets/cookie/policies.php:51
+msgid "Your Privacy Matters"
+msgstr "Vaša privatnost je važna"
+
+#: cookieadmin/assets/cookie/policies.php:52
+msgid "We use cookies to improve your browsing experience, deliver personalized content and ads, and analyze website traffic. By clicking <b>Accept All</b>, you consent to our use of cookies. You can choose to manage your preferences or opt out of the sale or sharing of your personal information."
+msgstr "Koristimo kolačiće za poboljšanje vašeg iskustva pregledavanja, isporuku personaliziranog sadržaja i oglasa te analizu prometa na web stranici. Klikom na <b>Prihvati sve</b> pristajete na našu upotrebu kolačića. Možete upravljati svojim postavkama ili se odjaviti od prodaje ili dijeljenja osobnih podataka."
+
+#: cookieadmin/assets/cookie/policies.php:53
+msgid "Customize Your Cookie Settings"
+msgstr "Prilagodite postavke kolačića"
+
+#: cookieadmin/assets/cookie/policies.php:54
+msgid "We use cookies to support essential site functions and help you navigate efficiently. You can find detailed information about each cookie category below. <br /><b>Necessary</b> cookies are required for core site functionality and are always enabled. These do not require your consent. <br />Other cookies, including third-party cookies, are used to analyze usage, remember preferences, and provide relevant ads and content. These cookies are only used if you choose to enable them. You can adjust your preferences at any time. Disabling certain cookies may impact your browsing experience."
+msgstr "Koristimo kolačiće za podršku osnovnim funkcijama stranice i pomoć u učinkovitom navigiranju. Detaljne informacije o svakoj kategoriji kolačića možete pronaći u nastavku. <br /><b>Potrebni</b> kolačići su nužni za osnovnu funkcionalnost stranice i uvijek su uključeni. Za njih nije potreban vaš pristanak. <br />Ostali kolačići, uključujući kolačiće trećih strana, koriste se za analizu korištenja, pamćenje postavki i pružanje relevantnih oglasa i sadržaja. Ti se kolačići koriste samo ako ih odlučite uključiti. Postavke možete mijenjati u bilo kojem trenutku. Isključivanje određenih kolačića može utjecati na vaše iskustvo pregledavanja."
+
+#: cookieadmin/includes/admin.php:60
+msgid "Show more"
+msgstr "Prikaži više"
+
+#: cookieadmin/includes/admin.php:61 cookieadmin/includes/enduser.php:43
+msgid "Show less"
+msgstr "Prikaži manje"
+
+#: cookieadmin/includes/admin.php:62 cookieadmin/includes/admin/scan.php:45
+msgid "Day(s)"
+msgstr "Dan(i)"
+
+#: cookieadmin/includes/admin.php:86
+msgid "CookieAdmin"
+msgstr "CookieAdmin"
+
+#: cookieadmin/includes/admin.php:88
+#: cookieadmin/includes/admin/dashboard.php:15
+msgid "Dashboard"
+msgstr "Nadzorna ploča"
+
+#: cookieadmin/includes/admin.php:90 cookieadmin/includes/admin/consent.php:22
+msgid "Consent Form"
+msgstr "Obrazac pristanka"
+
+#: cookieadmin/includes/admin.php:92 cookieadmin/includes/admin/settings.php:19
+msgid "Settings"
+msgstr "Postavke"
+
+#: cookieadmin/includes/admin.php:94
+msgid "Scan Cookies"
+msgstr "Skeniraj kolačiće"
+
+#: cookieadmin/includes/admin.php:104
+msgid "CookieAdmin Go Pro"
+msgstr "CookieAdmin Go Pro"
+
+#: cookieadmin/includes/admin.php:104
+msgid "Go Pro"
+msgstr "Idi Pro"
+
+#: cookieadmin/includes/admin.php:143
+msgid "Share with your followers"
+msgstr "Podijeli sa svojim pratiteljima"
+
+#: cookieadmin/includes/admin.php:145
+msgid "I easily manage Cookie Consent Banner on my #WordPress site using @cookieadmin"
+msgstr "Jednostavno upravljam Cookie Consent Bannerom na svojoj #WordPress stranici koristeći @cookieadmin"
+
+#: cookieadmin/includes/admin.php:155
+msgid " You can report any bugs "
+msgstr " Možete prijaviti bilo kakve greške "
+
+#: cookieadmin/includes/admin.php:155
+msgid "here"
+msgstr "ovdje"
+
+#: cookieadmin/includes/admin.php:187
+#, php-format
+msgid "<br><strong>Cookie Scan is running:</strong> %d Cookies found. Please wait for cookies to appear on <a href=\"%s\">Scan Cookies Page</a>"
+msgstr "<br><strong>Skeniranje kolačića je u tijeku:</strong> pronađeno je %d kolačića. Molimo pričekajte da kolačići budu prikazani na <a href=\"%s\">Stranici za skeniranje kolačića</a>"
+
+#: cookieadmin/includes/admin.php:192
+#, php-format
+msgid "<br><strong>Cookie Scan completed successfully:</strong> Please visit <a href=\"%s\">Scan Cookies</a> to review scan results."
+msgstr "<br><strong>Skeniranje kolačića je uspješno završeno:</strong> posjetite <a href=\"%s\">Skeniranje kolačića</a> za pregled rezultata skeniranja."
+
+#: cookieadmin/includes/admin.php:196
+#, php-format
+msgid "<br><strong>Cookie Scan failed:</strong> Please <a href=\"%s\">Scan Cookies</a> again for compliance. %s"
+msgstr "<br><strong>Skeniranje kolačića nije uspjelo:</strong> molimo <a href=\"%s\">ponovno skenirajte kolačiće</a> radi usklađenosti. %s"
+
+#: cookieadmin/includes/admin.php:244
+#, php-format
+msgid "<br><strong>Consent logs are being deleted :</strong> %d logs deleted. Please wait for deletion process to complete."
+msgstr "<br><strong>Zapisi pristanka se brišu :</strong> obrisano je %d zapisa. Molimo pričekajte da proces brisanja završi."
+
+#: cookieadmin/includes/admin.php:250
+#, php-format
+msgid "<br><strong>Consent logs deleted successfully:</strong> %d logs deleted."
+msgstr "<br><strong>Zapisi pristanka su uspješno obrisani:</strong> obrisano je %d zapisa."
+
+#: cookieadmin/includes/admin.php:254
+#, php-format
+msgid "<br><strong>Consent logs deletion failed:</strong> %d logs deleted. Error : %s"
+msgstr "<br><strong>Brisanje zapisa pristanka nije uspjelo:</strong> obrisano je %d zapisa. Greška : %s"
+
+#: cookieadmin/includes/admin.php:312
+#, php-format
+msgid "New versions of %1$s %2$s available. Updating ensures better performance, security, and access to the latest features."
+msgstr "Dostupne su nove verzije %1$s %2$s. Ažuriranje osigurava bolje performanse, sigurnost i pristup najnovijim značajkama."
+
+#: cookieadmin/includes/admin.php:369
+msgid "Pro"
+msgstr "Pro"
+
+#: cookieadmin/includes/admin/consent.php:33
+#: cookieadmin/includes/admin/dashboard.php:28
+msgid "Consent Type"
+msgstr "Vrsta pristanka"
+
+#: cookieadmin/includes/admin/consent.php:36
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "GDPR"
+msgstr "GDPR"
+
+#: cookieadmin/includes/admin/consent.php:37
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "US State Laws"
+msgstr "Zakoni američkih država"
+
+#: cookieadmin/includes/admin/consent.php:43
+msgid "Consent Expiry"
+msgstr "Istek pristanka"
+
+#: cookieadmin/includes/admin/consent.php:50
+msgid "Notice Type"
+msgstr "Vrsta obavijesti"
+
+#: cookieadmin/includes/admin/consent.php:54
+msgid "Box"
+msgstr "Okvir"
+
+#: cookieadmin/includes/admin/consent.php:58
+msgid "Footer"
+msgstr "Podnožje"
+
+#: cookieadmin/includes/admin/consent.php:62
+msgid "Popup"
+msgstr "Iskočni prozor"
+
+#: cookieadmin/includes/admin/consent.php:68
+msgid "Notice Position"
+msgstr "Pozicija obavijesti"
+
+#: cookieadmin/includes/admin/consent.php:72
+msgid "Bottom Left"
+msgstr "Donji lijevi"
+
+#: cookieadmin/includes/admin/consent.php:76
+msgid "Bottom Right"
+msgstr "Donji desni"
+
+#: cookieadmin/includes/admin/consent.php:80
+msgid "Top Left"
+msgstr "Gornji lijevi"
+
+#: cookieadmin/includes/admin/consent.php:84
+msgid "Top Right"
+msgstr "Gornji desni"
+
+#: cookieadmin/includes/admin/consent.php:88
+msgid "Top"
+msgstr "Gore"
+
+#: cookieadmin/includes/admin/consent.php:92
+msgid "Bottom"
+msgstr "Dolje"
+
+#: cookieadmin/includes/admin/consent.php:98
+msgid "Preference Position"
+msgstr "Pozicija preferencije"
+
+#: cookieadmin/includes/admin/consent.php:102
+msgid "Center"
+msgstr "Centar"
+
+#: cookieadmin/includes/admin/consent.php:106
+msgid "Side"
+msgstr "Strana"
+
+#: cookieadmin/includes/admin/consent.php:110
+msgid "Draw down"
+msgstr "Spustiti"
+
+#: cookieadmin/includes/admin/consent.php:116
+msgid "Notice Section"
+msgstr "Sekcija obavijesti"
+
+#: cookieadmin/includes/admin/consent.php:118
+#: cookieadmin/includes/admin/consent.php:124
+#: cookieadmin/includes/admin/consent.php:207
+#: cookieadmin/includes/admin/consent.php:213
+msgid "Title"
+msgstr "Naslov"
+
+#: cookieadmin/includes/admin/consent.php:120
+msgid "Notice"
+msgstr "Obavijest"
+
+#: cookieadmin/includes/admin/consent.php:131
+#: cookieadmin/includes/admin/consent.php:220
+msgid "Content"
+msgstr "Sadržaj"
+
+#: cookieadmin/includes/admin/consent.php:138
+#: cookieadmin/includes/admin/consent.php:227
+msgid "Background"
+msgstr "Pozadina"
+
+#: cookieadmin/includes/admin/consent.php:145
+#: cookieadmin/includes/admin/consent.php:234
+msgid "Border"
+msgstr "Okvir"
+
+#: cookieadmin/includes/admin/consent.php:156
+msgid "Buttons"
+msgstr "Gumbi"
+
+#: cookieadmin/includes/admin/consent.php:205
+msgid "Preference Section"
+msgstr "Sekcija preferencija"
+
+#: cookieadmin/includes/admin/consent.php:209
+msgid "Privacy Notice"
+msgstr "Obavijest o privatnosti"
+
+#: cookieadmin/includes/admin/consent.php:244
+msgid "Links"
+msgstr "Linkovi"
+
+#: cookieadmin/includes/admin/consent.php:251
+msgid "Button Switch On"
+msgstr "Gumb Uključi"
+
+#: cookieadmin/includes/admin/consent.php:258
+msgid "Button Switch Off"
+msgstr "Gumb Isključi"
+
+#: cookieadmin/includes/admin/consent.php:270
+#: cookieadmin/includes/admin/settings.php:126
+msgid "Save Settings"
+msgstr "Spremi postavke"
+
+#: cookieadmin/includes/admin/consent.php:271
+msgid "Show Preview"
+msgstr "Prikaži pregled"
+
+#: cookieadmin/includes/admin/consent.php:295
+#: cookieadmin/includes/admin/settings.php:151
+msgid "Sorry, but you do not have permissions to perform this action"
+msgstr "Žao nam je, ali nemate dozvole za izvođenje ove radnje"
+
+#: cookieadmin/includes/admin/consent.php:382
+#: cookieadmin/includes/admin/settings.php:188
+msgid "Settings saved successfully"
+msgstr "Postavke su uspješno spremljene"
+
+#: cookieadmin/includes/admin/dashboard.php:23
+msgid "Consent Banner"
+msgstr "Banner za pristanak"
+
+#: cookieadmin/includes/admin/dashboard.php:24
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Enabled"
+msgstr "Omogućeno"
+
+#: cookieadmin/includes/admin/dashboard.php:29
+#: cookieadmin/includes/admin/dashboard.php:36
+#: cookieadmin/includes/admin/dashboard.php:43
+msgid "Edit"
+msgstr "Uredi"
+
+#: cookieadmin/includes/admin/dashboard.php:35
+#: cookieadmin/includes/admin/settings.php:62
+msgid "Google Consent Mode v2"
+msgstr "Google Consent Mode v2"
+
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#: cookieadmin/includes/admin/dashboard.php:42
+msgid "Auto Scan"
+msgstr "Automatsko skeniranje"
+
+#: cookieadmin/includes/admin/scan.php:14
+msgid "Manage Cookies"
+msgstr "Upravljanje kolačićima"
+
+#: cookieadmin/includes/admin/scan.php:74
+#: cookieadmin/includes/admin/scan.php:75
+msgid "No Cookies Found!"
+msgstr "Nema pronađenih kolačića!"
+
+#: cookieadmin/includes/admin/scan.php:84
+msgid "Scanned Cookies"
+msgstr "Skenirani kolačići"
+
+#: cookieadmin/includes/admin/scan.php:85
+msgid "Scanned cookies will be automatically categorised and displayed here. You can add, edit and delete cookies as per your needs."
+msgstr "Skenirani kolačići će biti automatski kategorizirani i prikazani ovdje. Možete dodavati, uređivati i brisati kolačiće prema vašim potrebama."
+
+#: cookieadmin/includes/admin/scan.php:89
+msgid "Add Cookie"
+msgstr "Dodaj kolačić"
+
+#: cookieadmin/includes/admin/scan.php:92
+msgid "Basic scan might miss some cookies."
+msgstr "Osnovno skeniranje može propustiti neke kolačiće."
+
+#: cookieadmin/includes/admin/scan.php:94
+msgid "Scan"
+msgstr "Skeniraj"
+
+#: cookieadmin/includes/admin/scan.php:95
+msgid "Full Scan"
+msgstr "Puno skeniranje"
+
+#: cookieadmin/includes/admin/scan.php:106
+msgid "Action"
+msgstr "Akcija"
+
+#: cookieadmin/includes/admin/scan.php:110
+#: cookieadmin/includes/functions.php:220
+msgid "Necessary Cookies"
+msgstr "Potrebni kolačići"
+
+#: cookieadmin/includes/admin/scan.php:114
+#: cookieadmin/includes/functions.php:222
+msgid "Functional Cookies"
+msgstr "Funkcionalni kolačići"
+
+#: cookieadmin/includes/admin/scan.php:118
+#: cookieadmin/includes/functions.php:224
+msgid "Analytical Cookies"
+msgstr "Analitički kolačići"
+
+#: cookieadmin/includes/admin/scan.php:122
+msgid "Marketing Cookies"
+msgstr "Marketinški kolačići"
+
+#: cookieadmin/includes/admin/scan.php:126
+msgid "Unknown Cookies"
+msgstr "Nepoznati kolačići"
+
+#: cookieadmin/includes/admin/scan.php:149
+msgid "Edit Cookie"
+msgstr "Uredi kolačić"
+
+#: cookieadmin/includes/admin/scan.php:155
+msgid "Category"
+msgstr "Kategorija"
+
+#: cookieadmin/includes/admin/scan.php:157
+msgid "Select a category"
+msgstr "Odaberite kategoriju"
+
+#: cookieadmin/includes/admin/scan.php:158
+#: cookieadmin/includes/admin/settings.php:35
+msgid "Necessary"
+msgstr "Potrebno"
+
+#: cookieadmin/includes/admin/scan.php:159
+#: cookieadmin/includes/admin/settings.php:38
+msgid "Functional"
+msgstr "Funkcionalno"
+
+#: cookieadmin/includes/admin/scan.php:160
+#: cookieadmin/includes/admin/settings.php:41
+msgid "Analytical"
+msgstr "Analitičko"
+
+#: cookieadmin/includes/admin/scan.php:161
+msgid "Marketing"
+msgstr "Marketinško"
+
+#: cookieadmin/includes/admin/scan.php:162
+msgid "Unknown"
+msgstr "Nepoznato"
+
+#: cookieadmin/includes/admin/scan.php:167
+msgid "Cookie Name/ID"
+msgstr "Ime/ID kolačića"
+
+#: cookieadmin/includes/admin/scan.php:168
+msgid "Enter Cookie Name or id"
+msgstr "Unesite ime ili ID kolačića"
+
+#: cookieadmin/includes/admin/scan.php:173
+msgid "Enter Cookie description here"
+msgstr "Unesite opis kolačića ovdje"
+
+#: cookieadmin/includes/admin/scan.php:177 cookieadmin/includes/enduser.php:44
+msgid "Duration"
+msgstr "Trajanje"
+
+#: cookieadmin/includes/admin/scan.php:178
+msgid "Set 0 for Session or expiry in days"
+msgstr "Postavite 0 za sesiju ili trajanje u danima"
+
+#: cookieadmin/includes/admin/scan.php:183
+msgid "Save"
+msgstr "Spremi"
+
+#: cookieadmin/includes/admin/scan.php:264
+msgid "Cookie Scan can be triggered once an hour"
+msgstr "Skeniranje kolačića može se pokrenuti jednom na sat"
+
+#: cookieadmin/includes/admin/scan.php:341
+msgid "No Cookies Found"
+msgstr "Nema pronađenih kolačića"
+
+#: cookieadmin/includes/admin/scan.php:477
+msgid "No new cookies Found!"
+msgstr "Nema novih pronađenih kolačića!"
+
+#: cookieadmin/includes/admin/scan.php:513
+msgid "Cookie updation Failed, Error: "
+msgstr "Ažuriranje kolačića nije uspjelo, pogreška: "
+
+#: cookieadmin/includes/admin/scan.php:518
+msgid "Cookie updation successful"
+msgstr "Ažuriranje kolačića uspješno"
+
+#: cookieadmin/includes/admin/scan.php:530
+msgid "Error : Cookie Id missing"
+msgstr "Pogreška : Nedostaje ID kolačića"
+
+#: cookieadmin/includes/admin/scan.php:541
+msgid "Cookie deletion Failed, Error: "
+msgstr "Brisanje kolačića nije uspjelo, pogreška: "
+
+#: cookieadmin/includes/admin/scan.php:545
+msgid "Cookie deletion successful"
+msgstr "Brisanje kolačića uspješno"
+
+#: cookieadmin/includes/admin/settings.php:29
+msgid "Load Cookies prior to consent"
+msgstr "Učitaj kolačiće prije pristanka"
+
+#: cookieadmin/includes/admin/settings.php:30
+msgid "Selected category of cookies will be loaded before user consent."
+msgstr "Odabrana kategorija kolačića bit će učitana prije pristanka korisnika."
+
+#: cookieadmin/includes/admin/settings.php:44
+msgid "Advertisement"
+msgstr "Oglas"
+
+#: cookieadmin/includes/admin/settings.php:46
+msgid "Loading cookies prior to receiving user consent will make your website non-compliant with GDPR."
+msgstr "Učitavanje kolačića prije primitka pristanka korisnika učinit će vašu web stranicu neusklađenom s GDPR-om."
+
+#: cookieadmin/includes/admin/settings.php:49
+msgid "Reload page on consent"
+msgstr "Ponovno učitaj stranicu na pristanak"
+
+#: cookieadmin/includes/admin/settings.php:50
+msgid "Page will be loaded on user consent."
+msgstr "Stranica će se učitati nakon pristanka korisnika."
+
+#: cookieadmin/includes/admin/settings.php:63
+msgid "Enable Google consent mode v2."
+msgstr "Omogući Google consent mode v2."
+
+#: cookieadmin/includes/admin/settings.php:74
+msgid "Hide Powered by Link"
+msgstr "Sakrij link Powered by"
+
+#: cookieadmin/includes/admin/settings.php:75
+msgid "Hide powered by CookieAdmin on banner."
+msgstr "Sakrij powered by CookieAdmin na banneru."
+
+#: cookieadmin/includes/admin/settings.php:86
+msgid "Hide Re-consent Icon"
+msgstr "Sakrij ikonu ponovnog pristanka"
+
+#: cookieadmin/includes/admin/settings.php:87
+msgid "Hide reconsent icon after user consent."
+msgstr "Sakrij ikonu ponovnog pristanka nakon pristanka korisnika."
+
+#: cookieadmin/includes/admin/settings.php:98
+msgid "Auto Cookies Scan"
+msgstr "Automatsko skeniranje kolačića"
+
+#: cookieadmin/includes/admin/settings.php:99
+msgid "Monthly auto scan will detect cookies."
+msgstr "Mjesečno automatsko skeniranje će otkriti kolačiće."
+
+#: cookieadmin/includes/admin/settings.php:110
+msgid "Consent Log Cleanup"
+msgstr "Čišćenje zapisa pristanka"
+
+#: cookieadmin/includes/admin/settings.php:111
+msgid "Daily auto delete consent logs older than the set limit."
+msgstr "Dnevno automatsko brisanje zapisa pristanka starijih od postavljenog ograničenja."
+
+#: cookieadmin/includes/admin/settings.php:118
+msgid "Keep consent logs for these many days"
+msgstr "Zadrži zapise pristanka za ovaj broj dana"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete consent logs older than the set limit (runs once)"
+msgstr "Izbriši zapise pristanka starije od postavljenog ograničenja (izvršava se jednom)"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete Now"
+msgstr "Izbriši sada"
+
+#: cookieadmin/includes/enduser.php:46
+msgid "Days"
+msgstr "Dani"
+
+#: cookieadmin/includes/functions.php:214
+msgid "Powered by"
+msgstr "Powered by"
+
+#: cookieadmin/includes/functions.php:215
+msgid "Re-consent"
+msgstr "Ponovni pristanak"
+
+#: cookieadmin/includes/functions.php:216
+msgid "Cookie Preferences"
+msgstr "Postavke kolačića"
+
+#: cookieadmin/includes/functions.php:217
+msgid "Always Active"
+msgstr "Uvijek aktivno"
+
+#: cookieadmin/includes/functions.php:218
+msgid "Remark"
+msgstr "Napomena"
+
+#: cookieadmin/includes/functions.php:219
+msgid "None"
+msgstr "Nema"
+
+#: cookieadmin/includes/functions.php:221
+msgid "Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data."
+msgstr "Potrebni kolačići omogućuju osnovne funkcije stranice poput sigurnih prijava i podešavanja preferencija pristanka. Ne pohranjuju osobne podatke."
+
+#: cookieadmin/includes/functions.php:223
+msgid "Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools."
+msgstr "Funkcionalni kolačići podržavaju funkcije poput dijeljenja sadržaja na društvenim mrežama, prikupljanja povratnih informacija i omogućavanja alata trećih strana."
+
+#: cookieadmin/includes/functions.php:225
+msgid "Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources."
+msgstr "Analitički kolačići prate interakcije posjetitelja, pružajući uvide o metrima poput broja posjetitelja, stope napuštanja i izvora prometa."
+
+#: cookieadmin/includes/functions.php:226
+msgid "Advertisement Cookies"
+msgstr "Marketinški kolačići"
+
+#: cookieadmin/includes/functions.php:227
+msgid "Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns."
+msgstr "Marketinški kolačići isporučuju personalizirane oglase na temelju vaših prethodnih posjeta i analiziraju učinkovitost oglasnih kampanja."
+
+#: cookieadmin/includes/functions.php:228
+msgid "Unclassified Cookies"
+msgstr "Neklasificirani kolačići"
+
+#: cookieadmin/includes/functions.php:229
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Neklasificirani kolačići su kolačići koje trenutno klasificiramo zajedno s pružateljima pojedinačnih kolačića."

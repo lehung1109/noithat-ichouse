@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-02-09 17:03+0530\n"
+"PO-Revision-Date: 2026-02-12 14:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: cookieadmin\n"
+"X-Poedit-SearchPath-1: cookieadmin-pro\n"
+
+#: cookieadmin-pro/includes/admin.php:57 cookieadmin/includes/admin.php:97
+msgid "Consent Logs"
+msgstr "Záznamy o súhlase"
+
+#: cookieadmin-pro/includes/admin.php:75
+msgid "Export CSV"
+msgstr "Export CSV"
+
+#: cookieadmin-pro/includes/admin.php:82
+msgid "Consent Id"
+msgstr "ID súhlasu"
+
+#: cookieadmin-pro/includes/admin.php:83
+msgid "Status"
+msgstr "Stav"
+
+#: cookieadmin-pro/includes/admin.php:84
+msgid "Country"
+msgstr "Krajina"
+
+#: cookieadmin-pro/includes/admin.php:85
+msgid "User IP (Anonymized)"
+msgstr "IP používateľa (anonymizovaná)"
+
+#: cookieadmin-pro/includes/admin.php:86
+msgid "Time"
+msgstr "Čas"
+
+#: cookieadmin-pro/includes/admin.php:113
+msgid "No consent logs recorded yet!"
+msgstr "Zatiaľ neboli zaznamenané žiadne záznamy o súhlase!"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "Displaying"
+msgstr "Zobrazuje sa"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "of"
+msgstr "z"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "item(s)"
+msgstr "položka(y)"
+
+#: cookieadmin-pro/includes/admin.php:235
+#: cookieadmin-pro/includes/admin.php:322
+msgid "Accepted"
+msgstr "Prijaté"
+
+#: cookieadmin-pro/includes/admin.php:238
+#: cookieadmin-pro/includes/admin.php:324
+msgid "Rejected"
+msgstr "Odmietnuté"
+
+#: cookieadmin-pro/includes/admin.php:241
+#: cookieadmin-pro/includes/admin.php:326
+msgid "Partially Accepted"
+msgstr "Čiastočne prijaté"
+
+#: cookieadmin-pro/includes/admin.php:293
+msgid "Table does not exists"
+msgstr "Tabuľka neexistuje"
+
+#: cookieadmin-pro/includes/admin.php:304
+msgid "No data to export"
+msgstr "Žiadne údaje na export"
+
+#: cookieadmin-pro/includes/admin.php:362
+msgid "Unknow version difference type"
+msgstr "Neznámy typ rozdielu verzie"
+
+#: cookieadmin-pro/includes/admin.php:386
+#: cookieadmin/includes/admin/scan.php:492
+msgid "Error : Cookie details missing"
+msgstr "Chyba : Chýbajú podrobnosti o cookie"
+
+#: cookieadmin-pro/includes/admin.php:420
+msgid "Cookie addition Failed, Error: "
+msgstr "Pridanie cookie zlyhalo, chyba: "
+
+#: cookieadmin-pro/includes/admin.php:427
+msgid "Cookie addition successful"
+msgstr "Pridanie cookie bolo úspešné"
+
+#: cookieadmin-pro/includes/admin.php:438
+msgid "Deletion is already running in the background. You will be notified on completion."
+msgstr "Mazanie už prebieha na pozadí. Po dokončení budete upozornení."
+
+#: cookieadmin-pro/includes/admin.php:448
+msgid "Please set a valid logs expiry day(s) limit to start deleting."
+msgstr "Nastavte platný limit dní vypršania záznamov, aby sa mohlo začať mazať."
+
+#: cookieadmin-pro/includes/admin.php:460
+msgid "Deletion has started in the background. You will be notified on completion."
+msgstr "Mazanie bolo spustené na pozadí. Po dokončení budete upozornení."
+
+#: cookieadmin-pro/includes/functions.php:239
+msgid "Install CookieAdmin Pro License Key"
+msgstr "Nainštalujte licenčný kľúč CookieAdmin Pro"
+
+#: cookieadmin-pro/includes/functions.php:417
+#, php-format
+msgid "Your SoftWP license has %1$sexpired%2$s. Please renew it to continue receiving uninterrupted updates and support for %3$s."
+msgstr "Vaša licencia SoftWP %1$svypršala%2$s. Obnovte ju, aby ste mohli pokračovať v prijímaní nepretržitých aktualizácií a podpory pre %3$s."
+
+#: cookieadmin-pro/includes/functions.php:497
+#: cookieadmin/includes/admin/scan.php:103
+msgid "Name"
+msgstr "Názov"
+
+#: cookieadmin-pro/includes/functions.php:498
+#: cookieadmin/includes/admin/scan.php:104
+#: cookieadmin/includes/admin/scan.php:172
+msgid "Description"
+msgstr "Popis"
+
+#: cookieadmin-pro/includes/functions.php:499
+#: cookieadmin/includes/admin/scan.php:105
+msgid "Expiry"
+msgstr "Platnosť"
+
+#: cookieadmin-pro/includes/functions.php:513
+msgid "days"
+msgstr "dni"
+
+#: cookieadmin-pro/includes/functions.php:513 cookieadmin/includes/admin.php:63
+#: cookieadmin/includes/admin/scan.php:43 cookieadmin/includes/enduser.php:45
+msgid "Session"
+msgstr "Relácia"
+
+#: cookieadmin-pro/includes/functions.php:518
+msgid "Not Available"
+msgstr "Nie je k dispozícii"
+
+#: cookieadmin-pro/includes/license.php:21
+msgid "Security Check Failed"
+msgstr "Kontrola bezpečnosti zlyhala"
+
+#: cookieadmin-pro/includes/license.php:28
+msgid "The license key was not submitted"
+msgstr "Licenčný kľúč nebol odoslaný"
+
+#: cookieadmin-pro/includes/license.php:35
+msgid "The response was malformed"
+msgstr "Odpoveď bola poškodená"
+
+#: cookieadmin-pro/includes/license.php:42
+msgid "The license key is invalid"
+msgstr "Licenčný kľúč je neplatný"
+
+#: cookieadmin-pro/includes/license.php:46
+msgid "Successfully updated the license key"
+msgstr "Licenčný kľúč bol úspešne aktualizovaný"
+
+#: cookieadmin-pro/includes/license.php:58 cookieadmin/includes/admin.php:100
+msgid "License"
+msgstr "Licencia"
+
+#: cookieadmin-pro/includes/license.php:64
+msgid "CookieAdmin Version"
+msgstr "Verzia CookieAdmin"
+
+#: cookieadmin-pro/includes/license.php:66
+msgid "Pro Version"
+msgstr "Pro verzia"
+
+#: cookieadmin-pro/includes/license.php:71
+msgid "CookieAdmin License"
+msgstr "Licencia CookieAdmin"
+
+#: cookieadmin-pro/includes/license.php:74
+msgid "Unlicensed"
+msgstr "Neoprávnené"
+
+#: cookieadmin-pro/includes/license.php:77
+msgid "Update License"
+msgstr "Aktualizovať licenciu"
+
+#: cookieadmin-pro/includes/license.php:84
+msgid "License Status"
+msgstr "Stav licencie"
+
+#: cookieadmin-pro/includes/license.php:85
+msgid "License Expires"
+msgstr "Platnosť licencie"
+
+#: cookieadmin-pro/includes/license.php:100
+msgid "Server's IP Address"
+msgstr "IP adresa servera"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:776
+msgid "Check for updates"
+msgstr "Skontrolovať aktualizácie"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:821
+msgid "This plugin is up to date."
+msgstr "Tento plugin je aktuálny."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:823
+msgid "A new version of this plugin is available."
+msgstr "Je dostupná nová verzia tohto pluginu."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:825
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Neznámy stav kontroly aktualizácií \"%s\""
+
+#: cookieadmin-pro/includes/scanner.php:42
+msgid "Network error: "
+msgstr "Sieťová chyba: "
+
+#: cookieadmin-pro/includes/scanner.php:54
+msgid "Status Code: "
+msgstr "Stavový kód: "
+
+#: cookieadmin-pro/includes/scanner.php:60
+msgid "The scanner server returned an unreadable response."
+msgstr "Server skenera vrátil nečitateľnú odpoveď."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:122
+msgid "You have not installed the free version of CookieAdmin. CookieAdmin Pro depends on the free version, so you must install it first in order to use CookieAdmin Pro."
+msgstr "Neinstalovali ste bezplatnú verziu CookieAdmin. CookieAdmin Pro závisí od bezplatnej verzie, preto ju musíte najskôr nainštalovať, aby ste mohli používať CookieAdmin Pro."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:136
+msgid "CookieAdmin Pro depends on the free version of CookieAdmin, so you need to install / update the free version first."
+msgstr "CookieAdmin Pro závisí od bezplatnej verzie CookieAdmin, preto musíte najskôr nainštalovať alebo aktualizovať bezplatnú verziu."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:137
+msgid "Install/Update Now"
+msgstr "Inštalovať/Aktualizovať teraz"
+
+#: cookieadmin-pro/init.php:179
+msgid "You are using an older version of CookieAdmin Pro. We recommend updating to the latest version to ensure seamless and uninterrupted use of the application."
+msgstr "Používate staršiu verziu CookieAdmin Pro. Odporúčame aktualizovať na najnovšiu verziu pre plynulé a nepretržité používanie aplikácie."
+
+#: cookieadmin-pro/init.php:185
+msgid "You are using an older version of CookieAdmin. We recommend updating to the latest free version to ensure smooth and uninterrupted use of the application."
+msgstr "Používate staršiu verziu CookieAdmin. Odporúčame aktualizovať na najnovšiu bezplatnú verziu pre plynulé a nepretržité používanie aplikácie."
+
+#: cookieadmin/assets/cookie/policies.php:16
+msgid "We respect your privacy"
+msgstr "Rešpektujeme vaše súkromie"
+
+#: cookieadmin/assets/cookie/policies.php:17
+msgid "Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking <b>Customize</b>. Click <b>Accept All</b> to consent or <b>Reject All</b> to decline non-essential cookies."
+msgstr "Cookies nám pomáhajú zlepšiť vaše skúsenosti, poskytovať personalizovaný obsah a analyzovať návštevnosť. Môžete si vybrať, ktoré cookies povolíte kliknutím na <b>Prispôsobiť</b>. Kliknite na <b>Prijať všetko</b> pre súhlas alebo <b>Odmietnuť všetko</b> pre odmietnutie nepodstatných cookies."
+
+#: cookieadmin/assets/cookie/policies.php:18
+msgid "Personalize Your Cookie Preferences"
+msgstr "Personalizujte svoje nastavenia cookies"
+
+#: cookieadmin/assets/cookie/policies.php:19
+msgid "We use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below. <br />Cookies marked as <b>Necessary</b> are stored in your browser because they are essential for basic site functionality. <b>These cookies do not require your consent under GDPR.</b> <br />We also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience."
+msgstr "Používame cookies na zabezpečenie plynulej navigácie a umožnenie základných funkcií stránky. Podrobné informácie o každej kategórii cookies nájdete nižšie. <br />Cookies označené ako <b>Nevyhnutné</b> sú uložené vo vašom prehliadači, pretože sú nevyhnutné pre základnú funkčnosť stránky. <b>Tieto cookies nevyžadujú váš súhlas podľa GDPR.</b> <br />Používame tiež cookies tretích strán na analýzu používania stránky, zapamätanie preferencií a poskytovanie relevantného obsahu a reklám. Tieto budú aktivované len s vaším súhlasom. Môžete si vybrať, či tieto cookies povolíte alebo zakážete, ale vypnutie niektorých typov môže ovplyvniť vaše prehliadanie."
+
+#: cookieadmin/assets/cookie/policies.php:20
+#: cookieadmin/assets/cookie/policies.php:55
+msgid "Modify Cookie Preferences"
+msgstr "Upraviť nastavenia cookies"
+
+#: cookieadmin/assets/cookie/policies.php:29
+#: cookieadmin/assets/cookie/policies.php:64
+msgid "Customize"
+msgstr "Prispôsobiť"
+
+#: cookieadmin/assets/cookie/policies.php:32
+#: cookieadmin/assets/cookie/policies.php:67
+msgid "Reject All"
+msgstr "Odmietnuť všetko"
+
+#: cookieadmin/assets/cookie/policies.php:35
+#: cookieadmin/assets/cookie/policies.php:70
+msgid "Accept All"
+msgstr "Prijať všetko"
+
+#: cookieadmin/assets/cookie/policies.php:38
+#: cookieadmin/assets/cookie/policies.php:73
+msgid "Save Preferences"
+msgstr "Uložiť nastavenia"
+
+#: cookieadmin/assets/cookie/policies.php:51
+msgid "Your Privacy Matters"
+msgstr "Vaše súkromie je dôležité"
+
+#: cookieadmin/assets/cookie/policies.php:52
+msgid "We use cookies to improve your browsing experience, deliver personalized content and ads, and analyze website traffic. By clicking <b>Accept All</b>, you consent to our use of cookies. You can choose to manage your preferences or opt out of the sale or sharing of your personal information."
+msgstr "Používame cookies na zlepšenie vášho prehliadania, poskytovanie personalizovaného obsahu a reklám a analýzu návštevnosti webu. Kliknutím na <b>Prijať všetko</b> súhlasíte s používaním cookies. Môžete si spravovať svoje nastavenia alebo sa odhlásiť z predaja či zdieľania vašich osobných údajov."
+
+#: cookieadmin/assets/cookie/policies.php:53
+msgid "Customize Your Cookie Settings"
+msgstr "Prispôsobte si nastavenia cookies"
+
+#: cookieadmin/assets/cookie/policies.php:54
+msgid "We use cookies to support essential site functions and help you navigate efficiently. You can find detailed information about each cookie category below. <br /><b>Necessary</b> cookies are required for core site functionality and are always enabled. These do not require your consent. <br />Other cookies, including third-party cookies, are used to analyze usage, remember preferences, and provide relevant ads and content. These cookies are only used if you choose to enable them. You can adjust your preferences at any time. Disabling certain cookies may impact your browsing experience."
+msgstr "Používame cookies na podporu základných funkcií stránky a pomáhame vám efektívne navigovať. Podrobné informácie o každej kategórii cookies nájdete nižšie. <br /><b>Nevyhnutné</b> cookies sú potrebné pre základnú funkčnosť stránky a sú vždy povolené. Nepotrebujú váš súhlas. <br />Ostatné cookies, vrátane cookies tretích strán, sa používajú na analýzu používania, zapamätanie preferencií a poskytovanie relevantných reklám a obsahu. Tieto cookies sa používajú len ak ich povolíte. Nastavenia môžete kedykoľvek zmeniť. Vypnutie niektorých cookies môže ovplyvniť vaše prehliadanie."
+
+#: cookieadmin/includes/admin.php:60
+msgid "Show more"
+msgstr "Zobraziť viac"
+
+#: cookieadmin/includes/admin.php:61 cookieadmin/includes/enduser.php:43
+msgid "Show less"
+msgstr "Zobraziť menej"
+
+#: cookieadmin/includes/admin.php:62 cookieadmin/includes/admin/scan.php:45
+msgid "Day(s)"
+msgstr "Deň(y)"
+
+#: cookieadmin/includes/admin.php:86
+msgid "CookieAdmin"
+msgstr "CookieAdmin"
+
+#: cookieadmin/includes/admin.php:88
+#: cookieadmin/includes/admin/dashboard.php:15
+msgid "Dashboard"
+msgstr "Nástenná doska"
+
+#: cookieadmin/includes/admin.php:90 cookieadmin/includes/admin/consent.php:22
+msgid "Consent Form"
+msgstr "Formulár súhlasu"
+
+#: cookieadmin/includes/admin.php:92 cookieadmin/includes/admin/settings.php:19
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: cookieadmin/includes/admin.php:94
+msgid "Scan Cookies"
+msgstr "Skenovať cookies"
+
+#: cookieadmin/includes/admin.php:104
+msgid "CookieAdmin Go Pro"
+msgstr "CookieAdmin Go Pro"
+
+#: cookieadmin/includes/admin.php:104
+msgid "Go Pro"
+msgstr "Prejsť na Pro"
+
+#: cookieadmin/includes/admin.php:143
+msgid "Share with your followers"
+msgstr "Zdieľať so svojimi sledovateľmi"
+
+#: cookieadmin/includes/admin.php:145
+msgid "I easily manage Cookie Consent Banner on my #WordPress site using @cookieadmin"
+msgstr "Jednoducho spravujem banner súhlasu s cookies na svojej #WordPress stránke pomocou @cookieadmin"
+
+#: cookieadmin/includes/admin.php:155
+msgid " You can report any bugs "
+msgstr " Môžete nahlásiť akékoľvek chyby "
+
+#: cookieadmin/includes/admin.php:155
+msgid "here"
+msgstr "tu"
+
+#: cookieadmin/includes/admin.php:187
+#, php-format
+msgid "<br><strong>Cookie Scan is running:</strong> %d Cookies found. Please wait for cookies to appear on <a href=\"%s\">Scan Cookies Page</a>"
+msgstr "<br><strong>Prebieha skenovanie cookies:</strong> Nájdených %d cookies. Počkajte, kým sa cookies zobrazia na <a href=\"%s\">stránke skenovania cookies</a>"
+
+#: cookieadmin/includes/admin.php:192
+#, php-format
+msgid "<br><strong>Cookie Scan completed successfully:</strong> Please visit <a href=\"%s\">Scan Cookies</a> to review scan results."
+msgstr "<br><strong>Skenovanie cookies úspešne dokončené:</strong> Navštívte <a href=\"%s\">Skenovanie cookies</a> pre kontrolu výsledkov."
+
+#: cookieadmin/includes/admin.php:196
+#, php-format
+msgid "<br><strong>Cookie Scan failed:</strong> Please <a href=\"%s\">Scan Cookies</a> again for compliance. %s"
+msgstr "<br><strong>Skenovanie cookies zlyhalo:</strong> Prosím, <a href=\"%s\">skenujte cookies</a> znova pre súlad. %s"
+
+#: cookieadmin/includes/admin.php:244
+#, php-format
+msgid "<br><strong>Consent logs are being deleted :</strong> %d logs deleted. Please wait for deletion process to complete."
+msgstr "<br><strong>Záznamy o súhlase sa mažu :</strong> Vymazaných %d záznamov. Počkajte na dokončenie mazania."
+
+#: cookieadmin/includes/admin.php:250
+#, php-format
+msgid "<br><strong>Consent logs deleted successfully:</strong> %d logs deleted."
+msgstr "<br><strong>Záznamy o súhlase boli úspešne vymazané:</strong> Vymazaných %d záznamov."
+
+#: cookieadmin/includes/admin.php:254
+#, php-format
+msgid "<br><strong>Consent logs deletion failed:</strong> %d logs deleted. Error : %s"
+msgstr "<br><strong>Mazanie záznamov o súhlase zlyhalo:</strong> Vymazaných %d záznamov. Chyba : %s"
+
+#: cookieadmin/includes/admin.php:312
+#, php-format
+msgid "New versions of %1$s %2$s available. Updating ensures better performance, security, and access to the latest features."
+msgstr "Nové verzie %1$s %2$s sú dostupné. Aktualizácia zabezpečí lepší výkon, bezpečnosť a prístup k najnovším funkciám."
+
+#: cookieadmin/includes/admin.php:369
+msgid "Pro"
+msgstr "Pro"
+
+#: cookieadmin/includes/admin/consent.php:33
+#: cookieadmin/includes/admin/dashboard.php:28
+msgid "Consent Type"
+msgstr "Typ súhlasu"
+
+#: cookieadmin/includes/admin/consent.php:36
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "GDPR"
+msgstr "GDPR"
+
+#: cookieadmin/includes/admin/consent.php:37
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "US State Laws"
+msgstr "Zákony štátov USA"
+
+#: cookieadmin/includes/admin/consent.php:43
+msgid "Consent Expiry"
+msgstr "Platnosť súhlasu"
+
+#: cookieadmin/includes/admin/consent.php:50
+msgid "Notice Type"
+msgstr "Typ oznámenia"
+
+#: cookieadmin/includes/admin/consent.php:54
+msgid "Box"
+msgstr "Box"
+
+#: cookieadmin/includes/admin/consent.php:58
+msgid "Footer"
+msgstr "Päta"
+
+#: cookieadmin/includes/admin/consent.php:62
+msgid "Popup"
+msgstr "Vyskakovacie okno"
+
+#: cookieadmin/includes/admin/consent.php:68
+msgid "Notice Position"
+msgstr "Pozícia oznámenia"
+
+#: cookieadmin/includes/admin/consent.php:72
+msgid "Bottom Left"
+msgstr "Vľavo dole"
+
+#: cookieadmin/includes/admin/consent.php:76
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+#: cookieadmin/includes/admin/consent.php:80
+msgid "Top Left"
+msgstr "Vľavo hore"
+
+#: cookieadmin/includes/admin/consent.php:84
+msgid "Top Right"
+msgstr "Vpravo hore"
+
+#: cookieadmin/includes/admin/consent.php:88
+msgid "Top"
+msgstr "Hore"
+
+#: cookieadmin/includes/admin/consent.php:92
+msgid "Bottom"
+msgstr "Dole"
+
+#: cookieadmin/includes/admin/consent.php:98
+msgid "Preference Position"
+msgstr "Pozícia preferencie"
+
+#: cookieadmin/includes/admin/consent.php:102
+msgid "Center"
+msgstr "Stred"
+
+#: cookieadmin/includes/admin/consent.php:106
+msgid "Side"
+msgstr "Strana"
+
+#: cookieadmin/includes/admin/consent.php:110
+msgid "Draw down"
+msgstr "Stiahnuť"
+
+#: cookieadmin/includes/admin/consent.php:116
+msgid "Notice Section"
+msgstr "Sekcia oznámení"
+
+#: cookieadmin/includes/admin/consent.php:118
+#: cookieadmin/includes/admin/consent.php:124
+#: cookieadmin/includes/admin/consent.php:207
+#: cookieadmin/includes/admin/consent.php:213
+msgid "Title"
+msgstr "Názov"
+
+#: cookieadmin/includes/admin/consent.php:120
+msgid "Notice"
+msgstr "Oznámenie"
+
+#: cookieadmin/includes/admin/consent.php:131
+#: cookieadmin/includes/admin/consent.php:220
+msgid "Content"
+msgstr "Obsah"
+
+#: cookieadmin/includes/admin/consent.php:138
+#: cookieadmin/includes/admin/consent.php:227
+msgid "Background"
+msgstr "Pozadie"
+
+#: cookieadmin/includes/admin/consent.php:145
+#: cookieadmin/includes/admin/consent.php:234
+msgid "Border"
+msgstr "Rám"
+
+#: cookieadmin/includes/admin/consent.php:156
+msgid "Buttons"
+msgstr "Tlačidlá"
+
+#: cookieadmin/includes/admin/consent.php:205
+msgid "Preference Section"
+msgstr "Sekcia preferencií"
+
+#: cookieadmin/includes/admin/consent.php:209
+msgid "Privacy Notice"
+msgstr "Oznámenie o ochrane súkromia"
+
+#: cookieadmin/includes/admin/consent.php:244
+msgid "Links"
+msgstr "Odkazy"
+
+#: cookieadmin/includes/admin/consent.php:251
+msgid "Button Switch On"
+msgstr "Tlačidlo zapnuté"
+
+#: cookieadmin/includes/admin/consent.php:258
+msgid "Button Switch Off"
+msgstr "Tlačidlo vypnuté"
+
+#: cookieadmin/includes/admin/consent.php:270
+#: cookieadmin/includes/admin/settings.php:126
+msgid "Save Settings"
+msgstr "Uložiť nastavenia"
+
+#: cookieadmin/includes/admin/consent.php:271
+msgid "Show Preview"
+msgstr "Zobraziť náhľad"
+
+#: cookieadmin/includes/admin/consent.php:295
+#: cookieadmin/includes/admin/settings.php:151
+msgid "Sorry, but you do not have permissions to perform this action"
+msgstr "Ospravedlňujeme sa, ale nemáte oprávnenia na vykonanie tejto akcie"
+
+#: cookieadmin/includes/admin/consent.php:382
+#: cookieadmin/includes/admin/settings.php:188
+msgid "Settings saved successfully"
+msgstr "Nastavenia boli úspešne uložené"
+
+#: cookieadmin/includes/admin/dashboard.php:23
+msgid "Consent Banner"
+msgstr "Banner súhlasu"
+
+#: cookieadmin/includes/admin/dashboard.php:24
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Enabled"
+msgstr "Povolené"
+
+#: cookieadmin/includes/admin/dashboard.php:29
+#: cookieadmin/includes/admin/dashboard.php:36
+#: cookieadmin/includes/admin/dashboard.php:43
+msgid "Edit"
+msgstr "Upraviť"
+
+#: cookieadmin/includes/admin/dashboard.php:35
+#: cookieadmin/includes/admin/settings.php:62
+msgid "Google Consent Mode v2"
+msgstr "Google Consent Mode v2"
+
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Disabled"
+msgstr "Zakázané"
+
+#: cookieadmin/includes/admin/dashboard.php:42
+msgid "Auto Scan"
+msgstr "Automatické skenovanie"
+
+#: cookieadmin/includes/admin/scan.php:14
+msgid "Manage Cookies"
+msgstr "Spravovať cookies"
+
+#: cookieadmin/includes/admin/scan.php:74
+#: cookieadmin/includes/admin/scan.php:75
+msgid "No Cookies Found!"
+msgstr "Nenašli sa žiadne cookies!"
+
+#: cookieadmin/includes/admin/scan.php:84
+msgid "Scanned Cookies"
+msgstr "Skenované cookies"
+
+#: cookieadmin/includes/admin/scan.php:85
+msgid "Scanned cookies will be automatically categorised and displayed here. You can add, edit and delete cookies as per your needs."
+msgstr "Skenované cookies budú automaticky kategorizované a zobrazené tu. Môžete pridávať, upravovať a mazať cookies podľa svojich potrieb."
+
+#: cookieadmin/includes/admin/scan.php:89
+msgid "Add Cookie"
+msgstr "Pridať cookie"
+
+#: cookieadmin/includes/admin/scan.php:92
+msgid "Basic scan might miss some cookies."
+msgstr "Základné skenovanie môže niektoré cookies prehliadnuť."
+
+#: cookieadmin/includes/admin/scan.php:94
+msgid "Scan"
+msgstr "Skenovať"
+
+#: cookieadmin/includes/admin/scan.php:95
+msgid "Full Scan"
+msgstr "Úplné skenovanie"
+
+#: cookieadmin/includes/admin/scan.php:106
+msgid "Action"
+msgstr "Akcia"
+
+#: cookieadmin/includes/admin/scan.php:110
+#: cookieadmin/includes/functions.php:220
+msgid "Necessary Cookies"
+msgstr "Nevyhnutné cookies"
+
+#: cookieadmin/includes/admin/scan.php:114
+#: cookieadmin/includes/functions.php:222
+msgid "Functional Cookies"
+msgstr "Funkčné cookies"
+
+#: cookieadmin/includes/admin/scan.php:118
+#: cookieadmin/includes/functions.php:224
+msgid "Analytical Cookies"
+msgstr "Analytické cookies"
+
+#: cookieadmin/includes/admin/scan.php:122
+msgid "Marketing Cookies"
+msgstr "Marketingové cookies"
+
+#: cookieadmin/includes/admin/scan.php:126
+msgid "Unknown Cookies"
+msgstr "Neznáme cookies"
+
+#: cookieadmin/includes/admin/scan.php:149
+msgid "Edit Cookie"
+msgstr "Upraviť cookie"
+
+#: cookieadmin/includes/admin/scan.php:155
+msgid "Category"
+msgstr "Kategória"
+
+#: cookieadmin/includes/admin/scan.php:157
+msgid "Select a category"
+msgstr "Vyberte kategóriu"
+
+#: cookieadmin/includes/admin/scan.php:158
+#: cookieadmin/includes/admin/settings.php:35
+msgid "Necessary"
+msgstr "Nevyhnutné"
+
+#: cookieadmin/includes/admin/scan.php:159
+#: cookieadmin/includes/admin/settings.php:38
+msgid "Functional"
+msgstr "Funkčné"
+
+#: cookieadmin/includes/admin/scan.php:160
+#: cookieadmin/includes/admin/settings.php:41
+msgid "Analytical"
+msgstr "Analytické"
+
+#: cookieadmin/includes/admin/scan.php:161
+msgid "Marketing"
+msgstr "Marketingové"
+
+#: cookieadmin/includes/admin/scan.php:162
+msgid "Unknown"
+msgstr "Neznáme"
+
+#: cookieadmin/includes/admin/scan.php:167
+msgid "Cookie Name/ID"
+msgstr "Názov/ID cookie"
+
+#: cookieadmin/includes/admin/scan.php:168
+msgid "Enter Cookie Name or id"
+msgstr "Zadajte názov alebo ID cookie"
+
+#: cookieadmin/includes/admin/scan.php:173
+msgid "Enter Cookie description here"
+msgstr "Zadajte popis cookie tu"
+
+#: cookieadmin/includes/admin/scan.php:177 cookieadmin/includes/enduser.php:44
+msgid "Duration"
+msgstr "Doba trvania"
+
+#: cookieadmin/includes/admin/scan.php:178
+msgid "Set 0 for Session or expiry in days"
+msgstr "Nastavte 0 pre reláciu alebo vypršanie v dňoch"
+
+#: cookieadmin/includes/admin/scan.php:183
+msgid "Save"
+msgstr "Uložiť"
+
+#: cookieadmin/includes/admin/scan.php:264
+msgid "Cookie Scan can be triggered once an hour"
+msgstr "Skenovanie cookies môže byť spustené raz za hodinu"
+
+#: cookieadmin/includes/admin/scan.php:341
+msgid "No Cookies Found"
+msgstr "Nenašli sa žiadne cookies"
+
+#: cookieadmin/includes/admin/scan.php:477
+msgid "No new cookies Found!"
+msgstr "Nenašli sa žiadne nové cookies!"
+
+#: cookieadmin/includes/admin/scan.php:513
+msgid "Cookie updation Failed, Error: "
+msgstr "Aktualizácia cookie zlyhala, chyba: "
+
+#: cookieadmin/includes/admin/scan.php:518
+msgid "Cookie updation successful"
+msgstr "Aktualizácia cookie bola úspešná"
+
+#: cookieadmin/includes/admin/scan.php:530
+msgid "Error : Cookie Id missing"
+msgstr "Chyba : Chýba ID cookie"
+
+#: cookieadmin/includes/admin/scan.php:541
+msgid "Cookie deletion Failed, Error: "
+msgstr "Vymazanie cookie zlyhalo, chyba: "
+
+#: cookieadmin/includes/admin/scan.php:545
+msgid "Cookie deletion successful"
+msgstr "Vymazanie cookie bolo úspešné"
+
+#: cookieadmin/includes/admin/settings.php:29
+msgid "Load Cookies prior to consent"
+msgstr "Načítať cookies pred súhlasom"
+
+#: cookieadmin/includes/admin/settings.php:30
+msgid "Selected category of cookies will be loaded before user consent."
+msgstr "Vybraná kategória cookies bude načítaná pred súhlasom používateľa."
+
+#: cookieadmin/includes/admin/settings.php:44
+msgid "Advertisement"
+msgstr "Reklama"
+
+#: cookieadmin/includes/admin/settings.php:46
+msgid "Loading cookies prior to receiving user consent will make your website non-compliant with GDPR."
+msgstr "Načítanie cookies pred získaním súhlasu používateľa spôsobí, že vaša stránka nebude v súlade s GDPR."
+
+#: cookieadmin/includes/admin/settings.php:49
+msgid "Reload page on consent"
+msgstr "Znova načítať stránku po súhlase"
+
+#: cookieadmin/includes/admin/settings.php:50
+msgid "Page will be loaded on user consent."
+msgstr "Stránka bude načítaná po súhlase používateľa."
+
+#: cookieadmin/includes/admin/settings.php:63
+msgid "Enable Google consent mode v2."
+msgstr "Povoliť Google consent mode v2."
+
+#: cookieadmin/includes/admin/settings.php:74
+msgid "Hide Powered by Link"
+msgstr "Skryť odkaz Powered by"
+
+#: cookieadmin/includes/admin/settings.php:75
+msgid "Hide powered by CookieAdmin on banner."
+msgstr "Skryť odkaz Powered by CookieAdmin na bannery."
+
+#: cookieadmin/includes/admin/settings.php:86
+msgid "Hide Re-consent Icon"
+msgstr "Skryť ikonu opätovného súhlasu"
+
+#: cookieadmin/includes/admin/settings.php:87
+msgid "Hide reconsent icon after user consent."
+msgstr "Skryť ikonu opätovného súhlasu po získaní súhlasu používateľa."
+
+#: cookieadmin/includes/admin/settings.php:98
+msgid "Auto Cookies Scan"
+msgstr "Automatické skenovanie cookies"
+
+#: cookieadmin/includes/admin/settings.php:99
+msgid "Monthly auto scan will detect cookies."
+msgstr "Mesačné automatické skenovanie detekuje cookies."
+
+#: cookieadmin/includes/admin/settings.php:110
+msgid "Consent Log Cleanup"
+msgstr "Čistenie záznamov o súhlase"
+
+#: cookieadmin/includes/admin/settings.php:111
+msgid "Daily auto delete consent logs older than the set limit."
+msgstr "Denné automatické mazanie záznamov o súhlase starších ako nastavený limit."
+
+#: cookieadmin/includes/admin/settings.php:118
+msgid "Keep consent logs for these many days"
+msgstr "Uchovávať záznamy o súhlase po tieto dni"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete consent logs older than the set limit (runs once)"
+msgstr "Vymazať záznamy o súhlase staršie ako nastavený limit (spustí sa raz)"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete Now"
+msgstr "Vymazať teraz"
+
+#: cookieadmin/includes/enduser.php:46
+msgid "Days"
+msgstr "Dni"
+
+#: cookieadmin/includes/functions.php:214
+msgid "Powered by"
+msgstr "Prevádzkuje"
+
+#: cookieadmin/includes/functions.php:215
+msgid "Re-consent"
+msgstr "Opätovný súhlas"
+
+#: cookieadmin/includes/functions.php:216
+msgid "Cookie Preferences"
+msgstr "Preferencie cookies"
+
+#: cookieadmin/includes/functions.php:217
+msgid "Always Active"
+msgstr "Vždy aktívne"
+
+#: cookieadmin/includes/functions.php:218
+msgid "Remark"
+msgstr "Poznámka"
+
+#: cookieadmin/includes/functions.php:219
+msgid "None"
+msgstr "Žiadne"
+
+#: cookieadmin/includes/functions.php:221
+msgid "Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data."
+msgstr "Nevyhnutné cookies umožňujú základné funkcie stránky ako bezpečné prihlásenie a úpravy preferencií súhlasu. Neuchovávajú osobné údaje."
+
+#: cookieadmin/includes/functions.php:223
+msgid "Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools."
+msgstr "Funkčné cookies podporujú funkcie ako zdieľanie obsahu na sociálnych sieťach, zber spätnej väzby a umožňujú nástroje tretích strán."
+
+#: cookieadmin/includes/functions.php:225
+msgid "Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources."
+msgstr "Analytické cookies sledujú interakcie návštevníkov, poskytujú informácie o metrikách ako počet návštevníkov, miera odchodov a zdroje návštevnosti."
+
+#: cookieadmin/includes/functions.php:226
+msgid "Advertisement Cookies"
+msgstr "Reklamné cookies"
+
+#: cookieadmin/includes/functions.php:227
+msgid "Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns."
+msgstr "Reklamné cookies zobrazujú personalizované reklamy na základe vašich predchádzajúcich návštev a analyzujú efektívnosť reklamných kampaní."
+
+#: cookieadmin/includes/functions.php:228
+msgid "Unclassified Cookies"
+msgstr "Neklasifikované cookies"
+
+#: cookieadmin/includes/functions.php:229
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Neklasifikované cookies sú cookies, ktoré momentálne klasifikujeme spolu s poskytovateľmi jednotlivých cookies."

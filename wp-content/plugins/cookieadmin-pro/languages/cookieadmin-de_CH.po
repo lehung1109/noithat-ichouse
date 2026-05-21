@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-02-09 17:03+0530\n"
+"PO-Revision-Date: 2026-02-13 13:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_CH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: cookieadmin\n"
+"X-Poedit-SearchPath-1: cookieadmin-pro\n"
+
+#: cookieadmin-pro/includes/admin.php:57 cookieadmin/includes/admin.php:97
+msgid "Consent Logs"
+msgstr "Einwilligungsprotokolle"
+
+#: cookieadmin-pro/includes/admin.php:75
+msgid "Export CSV"
+msgstr "CSV exportieren"
+
+#: cookieadmin-pro/includes/admin.php:82
+msgid "Consent Id"
+msgstr "Einwilligungs-ID"
+
+#: cookieadmin-pro/includes/admin.php:83
+msgid "Status"
+msgstr "Status"
+
+#: cookieadmin-pro/includes/admin.php:84
+msgid "Country"
+msgstr "Land"
+
+#: cookieadmin-pro/includes/admin.php:85
+msgid "User IP (Anonymized)"
+msgstr "Benutzer-IP (anonymisiert)"
+
+#: cookieadmin-pro/includes/admin.php:86
+msgid "Time"
+msgstr "Zeit"
+
+#: cookieadmin-pro/includes/admin.php:113
+msgid "No consent logs recorded yet!"
+msgstr "Noch keine Einwilligungsprotokolle erfasst!"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "Displaying"
+msgstr "Anzeige"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "of"
+msgstr "von"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "item(s)"
+msgstr "Element(en)"
+
+#: cookieadmin-pro/includes/admin.php:235
+#: cookieadmin-pro/includes/admin.php:322
+msgid "Accepted"
+msgstr "Akzeptiert"
+
+#: cookieadmin-pro/includes/admin.php:238
+#: cookieadmin-pro/includes/admin.php:324
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+#: cookieadmin-pro/includes/admin.php:241
+#: cookieadmin-pro/includes/admin.php:326
+msgid "Partially Accepted"
+msgstr "Teilweise akzeptiert"
+
+#: cookieadmin-pro/includes/admin.php:293
+msgid "Table does not exists"
+msgstr "Tabelle existiert nicht"
+
+#: cookieadmin-pro/includes/admin.php:304
+msgid "No data to export"
+msgstr "Keine Daten zum Exportieren"
+
+#: cookieadmin-pro/includes/admin.php:362
+msgid "Unknow version difference type"
+msgstr "Unbekannter Versionsunterschiedstyp"
+
+#: cookieadmin-pro/includes/admin.php:386
+#: cookieadmin/includes/admin/scan.php:492
+msgid "Error : Cookie details missing"
+msgstr "Fehler : Cookie-Details fehlen"
+
+#: cookieadmin-pro/includes/admin.php:420
+msgid "Cookie addition Failed, Error: "
+msgstr "Cookie hinzufügen fehlgeschlagen, Fehler: "
+
+#: cookieadmin-pro/includes/admin.php:427
+msgid "Cookie addition successful"
+msgstr "Cookie erfolgreich hinzugefügt"
+
+#: cookieadmin-pro/includes/admin.php:438
+msgid "Deletion is already running in the background. You will be notified on completion."
+msgstr "Löschung läuft bereits im Hintergrund. Sie werden bei Abschluss benachrichtigt."
+
+#: cookieadmin-pro/includes/admin.php:448
+msgid "Please set a valid logs expiry day(s) limit to start deleting."
+msgstr "Bitte setzen Sie ein gültiges Ablaufdatum für Protokolle, um mit der Löschung zu beginnen."
+
+#: cookieadmin-pro/includes/admin.php:460
+msgid "Deletion has started in the background. You will be notified on completion."
+msgstr "Löschung wurde im Hintergrund gestartet. Sie werden bei Abschluss benachrichtigt."
+
+#: cookieadmin-pro/includes/functions.php:239
+msgid "Install CookieAdmin Pro License Key"
+msgstr "CookieAdmin Pro Lizenzschlüssel installieren"
+
+#: cookieadmin-pro/includes/functions.php:417
+#, php-format
+msgid "Your SoftWP license has %1$sexpired%2$s. Please renew it to continue receiving uninterrupted updates and support for %3$s."
+msgstr "Ihre SoftWP-Lizenz ist %1$sabgelaufen%2$s. Bitte erneuern Sie diese, um weiterhin ununterbrochene Updates und Support für %3$s zu erhalten."
+
+#: cookieadmin-pro/includes/functions.php:497
+#: cookieadmin/includes/admin/scan.php:103
+msgid "Name"
+msgstr "Name"
+
+#: cookieadmin-pro/includes/functions.php:498
+#: cookieadmin/includes/admin/scan.php:104
+#: cookieadmin/includes/admin/scan.php:172
+msgid "Description"
+msgstr "Beschreibung"
+
+#: cookieadmin-pro/includes/functions.php:499
+#: cookieadmin/includes/admin/scan.php:105
+msgid "Expiry"
+msgstr "Ablauf"
+
+#: cookieadmin-pro/includes/functions.php:513
+msgid "days"
+msgstr "Tage"
+
+#: cookieadmin-pro/includes/functions.php:513 cookieadmin/includes/admin.php:63
+#: cookieadmin/includes/admin/scan.php:43 cookieadmin/includes/enduser.php:45
+msgid "Session"
+msgstr "Sitzung"
+
+#: cookieadmin-pro/includes/functions.php:518
+msgid "Not Available"
+msgstr "Nicht verfügbar"
+
+#: cookieadmin-pro/includes/license.php:21
+msgid "Security Check Failed"
+msgstr "Sicherheitsprüfung fehlgeschlagen"
+
+#: cookieadmin-pro/includes/license.php:28
+msgid "The license key was not submitted"
+msgstr "Der Lizenzschlüssel wurde nicht übermittelt"
+
+#: cookieadmin-pro/includes/license.php:35
+msgid "The response was malformed"
+msgstr "Die Antwort war fehlerhaft"
+
+#: cookieadmin-pro/includes/license.php:42
+msgid "The license key is invalid"
+msgstr "Der Lizenzschlüssel ist ungültig"
+
+#: cookieadmin-pro/includes/license.php:46
+msgid "Successfully updated the license key"
+msgstr "Lizenzschlüssel erfolgreich aktualisiert"
+
+#: cookieadmin-pro/includes/license.php:58 cookieadmin/includes/admin.php:100
+msgid "License"
+msgstr "Lizenz"
+
+#: cookieadmin-pro/includes/license.php:64
+msgid "CookieAdmin Version"
+msgstr "CookieAdmin Version"
+
+#: cookieadmin-pro/includes/license.php:66
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: cookieadmin-pro/includes/license.php:71
+msgid "CookieAdmin License"
+msgstr "CookieAdmin Lizenz"
+
+#: cookieadmin-pro/includes/license.php:74
+msgid "Unlicensed"
+msgstr "Nicht lizenziert"
+
+#: cookieadmin-pro/includes/license.php:77
+msgid "Update License"
+msgstr "Lizenz aktualisieren"
+
+#: cookieadmin-pro/includes/license.php:84
+msgid "License Status"
+msgstr "Lizenzstatus"
+
+#: cookieadmin-pro/includes/license.php:85
+msgid "License Expires"
+msgstr "Lizenz läuft ab"
+
+#: cookieadmin-pro/includes/license.php:100
+msgid "Server's IP Address"
+msgstr "Server-IP-Adresse"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:776
+msgid "Check for updates"
+msgstr "Nach Updates suchen"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:821
+msgid "This plugin is up to date."
+msgstr "Dieses Plugin ist auf dem neuesten Stand."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:823
+msgid "A new version of this plugin is available."
+msgstr "Eine neue Version dieses Plugins ist verfügbar."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:825
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Unbekannter Update-Checker-Status \"%s\""
+
+#: cookieadmin-pro/includes/scanner.php:42
+msgid "Network error: "
+msgstr "Netzwerkfehler: "
+
+#: cookieadmin-pro/includes/scanner.php:54
+msgid "Status Code: "
+msgstr "Statuscode: "
+
+#: cookieadmin-pro/includes/scanner.php:60
+msgid "The scanner server returned an unreadable response."
+msgstr "Der Scanner-Server hat eine unlesbare Antwort zurückgegeben."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:122
+msgid "You have not installed the free version of CookieAdmin. CookieAdmin Pro depends on the free version, so you must install it first in order to use CookieAdmin Pro."
+msgstr "Sie haben die kostenlose Version von CookieAdmin nicht installiert. CookieAdmin Pro ist von der kostenlosen Version abhängig, daher müssen Sie diese zuerst installieren, um CookieAdmin Pro verwenden zu können."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:136
+msgid "CookieAdmin Pro depends on the free version of CookieAdmin, so you need to install / update the free version first."
+msgstr "CookieAdmin Pro ist von der kostenlosen Version von CookieAdmin abhängig, daher müssen Sie zuerst die kostenlose Version installieren/aktualisieren."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:137
+msgid "Install/Update Now"
+msgstr "Jetzt installieren/aktualisieren"
+
+#: cookieadmin-pro/init.php:179
+msgid "You are using an older version of CookieAdmin Pro. We recommend updating to the latest version to ensure seamless and uninterrupted use of the application."
+msgstr "Sie verwenden eine ältere Version von CookieAdmin Pro. Wir empfehlen, auf die neueste Version zu aktualisieren, um eine reibungslose und unterbrechungsfreie Nutzung der Anwendung sicherzustellen."
+
+#: cookieadmin-pro/init.php:185
+msgid "You are using an older version of CookieAdmin. We recommend updating to the latest free version to ensure smooth and uninterrupted use of the application."
+msgstr "Sie verwenden eine ältere Version von CookieAdmin. Wir empfehlen, auf die neueste kostenlose Version zu aktualisieren, um eine reibungslose und unterbrechungsfreie Nutzung der Anwendung sicherzustellen."
+
+#: cookieadmin/assets/cookie/policies.php:16
+msgid "We respect your privacy"
+msgstr "Wir respektieren Ihre Privatsphäre"
+
+#: cookieadmin/assets/cookie/policies.php:17
+msgid "Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking <b>Customize</b>. Click <b>Accept All</b> to consent or <b>Reject All</b> to decline non-essential cookies."
+msgstr "Cookies helfen uns, Ihre Erfahrung zu verbessern, personalisierte Inhalte bereitzustellen und den Traffic zu analysieren. Sie können auswählen, welche Cookies Sie zulassen, indem Sie auf <b>Anpassen</b> klicken. Klicken Sie auf <b>Alle akzeptieren</b>, um zuzustimmen, oder auf <b>Alle ablehnen</b>, um nicht notwendige Cookies abzulehnen."
+
+#: cookieadmin/assets/cookie/policies.php:18
+msgid "Personalize Your Cookie Preferences"
+msgstr "Personalisieren Sie Ihre Cookie-Einstellungen"
+
+#: cookieadmin/assets/cookie/policies.php:19
+msgid "We use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below. <br />Cookies marked as <b>Necessary</b> are stored in your browser because they are essential for basic site functionality. <b>These cookies do not require your consent under GDPR.</b> <br />We also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience."
+msgstr "Wir verwenden Cookies, um eine reibungslose Navigation zu gewährleisten und wichtige Funktionen der Seite zu ermöglichen. Detaillierte Informationen zu jeder Cookie-Kategorie finden Sie unten. <br />Cookies, die als <b>Notwendig</b> gekennzeichnet sind, werden in Ihrem Browser gespeichert, da sie für grundlegende Funktionen der Seite erforderlich sind. <b>Diese Cookies benötigen keine Zustimmung gemäß DSGVO.</b> <br />Wir verwenden auch Cookies von Drittanbietern, um die Nutzung der Seite zu analysieren, Ihre Präferenzen zu speichern und relevante Inhalte und Werbung bereitzustellen. Diese werden nur mit Ihrer Zustimmung aktiviert. Sie können diese Cookies aktivieren oder deaktivieren, beachten Sie jedoch, dass das Deaktivieren bestimmter Typen Ihre Browser-Erfahrung beeinträchtigen kann."
+
+#: cookieadmin/assets/cookie/policies.php:20
+#: cookieadmin/assets/cookie/policies.php:55
+msgid "Modify Cookie Preferences"
+msgstr "Cookie-Einstellungen ändern"
+
+#: cookieadmin/assets/cookie/policies.php:29
+#: cookieadmin/assets/cookie/policies.php:64
+msgid "Customize"
+msgstr "Anpassen"
+
+#: cookieadmin/assets/cookie/policies.php:32
+#: cookieadmin/assets/cookie/policies.php:67
+msgid "Reject All"
+msgstr "Alle ablehnen"
+
+#: cookieadmin/assets/cookie/policies.php:35
+#: cookieadmin/assets/cookie/policies.php:70
+msgid "Accept All"
+msgstr "Alle akzeptieren"
+
+#: cookieadmin/assets/cookie/policies.php:38
+#: cookieadmin/assets/cookie/policies.php:73
+msgid "Save Preferences"
+msgstr "Einstellungen speichern"
+
+#: cookieadmin/assets/cookie/policies.php:51
+msgid "Your Privacy Matters"
+msgstr "Ihre Privatsphäre ist uns wichtig"
+
+#: cookieadmin/assets/cookie/policies.php:52
+msgid "We use cookies to improve your browsing experience, deliver personalized content and ads, and analyze website traffic. By clicking <b>Accept All</b>, you consent to our use of cookies. You can choose to manage your preferences or opt out of the sale or sharing of your personal information."
+msgstr "Wir verwenden Cookies, um Ihr Surferlebnis zu verbessern, personalisierte Inhalte und Werbung bereitzustellen und den Website-Traffic zu analysieren. Durch Klicken auf <b>Alle akzeptieren</b> stimmen Sie der Verwendung von Cookies zu. Sie können Ihre Einstellungen verwalten oder dem Verkauf oder der Weitergabe Ihrer persönlichen Daten widersprechen."
+
+#: cookieadmin/assets/cookie/policies.php:53
+msgid "Customize Your Cookie Settings"
+msgstr "Passen Sie Ihre Cookie-Einstellungen an"
+
+#: cookieadmin/assets/cookie/policies.php:54
+msgid "We use cookies to support essential site functions and help you navigate efficiently. You can find detailed information about each cookie category below. <br /><b>Necessary</b> cookies are required for core site functionality and are always enabled. These do not require your consent. <br />Other cookies, including third-party cookies, are used to analyze usage, remember preferences, and provide relevant ads and content. These cookies are only used if you choose to enable them. You can adjust your preferences at any time. Disabling certain cookies may impact your browsing experience."
+msgstr "Wir verwenden Cookies, um wichtige Funktionen der Seite zu unterstützen und Ihnen eine effiziente Navigation zu ermöglichen. Detaillierte Informationen zu jeder Cookie-Kategorie finden Sie unten. <br /><b>Notwendige</b> Cookies sind für die Kernfunktionalität der Seite erforderlich und immer aktiviert. Diese benötigen keine Zustimmung. <br />Andere Cookies, einschließlich Cookies von Drittanbietern, werden verwendet, um die Nutzung zu analysieren, Präferenzen zu speichern und relevante Werbung und Inhalte bereitzustellen. Diese Cookies werden nur verwendet, wenn Sie sie aktivieren. Sie können Ihre Einstellungen jederzeit ändern. Das Deaktivieren bestimmter Cookies kann Ihre Browser-Erfahrung beeinträchtigen."
+
+#: cookieadmin/includes/admin.php:60
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+#: cookieadmin/includes/admin.php:61 cookieadmin/includes/enduser.php:43
+msgid "Show less"
+msgstr "Weniger anzeigen"
+
+#: cookieadmin/includes/admin.php:62 cookieadmin/includes/admin/scan.php:45
+msgid "Day(s)"
+msgstr "Tag(e)"
+
+#: cookieadmin/includes/admin.php:86
+msgid "CookieAdmin"
+msgstr "CookieAdmin"
+
+#: cookieadmin/includes/admin.php:88
+#: cookieadmin/includes/admin/dashboard.php:15
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: cookieadmin/includes/admin.php:90 cookieadmin/includes/admin/consent.php:22
+msgid "Consent Form"
+msgstr "Einwilligungsformular"
+
+#: cookieadmin/includes/admin.php:92 cookieadmin/includes/admin/settings.php:19
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: cookieadmin/includes/admin.php:94
+msgid "Scan Cookies"
+msgstr "Cookies scannen"
+
+#: cookieadmin/includes/admin.php:104
+msgid "CookieAdmin Go Pro"
+msgstr "CookieAdmin Go Pro"
+
+#: cookieadmin/includes/admin.php:104
+msgid "Go Pro"
+msgstr "Go Pro"
+
+#: cookieadmin/includes/admin.php:143
+msgid "Share with your followers"
+msgstr "Mit Ihren Followern teilen"
+
+#: cookieadmin/includes/admin.php:145
+msgid "I easily manage Cookie Consent Banner on my #WordPress site using @cookieadmin"
+msgstr "Ich verwalte das Cookie-Einwilligungsbanner auf meiner #WordPress-Seite einfach mit @cookieadmin"
+
+#: cookieadmin/includes/admin.php:155
+msgid " You can report any bugs "
+msgstr " Sie können alle Fehler melden "
+
+#: cookieadmin/includes/admin.php:155
+msgid "here"
+msgstr "hier"
+
+#: cookieadmin/includes/admin.php:187
+#, php-format
+msgid "<br><strong>Cookie Scan is running:</strong> %d Cookies found. Please wait for cookies to appear on <a href=\"%s\">Scan Cookies Page</a>"
+msgstr "<br><strong>Cookie-Scan läuft:</strong> %d Cookies gefunden. Bitte warten Sie, bis die Cookies auf der <a href=\"%s\">Seite Cookies scannen</a> angezeigt werden"
+
+#: cookieadmin/includes/admin.php:192
+#, php-format
+msgid "<br><strong>Cookie Scan completed successfully:</strong> Please visit <a href=\"%s\">Scan Cookies</a> to review scan results."
+msgstr "<br><strong>Cookie-Scan erfolgreich abgeschlossen:</strong> Bitte besuchen Sie <a href=\"%s\">Cookies scannen</a>, um die Scan-Ergebnisse zu überprüfen."
+
+#: cookieadmin/includes/admin.php:196
+#, php-format
+msgid "<br><strong>Cookie Scan failed:</strong> Please <a href=\"%s\">Scan Cookies</a> again for compliance. %s"
+msgstr "<br><strong>Cookie-Scan fehlgeschlagen:</strong> Bitte <a href=\"%s\">Cookies scannen</a> erneut für die Einhaltung. %s"
+
+#: cookieadmin/includes/admin.php:244
+#, php-format
+msgid "<br><strong>Consent logs are being deleted :</strong> %d logs deleted. Please wait for deletion process to complete."
+msgstr "<br><strong>Einwilligungsprotokolle werden gelöscht :</strong> %d Protokolle gelöscht. Bitte warten Sie, bis der Löschvorgang abgeschlossen ist."
+
+#: cookieadmin/includes/admin.php:250
+#, php-format
+msgid "<br><strong>Consent logs deleted successfully:</strong> %d logs deleted."
+msgstr "<br><strong>Einwilligungsprotokolle erfolgreich gelöscht:</strong> %d Protokolle gelöscht."
+
+#: cookieadmin/includes/admin.php:254
+#, php-format
+msgid "<br><strong>Consent logs deletion failed:</strong> %d logs deleted. Error : %s"
+msgstr "<br><strong>Einwilligungsprotokolle löschen fehlgeschlagen:</strong> %d Protokolle gelöscht. Fehler : %s"
+
+#: cookieadmin/includes/admin.php:312
+#, php-format
+msgid "New versions of %1$s %2$s available. Updating ensures better performance, security, and access to the latest features."
+msgstr "Neue Versionen von %1$s %2$s verfügbar. Das Update sorgt für bessere Leistung, Sicherheit und Zugriff auf die neuesten Funktionen."
+
+#: cookieadmin/includes/admin.php:369
+msgid "Pro"
+msgstr "Pro"
+
+#: cookieadmin/includes/admin/consent.php:33
+#: cookieadmin/includes/admin/dashboard.php:28
+msgid "Consent Type"
+msgstr "Einwilligungstyp"
+
+#: cookieadmin/includes/admin/consent.php:36
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "GDPR"
+msgstr "DSGVO"
+
+#: cookieadmin/includes/admin/consent.php:37
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "US State Laws"
+msgstr "US-Bundesstaatengesetze"
+
+#: cookieadmin/includes/admin/consent.php:43
+msgid "Consent Expiry"
+msgstr "Einwilligung Ablauf"
+
+#: cookieadmin/includes/admin/consent.php:50
+msgid "Notice Type"
+msgstr "Hinweistyp"
+
+#: cookieadmin/includes/admin/consent.php:54
+msgid "Box"
+msgstr "Box"
+
+#: cookieadmin/includes/admin/consent.php:58
+msgid "Footer"
+msgstr "Footer"
+
+#: cookieadmin/includes/admin/consent.php:62
+msgid "Popup"
+msgstr "Popup"
+
+#: cookieadmin/includes/admin/consent.php:68
+msgid "Notice Position"
+msgstr "Hinweisposition"
+
+#: cookieadmin/includes/admin/consent.php:72
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: cookieadmin/includes/admin/consent.php:76
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: cookieadmin/includes/admin/consent.php:80
+msgid "Top Left"
+msgstr "Oben links"
+
+#: cookieadmin/includes/admin/consent.php:84
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: cookieadmin/includes/admin/consent.php:88
+msgid "Top"
+msgstr "Oben"
+
+#: cookieadmin/includes/admin/consent.php:92
+msgid "Bottom"
+msgstr "Unten"
+
+#: cookieadmin/includes/admin/consent.php:98
+msgid "Preference Position"
+msgstr "Präferenz Position"
+
+#: cookieadmin/includes/admin/consent.php:102
+msgid "Center"
+msgstr "Zentrum"
+
+#: cookieadmin/includes/admin/consent.php:106
+msgid "Side"
+msgstr "Seite"
+
+#: cookieadmin/includes/admin/consent.php:110
+msgid "Draw down"
+msgstr "Herunterziehen"
+
+#: cookieadmin/includes/admin/consent.php:116
+msgid "Notice Section"
+msgstr "Hinweis Abschnitt"
+
+#: cookieadmin/includes/admin/consent.php:118
+#: cookieadmin/includes/admin/consent.php:124
+#: cookieadmin/includes/admin/consent.php:207
+#: cookieadmin/includes/admin/consent.php:213
+msgid "Title"
+msgstr "Titel"
+
+#: cookieadmin/includes/admin/consent.php:120
+msgid "Notice"
+msgstr "Hinweis"
+
+#: cookieadmin/includes/admin/consent.php:131
+#: cookieadmin/includes/admin/consent.php:220
+msgid "Content"
+msgstr "Inhalt"
+
+#: cookieadmin/includes/admin/consent.php:138
+#: cookieadmin/includes/admin/consent.php:227
+msgid "Background"
+msgstr "Hintergrund"
+
+#: cookieadmin/includes/admin/consent.php:145
+#: cookieadmin/includes/admin/consent.php:234
+msgid "Border"
+msgstr "Rahmen"
+
+#: cookieadmin/includes/admin/consent.php:156
+msgid "Buttons"
+msgstr "Knöpfe"
+
+#: cookieadmin/includes/admin/consent.php:205
+msgid "Preference Section"
+msgstr "Präferenz Abschnitt"
+
+#: cookieadmin/includes/admin/consent.php:209
+msgid "Privacy Notice"
+msgstr "Datenschutzhinweis"
+
+#: cookieadmin/includes/admin/consent.php:244
+msgid "Links"
+msgstr "Links"
+
+#: cookieadmin/includes/admin/consent.php:251
+msgid "Button Switch On"
+msgstr "Schalter Ein"
+
+#: cookieadmin/includes/admin/consent.php:258
+msgid "Button Switch Off"
+msgstr "Schalter Aus"
+
+#: cookieadmin/includes/admin/consent.php:270
+#: cookieadmin/includes/admin/settings.php:126
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: cookieadmin/includes/admin/consent.php:271
+msgid "Show Preview"
+msgstr "Vorschau anzeigen"
+
+#: cookieadmin/includes/admin/consent.php:295
+#: cookieadmin/includes/admin/settings.php:151
+msgid "Sorry, but you do not have permissions to perform this action"
+msgstr "Entschuldigung, aber Sie haben keine Berechtigung, diese Aktion auszuführen"
+
+#: cookieadmin/includes/admin/consent.php:382
+#: cookieadmin/includes/admin/settings.php:188
+msgid "Settings saved successfully"
+msgstr "Einstellungen erfolgreich gespeichert"
+
+#: cookieadmin/includes/admin/dashboard.php:23
+msgid "Consent Banner"
+msgstr "Einwilligungsbanner"
+
+#: cookieadmin/includes/admin/dashboard.php:24
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: cookieadmin/includes/admin/dashboard.php:29
+#: cookieadmin/includes/admin/dashboard.php:36
+#: cookieadmin/includes/admin/dashboard.php:43
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: cookieadmin/includes/admin/dashboard.php:35
+#: cookieadmin/includes/admin/settings.php:62
+msgid "Google Consent Mode v2"
+msgstr "Google Consent Mode v2"
+
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: cookieadmin/includes/admin/dashboard.php:42
+msgid "Auto Scan"
+msgstr "Automatischer Scan"
+
+#: cookieadmin/includes/admin/scan.php:14
+msgid "Manage Cookies"
+msgstr "Cookies verwalten"
+
+#: cookieadmin/includes/admin/scan.php:74
+#: cookieadmin/includes/admin/scan.php:75
+msgid "No Cookies Found!"
+msgstr "Keine Cookies gefunden!"
+
+#: cookieadmin/includes/admin/scan.php:84
+msgid "Scanned Cookies"
+msgstr "Gescannt Cookies"
+
+#: cookieadmin/includes/admin/scan.php:85
+msgid "Scanned cookies will be automatically categorised and displayed here. You can add, edit and delete cookies as per your needs."
+msgstr "Gescannt Cookies werden automatisch kategorisiert und hier angezeigt. Sie können Cookies nach Bedarf hinzufügen, bearbeiten und löschen."
+
+#: cookieadmin/includes/admin/scan.php:89
+msgid "Add Cookie"
+msgstr "Cookie hinzufügen"
+
+#: cookieadmin/includes/admin/scan.php:92
+msgid "Basic scan might miss some cookies."
+msgstr "Basis-Scan könnte einige Cookies übersehen."
+
+#: cookieadmin/includes/admin/scan.php:94
+msgid "Scan"
+msgstr "Scannen"
+
+#: cookieadmin/includes/admin/scan.php:95
+msgid "Full Scan"
+msgstr "Vollständiger Scan"
+
+#: cookieadmin/includes/admin/scan.php:106
+msgid "Action"
+msgstr "Aktion"
+
+#: cookieadmin/includes/admin/scan.php:110
+#: cookieadmin/includes/functions.php:220
+msgid "Necessary Cookies"
+msgstr "Notwendige Cookies"
+
+#: cookieadmin/includes/admin/scan.php:114
+#: cookieadmin/includes/functions.php:222
+msgid "Functional Cookies"
+msgstr "Funktionale Cookies"
+
+#: cookieadmin/includes/admin/scan.php:118
+#: cookieadmin/includes/functions.php:224
+msgid "Analytical Cookies"
+msgstr "Analytische Cookies"
+
+#: cookieadmin/includes/admin/scan.php:122
+msgid "Marketing Cookies"
+msgstr "Marketing Cookies"
+
+#: cookieadmin/includes/admin/scan.php:126
+msgid "Unknown Cookies"
+msgstr "Unbekannte Cookies"
+
+#: cookieadmin/includes/admin/scan.php:149
+msgid "Edit Cookie"
+msgstr "Cookie bearbeiten"
+
+#: cookieadmin/includes/admin/scan.php:155
+msgid "Category"
+msgstr "Kategorie"
+
+#: cookieadmin/includes/admin/scan.php:157
+msgid "Select a category"
+msgstr "Kategorie auswählen"
+
+#: cookieadmin/includes/admin/scan.php:158
+#: cookieadmin/includes/admin/settings.php:35
+msgid "Necessary"
+msgstr "Notwendig"
+
+#: cookieadmin/includes/admin/scan.php:159
+#: cookieadmin/includes/admin/settings.php:38
+msgid "Functional"
+msgstr "Funktional"
+
+#: cookieadmin/includes/admin/scan.php:160
+#: cookieadmin/includes/admin/settings.php:41
+msgid "Analytical"
+msgstr "Analytisch"
+
+#: cookieadmin/includes/admin/scan.php:161
+msgid "Marketing"
+msgstr "Marketing"
+
+#: cookieadmin/includes/admin/scan.php:162
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: cookieadmin/includes/admin/scan.php:167
+msgid "Cookie Name/ID"
+msgstr "Cookie Name/ID"
+
+#: cookieadmin/includes/admin/scan.php:168
+msgid "Enter Cookie Name or id"
+msgstr "Cookie Name oder ID eingeben"
+
+#: cookieadmin/includes/admin/scan.php:173
+msgid "Enter Cookie description here"
+msgstr "Cookie Beschreibung hier eingeben"
+
+#: cookieadmin/includes/admin/scan.php:177 cookieadmin/includes/enduser.php:44
+msgid "Duration"
+msgstr "Dauer"
+
+#: cookieadmin/includes/admin/scan.php:178
+msgid "Set 0 for Session or expiry in days"
+msgstr "Setze 0 für Session oder Ablauf in Tagen"
+
+#: cookieadmin/includes/admin/scan.php:183
+msgid "Save"
+msgstr "Speichern"
+
+#: cookieadmin/includes/admin/scan.php:264
+msgid "Cookie Scan can be triggered once an hour"
+msgstr "Cookie Scan kann einmal pro Stunde ausgelöst werden"
+
+#: cookieadmin/includes/admin/scan.php:341
+msgid "No Cookies Found"
+msgstr "Keine Cookies gefunden"
+
+#: cookieadmin/includes/admin/scan.php:477
+msgid "No new cookies Found!"
+msgstr "Keine neuen Cookies gefunden!"
+
+#: cookieadmin/includes/admin/scan.php:513
+msgid "Cookie updation Failed, Error: "
+msgstr "Cookie Aktualisierung fehlgeschlagen, Fehler: "
+
+#: cookieadmin/includes/admin/scan.php:518
+msgid "Cookie updation successful"
+msgstr "Cookie Aktualisierung erfolgreich"
+
+#: cookieadmin/includes/admin/scan.php:530
+msgid "Error : Cookie Id missing"
+msgstr "Fehler : Cookie Id fehlt"
+
+#: cookieadmin/includes/admin/scan.php:541
+msgid "Cookie deletion Failed, Error: "
+msgstr "Cookie Löschung fehlgeschlagen, Fehler: "
+
+#: cookieadmin/includes/admin/scan.php:545
+msgid "Cookie deletion successful"
+msgstr "Cookie Löschung erfolgreich"
+
+#: cookieadmin/includes/admin/settings.php:29
+msgid "Load Cookies prior to consent"
+msgstr "Cookies vor Einwilligung laden"
+
+#: cookieadmin/includes/admin/settings.php:30
+msgid "Selected category of cookies will be loaded before user consent."
+msgstr "Ausgewählte Cookie-Kategorien werden vor der Nutzer-Einwilligung geladen."
+
+#: cookieadmin/includes/admin/settings.php:44
+msgid "Advertisement"
+msgstr "Werbung"
+
+#: cookieadmin/includes/admin/settings.php:46
+msgid "Loading cookies prior to receiving user consent will make your website non-compliant with GDPR."
+msgstr "Cookies vor Erhalt der Nutzer-Einwilligung zu laden, macht Ihre Webseite nicht GDPR-konform."
+
+#: cookieadmin/includes/admin/settings.php:49
+msgid "Reload page on consent"
+msgstr "Seite bei Einwilligung neu laden"
+
+#: cookieadmin/includes/admin/settings.php:50
+msgid "Page will be loaded on user consent."
+msgstr "Seite wird bei Nutzer-Einwilligung geladen."
+
+#: cookieadmin/includes/admin/settings.php:63
+msgid "Enable Google consent mode v2."
+msgstr "Google Consent Mode v2 aktivieren."
+
+#: cookieadmin/includes/admin/settings.php:74
+msgid "Hide Powered by Link"
+msgstr "Powered by Link ausblenden"
+
+#: cookieadmin/includes/admin/settings.php:75
+msgid "Hide powered by CookieAdmin on banner."
+msgstr "Powered by CookieAdmin im Banner ausblenden."
+
+#: cookieadmin/includes/admin/settings.php:86
+msgid "Hide Re-consent Icon"
+msgstr "Re-Einwilligungs-Icon ausblenden"
+
+#: cookieadmin/includes/admin/settings.php:87
+msgid "Hide reconsent icon after user consent."
+msgstr "Re-Einwilligungs-Icon nach Nutzer-Einwilligung ausblenden."
+
+#: cookieadmin/includes/admin/settings.php:98
+msgid "Auto Cookies Scan"
+msgstr "Automatischer Cookie-Scan"
+
+#: cookieadmin/includes/admin/settings.php:99
+msgid "Monthly auto scan will detect cookies."
+msgstr "Monatlicher automatischer Scan erkennt Cookies."
+
+#: cookieadmin/includes/admin/settings.php:110
+msgid "Consent Log Cleanup"
+msgstr "Einwilligungsprotokoll Bereinigung"
+
+#: cookieadmin/includes/admin/settings.php:111
+msgid "Daily auto delete consent logs older than the set limit."
+msgstr "Tägliches automatisches Löschen von Einwilligungsprotokollen, die älter als das festgelegte Limit sind."
+
+#: cookieadmin/includes/admin/settings.php:118
+msgid "Keep consent logs for these many days"
+msgstr "Einwilligungsprotokolle für diese Anzahl Tage aufbewahren"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete consent logs older than the set limit (runs once)"
+msgstr "Einwilligungsprotokolle löschen, die älter als das festgelegte Limit sind (läuft einmal)"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete Now"
+msgstr "Jetzt löschen"
+
+#: cookieadmin/includes/enduser.php:46
+msgid "Days"
+msgstr "Tage"
+
+#: cookieadmin/includes/functions.php:214
+msgid "Powered by"
+msgstr "Powered by"
+
+#: cookieadmin/includes/functions.php:215
+msgid "Re-consent"
+msgstr "Re-Einwilligung"
+
+#: cookieadmin/includes/functions.php:216
+msgid "Cookie Preferences"
+msgstr "Cookie-Einstellungen"
+
+#: cookieadmin/includes/functions.php:217
+msgid "Always Active"
+msgstr "Immer aktiv"
+
+#: cookieadmin/includes/functions.php:218
+msgid "Remark"
+msgstr "Bemerkung"
+
+#: cookieadmin/includes/functions.php:219
+msgid "None"
+msgstr "Keine"
+
+#: cookieadmin/includes/functions.php:221
+msgid "Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data."
+msgstr "Notwendige Cookies ermöglichen essentielle Webseiten-Funktionen wie sichere Logins und Anpassungen der Einwilligungspräferenzen. Sie speichern keine persönlichen Daten."
+
+#: cookieadmin/includes/functions.php:223
+msgid "Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools."
+msgstr "Funktionale Cookies unterstützen Funktionen wie das Teilen von Inhalten in sozialen Medien, das Sammeln von Feedback und die Nutzung von Drittanbieter-Tools."
+
+#: cookieadmin/includes/functions.php:225
+msgid "Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources."
+msgstr "Analytische Cookies verfolgen Besucherinteraktionen und liefern Einblicke in Metriken wie Besucherzahl, Absprungrate und Verkehrsquellen."
+
+#: cookieadmin/includes/functions.php:226
+msgid "Advertisement Cookies"
+msgstr "Werbe-Cookies"
+
+#: cookieadmin/includes/functions.php:227
+msgid "Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns."
+msgstr "Werbe-Cookies liefern personalisierte Werbung basierend auf Ihren vorherigen Besuchen und analysieren die Effektivität von Werbekampagnen."
+
+#: cookieadmin/includes/functions.php:228
+msgid "Unclassified Cookies"
+msgstr "Unklassifizierte Cookies"
+
+#: cookieadmin/includes/functions.php:229
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Unklassifizierte Cookies sind Cookies, die wir zusammen mit den Anbietern einzelner Cookies noch klassifizieren."

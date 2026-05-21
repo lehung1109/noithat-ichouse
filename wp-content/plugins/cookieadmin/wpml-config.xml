@@ -1,0 +1,26 @@
+<wpml-config>
+    <admin-texts>
+        <key name="cookieadmin_consent_settings">
+            <key name="cookieadmin_gdpr">
+                <key name="cookieadmin_notice_title" />
+                <key name="cookieadmin_notice" />
+                <key name="cookieadmin_preference_title" />
+                <key name="cookieadmin_preference" />
+                <key name="cookieadmin_customize_btn" />
+                <key name="cookieadmin_reject_btn" />
+                <key name="cookieadmin_accept_btn" />
+                <key name="cookieadmin_save_btn" />
+            </key>
+            <key name="cookieadmin_us">
+                <key name="cookieadmin_notice_title" />
+                <key name="cookieadmin_notice" />
+                <key name="cookieadmin_preference_title" />
+                <key name="cookieadmin_preference" />
+                <key name="cookieadmin_customize_btn" />
+                <key name="cookieadmin_reject_btn" />
+                <key name="cookieadmin_accept_btn" />
+                <key name="cookieadmin_save_btn" />
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>

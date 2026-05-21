@@ -1,0 +1,199 @@
+/*license css**/ 
+.formlayer-license-tab {
+padding: 20px 0;
+}
+
+.formlayer-license-card {
+background: #ffffff;
+border-radius: 12px;
+border: 1px solid #e2e8f0;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+overflow: hidden;
+max-width: 850px;
+margin: 0 auto;
+margin-top: 50px;
+}
+
+.formlayer-license-row {
+display: flex;
+padding: 16px 24px;
+border-bottom: 1px solid #f1f5f9;
+align-items: center;
+}
+
+.formlayer-license-row:last-child {
+border-bottom: none;
+}
+
+.formlayer-license-label {
+flex: 0 0 250px;
+font-weight: 700;
+color: #1e293b;
+font-size: 14px;
+}
+
+.formlayer-license-value {
+flex: 1;
+color: #64748b;
+font-size: 14px;
+display: flex;
+align-items: center;
+}
+
+.formlayer-license-value.mono {
+font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+font-size: 13px;
+letter-spacing: 0.3px;
+}
+
+/* Badge for Unlicensed */
+.formlayer-license-badge {
+display: inline-flex;
+align-items: center;
+padding: 6px 14px;
+background: #fff1f2;
+color: #e11d48;
+border-radius: 8px;
+font-size: 13px;
+font-weight: 600;
+border: 1px solid #ffe4e6;
+margin-right: 15px;
+}
+
+/* License Input Field */
+.formlayer-license-input-wrapper {
+display: flex;
+flex-direction: column;
+gap: 15px;
+}
+
+.formlayer-license-input-row {
+display: flex;
+align-items: center;
+}
+
+.formlayer-license-input {
+background: #ffffff;
+border: 1px solid #e2e8f0;
+border-radius: 8px;
+padding: 10px 16px;
+width: 380px;
+font-size: 14px;
+color: #475569;
+transition: all 0.2s;
+}
+
+.formlayer-license-input:focus {
+border-color: #5525d9;
+outline: none;
+box-shadow: 0 0 0 3px rgba(85, 37, 217, 0.1);
+}
+
+/* Update Button */
+.formlayer-license-btn {
+background: #5525d9;
+color: white;
+border: none;
+padding: 10px 24px;
+border-radius: 8px;
+font-size: 14px;
+font-weight: 600;
+cursor: pointer;
+transition: all 0.2s;
+width: fit-content;
+}
+
+.formlayer-license-btn:hover {
+background: #441eb5;
+}
+
+
+.formlayer-license-buttons{
+display: flex;
+gap: 10px;
+margin-top: 10px;
+}
+
+.formlayer-license-btn-delete{
+background-color: white;
+color: #441eb5;
+border-color: white;
+}
+
+.formlayer-license-btn-delete:hover{
+background-color: #441eb5;
+border-color: #441eb5;
+color: white;
+}
+
+/* Success status text (.htaccess, etc.) */
+.formlayer-text-success {
+color: #16a34a;
+font-weight: 700;
+}
+
+.formlayer-text-danger {
+color: #ef4444;
+font-weight: 700;
+}
+
+.formlayer-license-notice {
+max-width: 850px;
+margin: 20px auto 0;
+padding: 14px 18px;
+border-radius: 12px;
+font-size: 14px;
+line-height: 1.6;
+box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+}
+
+.formlayer-license-notice-success {
+background: #f0fdf4;
+color: #115e59;
+border: 1px solid #86efac;
+}
+
+.formlayer-license-notice-error {
+background: #fef2f2;
+color: #b91c1c;
+border: 1px solid #fecaca;
+}
+
+/* Info container for status/expiry */
+.formlayer-license-info {
+margin-top: 12px;
+font-size: 13px;
+color: #94a3b8;
+display: flex;
+gap: 20px;
+}
+
+.formlayer-license-info span b {
+color: #475569;
+}
+
+/* Integrations UI */
+.formlayer-configure-int {
+width: 100%;
+justify-content: center;
+display: flex;
+}
+
+#int-settings-fields .formlayer-setting-row {
+border-bottom: 1px solid #f1f5f9;
+padding: 15px 0;
+}
+
+#int-settings-fields .formlayer-setting-row:last-child {
+border-bottom: none;
+}
+
+#int-settings-fields label {
+font-size: 14px;
+font-weight: 600;
+color: #334155;
+}
+
+#int-settings-fields .formlayer-input {
+margin-top: 5px;
+}

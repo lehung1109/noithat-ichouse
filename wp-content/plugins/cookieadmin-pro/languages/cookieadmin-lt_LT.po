@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-02-09 17:03+0530\n"
+"PO-Revision-Date: 2026-02-13 13:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: cookieadmin\n"
+"X-Poedit-SearchPath-1: cookieadmin-pro\n"
+
+#: cookieadmin-pro/includes/admin.php:57 cookieadmin/includes/admin.php:97
+msgid "Consent Logs"
+msgstr "Sutikimo žurnalai"
+
+#: cookieadmin-pro/includes/admin.php:75
+msgid "Export CSV"
+msgstr "Eksportuoti CSV"
+
+#: cookieadmin-pro/includes/admin.php:82
+msgid "Consent Id"
+msgstr "Sutikimo ID"
+
+#: cookieadmin-pro/includes/admin.php:83
+msgid "Status"
+msgstr "Būsena"
+
+#: cookieadmin-pro/includes/admin.php:84
+msgid "Country"
+msgstr "Šalis"
+
+#: cookieadmin-pro/includes/admin.php:85
+msgid "User IP (Anonymized)"
+msgstr "Vartotojo IP (anonimizuotas)"
+
+#: cookieadmin-pro/includes/admin.php:86
+msgid "Time"
+msgstr "Laikas"
+
+#: cookieadmin-pro/includes/admin.php:113
+msgid "No consent logs recorded yet!"
+msgstr "Dar nėra įrašytų sutikimo žurnalų!"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "Displaying"
+msgstr "Rodoma"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "of"
+msgstr "iš"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "item(s)"
+msgstr "prekė(s)"
+
+#: cookieadmin-pro/includes/admin.php:235
+#: cookieadmin-pro/includes/admin.php:322
+msgid "Accepted"
+msgstr "Priimta"
+
+#: cookieadmin-pro/includes/admin.php:238
+#: cookieadmin-pro/includes/admin.php:324
+msgid "Rejected"
+msgstr "Atmesta"
+
+#: cookieadmin-pro/includes/admin.php:241
+#: cookieadmin-pro/includes/admin.php:326
+msgid "Partially Accepted"
+msgstr "Iš dalies priimta"
+
+#: cookieadmin-pro/includes/admin.php:293
+msgid "Table does not exists"
+msgstr "Lentelė neegzistuoja"
+
+#: cookieadmin-pro/includes/admin.php:304
+msgid "No data to export"
+msgstr "Nėra duomenų eksportui"
+
+#: cookieadmin-pro/includes/admin.php:362
+msgid "Unknow version difference type"
+msgstr "Nežinomas versijų skirtumo tipas"
+
+#: cookieadmin-pro/includes/admin.php:386
+#: cookieadmin/includes/admin/scan.php:492
+msgid "Error : Cookie details missing"
+msgstr "Klaida : trūksta slapuko duomenų"
+
+#: cookieadmin-pro/includes/admin.php:420
+msgid "Cookie addition Failed, Error: "
+msgstr "Nepavyko pridėti slapuko, klaida: "
+
+#: cookieadmin-pro/includes/admin.php:427
+msgid "Cookie addition successful"
+msgstr "Slapuko pridėjimas sėkmingas"
+
+#: cookieadmin-pro/includes/admin.php:438
+msgid "Deletion is already running in the background. You will be notified on completion."
+msgstr "Ištrynimas jau vyksta fone. Būsite informuoti baigus."
+
+#: cookieadmin-pro/includes/admin.php:448
+msgid "Please set a valid logs expiry day(s) limit to start deleting."
+msgstr "Nustatykite galiojančią žurnalų galiojimo dienų ribą, kad pradėtumėte trynimą."
+
+#: cookieadmin-pro/includes/admin.php:460
+msgid "Deletion has started in the background. You will be notified on completion."
+msgstr "Ištrynimas pradėtas fone. Būsite informuoti baigus."
+
+#: cookieadmin-pro/includes/functions.php:239
+msgid "Install CookieAdmin Pro License Key"
+msgstr "Įdiekite CookieAdmin Pro licencijos raktą"
+
+#: cookieadmin-pro/includes/functions.php:417
+#, php-format
+msgid "Your SoftWP license has %1$sexpired%2$s. Please renew it to continue receiving uninterrupted updates and support for %3$s."
+msgstr "Jūsų SoftWP licencija %1$spasibaigė%2$s. Prašome ją atnaujinti, kad toliau gautumėte nepertraukiamus atnaujinimus ir palaikymą %3$s."
+
+#: cookieadmin-pro/includes/functions.php:497
+#: cookieadmin/includes/admin/scan.php:103
+msgid "Name"
+msgstr "Pavadinimas"
+
+#: cookieadmin-pro/includes/functions.php:498
+#: cookieadmin/includes/admin/scan.php:104
+#: cookieadmin/includes/admin/scan.php:172
+msgid "Description"
+msgstr "Aprašymas"
+
+#: cookieadmin-pro/includes/functions.php:499
+#: cookieadmin/includes/admin/scan.php:105
+msgid "Expiry"
+msgstr "Galiojimo laikas"
+
+#: cookieadmin-pro/includes/functions.php:513
+msgid "days"
+msgstr "dienos"
+
+#: cookieadmin-pro/includes/functions.php:513 cookieadmin/includes/admin.php:63
+#: cookieadmin/includes/admin/scan.php:43 cookieadmin/includes/enduser.php:45
+msgid "Session"
+msgstr "Seansas"
+
+#: cookieadmin-pro/includes/functions.php:518
+msgid "Not Available"
+msgstr "Nėra"
+
+#: cookieadmin-pro/includes/license.php:21
+msgid "Security Check Failed"
+msgstr "Saugumo patikra nepavyko"
+
+#: cookieadmin-pro/includes/license.php:28
+msgid "The license key was not submitted"
+msgstr "Licencijos raktas nebuvo pateiktas"
+
+#: cookieadmin-pro/includes/license.php:35
+msgid "The response was malformed"
+msgstr "Atsakymas buvo netinkamas"
+
+#: cookieadmin-pro/includes/license.php:42
+msgid "The license key is invalid"
+msgstr "Licencijos raktas neteisingas"
+
+#: cookieadmin-pro/includes/license.php:46
+msgid "Successfully updated the license key"
+msgstr "Licencijos raktas sėkmingai atnaujintas"
+
+#: cookieadmin-pro/includes/license.php:58 cookieadmin/includes/admin.php:100
+msgid "License"
+msgstr "Licencija"
+
+#: cookieadmin-pro/includes/license.php:64
+msgid "CookieAdmin Version"
+msgstr "CookieAdmin versija"
+
+#: cookieadmin-pro/includes/license.php:66
+msgid "Pro Version"
+msgstr "Pro versija"
+
+#: cookieadmin-pro/includes/license.php:71
+msgid "CookieAdmin License"
+msgstr "CookieAdmin licencija"
+
+#: cookieadmin-pro/includes/license.php:74
+msgid "Unlicensed"
+msgstr "Be licencijos"
+
+#: cookieadmin-pro/includes/license.php:77
+msgid "Update License"
+msgstr "Atnaujinti licenciją"
+
+#: cookieadmin-pro/includes/license.php:84
+msgid "License Status"
+msgstr "Licencijos būsena"
+
+#: cookieadmin-pro/includes/license.php:85
+msgid "License Expires"
+msgstr "Licencija baigiasi"
+
+#: cookieadmin-pro/includes/license.php:100
+msgid "Server's IP Address"
+msgstr "Serverio IP adresas"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:776
+msgid "Check for updates"
+msgstr "Tikrinti atnaujinimus"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:821
+msgid "This plugin is up to date."
+msgstr "Šis įskiepis yra atnaujintas."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:823
+msgid "A new version of this plugin is available."
+msgstr "Yra nauja šio įskiepio versija."
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:825
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Nežinoma atnaujinimo tikrintuvo būsena \\\"%s\\\""
+
+#: cookieadmin-pro/includes/scanner.php:42
+msgid "Network error:  "
+msgstr "Tinklo klaida:  "
+
+#: cookieadmin-pro/includes/scanner.php:54
+msgid "Status Code: "
+msgstr "Būsenos kodas: "
+
+#: cookieadmin-pro/includes/scanner.php:60
+msgid "The scanner server returned an unreadable response."
+msgstr "Skenavimo serveris grąžino neįskaitomą atsakymą."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:122
+msgid "You have not installed the free version of CookieAdmin. CookieAdmin Pro depends on the free version, so you must install it first in order to use CookieAdmin Pro."
+msgstr "Jūs neįdiegėte nemokamos CookieAdmin versijos. CookieAdmin Pro priklauso nuo nemokamos versijos, todėl pirmiausia turite ją įdiegti, kad galėtumėte naudoti CookieAdmin Pro."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:136
+msgid "CookieAdmin Pro depends on the free version of CookieAdmin, so you need to install / update the free version first."
+msgstr "CookieAdmin Pro priklauso nuo nemokamos CookieAdmin versijos, todėl pirmiausia turite įdiegti / atnaujinti nemokamą versiją."
+
+#: cookieadmin-pro/includes/short-cirtuit.php:137
+msgid "Install/Update Now"
+msgstr "Įdiegti / atnaujinti dabar"
+
+#: cookieadmin-pro/init.php:179
+msgid "You are using an older version of CookieAdmin Pro. We recommend updating to the latest version to ensure seamless and uninterrupted use of the application."
+msgstr "Jūs naudojate senesnę CookieAdmin Pro versiją. Rekomenduojame atnaujinti į naujausią versiją, kad užtikrintumėte sklandų ir nepertraukiamą programos naudojimą."
+
+#: cookieadmin-pro/init.php:185
+msgid "You are using an older version of CookieAdmin. We recommend updating to the latest free version to ensure smooth and uninterrupted use of the application."
+msgstr "Jūs naudojate senesnę CookieAdmin versiją. Rekomenduojame atnaujinti į naujausią nemokamą versiją, kad užtikrintumėte sklandų ir nepertraukiamą programos naudojimą."
+
+#: cookieadmin/assets/cookie/policies.php:16
+msgid "We respect your privacy"
+msgstr "Gerbiame jūsų privatumą"
+
+#: cookieadmin/assets/cookie/policies.php:17
+msgid "Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking <b>Customize</b>. Click <b>Accept All</b> to consent or <b>Reject All</b> to decline non-essential cookies."
+msgstr "Slapukai padeda mums pagerinti jūsų patirtį, pateikti suasmenintą turinį ir analizuoti srautą. Galite pasirinkti, kuriuos slapukus leisti, spustelėdami <b>Priderinti</b>. Spustelėkite <b>Priimti visus</b>, kad sutikti, arba <b>Atmesti visus</b>, kad atsisakyti nebūtinų slapukų."
+
+#: cookieadmin/assets/cookie/policies.php:18
+msgid "Personalize Your Cookie Preferences"
+msgstr "Personalizuokite savo slapukų nustatymus"
+
+#: cookieadmin/assets/cookie/policies.php:19
+msgid "We use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below. <br />Cookies marked as <b>Necessary</b> are stored in your browser because they are essential for basic site functionality. <b>These cookies do not require your consent under GDPR.</b> <br />We also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience."
+msgstr "Naudojame slapukus, kad užtikrintume sklandžią navigaciją ir leistume pagrindines svetainės funkcijas. Žemiau galite peržiūrėti išsamią informaciją apie kiekvieną slapukų kategoriją. <br />Slapukai, pažymėti kaip <b>Būtini</b>, saugomi jūsų naršyklėje, nes yra būtini pagrindinėms svetainės funkcijoms. <b>Šiems slapukams jūsų sutikimas pagal GDPR nereikalingas.</b> <br />Taip pat naudojame trečiųjų šalių slapukus, kad analizuotume svetainės naudojimą, prisimintume jūsų nustatymus ir pateiktume aktualų turinį bei reklamas. Šie slapukai bus aktyvuoti tik su jūsų sutikimu. Galite įjungti arba išjungti šiuos slapukus, tačiau atkreipkite dėmesį, kad kai kurių tipų išjungimas gali paveikti naršymo patirtį."
+
+#: cookieadmin/assets/cookie/policies.php:20
+#: cookieadmin/assets/cookie/policies.php:55
+msgid "Modify Cookie Preferences"
+msgstr "Keisti slapukų nustatymus"
+
+#: cookieadmin/assets/cookie/policies.php:29
+#: cookieadmin/assets/cookie/policies.php:64
+msgid "Customize"
+msgstr "Priderinti"
+
+#: cookieadmin/assets/cookie/policies.php:32
+#: cookieadmin/assets/cookie/policies.php:67
+msgid "Reject All"
+msgstr "Atmesti visus"
+
+#: cookieadmin/assets/cookie/policies.php:35
+#: cookieadmin/assets/cookie/policies.php:70
+msgid "Accept All"
+msgstr "Priimti visus"
+
+#: cookieadmin/assets/cookie/policies.php:38
+#: cookieadmin/assets/cookie/policies.php:73
+msgid "Save Preferences"
+msgstr "Išsaugoti nustatymus"
+
+#: cookieadmin/assets/cookie/policies.php:51
+msgid "Your Privacy Matters"
+msgstr "Jūsų privatumas svarbus"
+
+#: cookieadmin/assets/cookie/policies.php:52
+msgid "We use cookies to improve your browsing experience, deliver personalized content and ads, and analyze website traffic. By clicking <b>Accept All</b>, you consent to our use of cookies. You can choose to manage your preferences or opt out of the sale or sharing of your personal information."
+msgstr "Naudojame slapukus, kad pagerintume jūsų naršymo patirtį, pateiktume suasmenintą turinį ir reklamas bei analizuotume svetainės srautą. Spustelėdami <b>Priimti visus</b>, sutinkate su mūsų slapukų naudojimu. Galite valdyti savo nustatymus arba atsisakyti savo asmeninės informacijos pardavimo ar dalijimosi."
+
+#: cookieadmin/assets/cookie/policies.php:53
+msgid "Customize Your Cookie Settings"
+msgstr "Priderinkite savo slapukų nustatymus"
+
+#: cookieadmin/assets/cookie/policies.php:54
+msgid "We use cookies to support essential site functions and help you navigate efficiently. You can find detailed information about each cookie category below. <br /><b>Necessary</b> cookies are required for core site functionality and are always enabled. These do not require your consent. <br />Other cookies, including third-party cookies, are used to analyze usage, remember preferences, and provide relevant ads and content. These cookies are only used if you choose to enable them. You can adjust your preferences at any time. Disabling certain cookies may impact your browsing experience."
+msgstr "Naudojame slapukus, kad palaikytume pagrindines svetainės funkcijas ir padėtume efektyviai naršyti. Žemiau rasite išsamią informaciją apie kiekvieną slapukų kategoriją. <br /><b>Būtini</b> slapukai reikalingi pagrindinėms svetainės funkcijoms ir visada įjungti. Jiems jūsų sutikimas nereikalingas. <br />Kiti slapukai, įskaitant trečiųjų šalių slapukus, naudojami naudojimo analizei, nustatymų prisiminimui ir aktualių reklamų bei turinio pateikimui. Šie slapukai naudojami tik jei pasirinksite juos įjungti. Savo nustatymus galite keisti bet kada. Kai kurių slapukų išjungimas gali paveikti naršymo patirtį."
+
+#: cookieadmin/includes/admin.php:60
+msgid "Show more"
+msgstr "Rodyti daugiau"
+
+#: cookieadmin/includes/admin.php:61 cookieadmin/includes/enduser.php:43
+msgid "Show less"
+msgstr "Rodyti mažiau"
+
+#: cookieadmin/includes/admin.php:62 cookieadmin/includes/admin/scan.php:45
+msgid "Day(s)"
+msgstr "Diena(s)"
+
+#: cookieadmin/includes/admin.php:86
+msgid "CookieAdmin"
+msgstr "CookieAdmin"
+
+#: cookieadmin/includes/admin.php:88
+#: cookieadmin/includes/admin/dashboard.php:15
+msgid "Dashboard"
+msgstr "Prietaisų skydelis"
+
+#: cookieadmin/includes/admin.php:90 cookieadmin/includes/admin/consent.php:22
+msgid "Consent Form"
+msgstr "Sutikimo forma"
+
+#: cookieadmin/includes/admin.php:92 cookieadmin/includes/admin/settings.php:19
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: cookieadmin/includes/admin.php:94
+msgid "Scan Cookies"
+msgstr "Skenuoti slapukus"
+
+#: cookieadmin/includes/admin.php:104
+msgid "CookieAdmin Go Pro"
+msgstr "CookieAdmin Go Pro"
+
+#: cookieadmin/includes/admin.php:104
+msgid "Go Pro"
+msgstr "Eiti Pro"
+
+#: cookieadmin/includes/admin.php:143
+msgid "Share with your followers"
+msgstr "Dalintis su savo sekėjais"
+
+#: cookieadmin/includes/admin.php:145
+msgid "I easily manage Cookie Consent Banner on my #WordPress site using @cookieadmin"
+msgstr "Lengvai valdau slapukų sutikimo juostą savo #WordPress svetainėje naudodamas @cookieadmin"
+
+#: cookieadmin/includes/admin.php:155
+msgid " You can report any bugs "
+msgstr " Galite pranešti apie bet kokias klaidas "
+
+#: cookieadmin/includes/admin.php:155
+msgid "here"
+msgstr "čia"
+
+#: cookieadmin/includes/admin.php:187
+#, php-format
+msgid "<br><strong>Cookie Scan is running:</strong> %d Cookies found. Please wait for cookies to appear on <a href=\"%s\">Scan Cookies Page</a>"
+msgstr "<br><strong>Slapukų skenavimas vyksta:</strong> rasta %d slapukų. Palaukite, kol slapukai pasirodys <a href=\\\"%s\\\">Slapukų skenavimo puslapyje</a>"
+
+#: cookieadmin/includes/admin.php:192
+#, php-format
+msgid "<br><strong>Cookie Scan completed successfully:</strong> Please visit <a href=\"%s\">Scan Cookies</a> to review scan results."
+msgstr "<br><strong>Slapukų skenavimas sėkmingai baigtas:</strong> apsilankykite <a href=\\\"%s\\\">Slapukų skenavimas</a>, kad peržiūrėtumėte rezultatus."
+
+#: cookieadmin/includes/admin.php:196
+#, php-format
+msgid "<br><strong>Cookie Scan failed:</strong> Please <a href=\"%s\">Scan Cookies</a> again for compliance. %s"
+msgstr "<br><strong>Slapukų skenavimas nepavyko:</strong> prašome dar kartą <a href=\\\"%s\\\">Skenuoti slapukus</a> dėl atitikties. %s"
+
+#: cookieadmin/includes/admin.php:244
+#, php-format
+msgid "<br><strong>Consent logs are being deleted :</strong> %d logs deleted. Please wait for deletion process to complete."
+msgstr "<br><strong>Sutikimo žurnalai trinami :</strong> ištrinta %d žurnalų. Palaukite, kol trynimo procesas bus baigtas."
+
+#: cookieadmin/includes/admin.php:250
+#, php-format
+msgid "<br><strong>Consent logs deleted successfully:</strong> %d logs deleted."
+msgstr "<br><strong>Sutikimo žurnalai sėkmingai ištrinti:</strong> ištrinta %d žurnalų."
+
+#: cookieadmin/includes/admin.php:254
+#, php-format
+msgid "<br><strong>Consent logs deletion failed:</strong> %d logs deleted. Error : %s"
+msgstr "<br><strong>Sutikimo žurnalų trynimas nepavyko:</strong> ištrinta %d žurnalų. Klaida : %s"
+
+#: cookieadmin/includes/admin.php:312
+#, php-format
+msgid "New versions of %1$s %2$s available. Updating ensures better performance, security, and access to the latest features."
+msgstr "Naujos %1$s %2$s versijos prieinamos. Atnaujinimas užtikrina geresnį veikimą, saugumą ir prieigą prie naujausių funkcijų."
+
+#: cookieadmin/includes/admin.php:369
+msgid "Pro"
+msgstr "Pro"
+
+#: cookieadmin/includes/admin/consent.php:33
+#: cookieadmin/includes/admin/dashboard.php:28
+msgid "Consent Type"
+msgstr "Sutikimo tipas"
+
+#: cookieadmin/includes/admin/consent.php:36
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "GDPR"
+msgstr "GDPR"
+
+#: cookieadmin/includes/admin/consent.php:37
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "US State Laws"
+msgstr "JAV valstijų įstatymai"
+
+#: cookieadmin/includes/admin/consent.php:43
+msgid "Consent Expiry"
+msgstr "Sutikimo galiojimo laikas"
+
+#: cookieadmin/includes/admin/consent.php:50
+msgid "Notice Type"
+msgstr "Pranešimo tipas"
+
+#: cookieadmin/includes/admin/consent.php:54
+msgid "Box"
+msgstr "Dėžutė"
+
+#: cookieadmin/includes/admin/consent.php:58
+msgid "Footer"
+msgstr "Poraštė"
+
+#: cookieadmin/includes/admin/consent.php:62
+msgid "Popup"
+msgstr "Iššokantis langas"
+
+#: cookieadmin/includes/admin/consent.php:68
+msgid "Notice Position"
+msgstr "Pranešimo pozicija"
+
+#: cookieadmin/includes/admin/consent.php:72
+msgid "Bottom Left"
+msgstr "Apačioje kairėje"
+
+#: cookieadmin/includes/admin/consent.php:76
+msgid "Bottom Right"
+msgstr "Apačioje dešinėje"
+
+#: cookieadmin/includes/admin/consent.php:80
+msgid "Top Left"
+msgstr "Viršuje kairėje"
+
+#: cookieadmin/includes/admin/consent.php:84
+msgid "Top Right"
+msgstr "Viršuje dešinėje"
+
+#: cookieadmin/includes/admin/consent.php:88
+msgid "Top"
+msgstr "Viršuje"
+
+#: cookieadmin/includes/admin/consent.php:92
+msgid "Bottom"
+msgstr "Apačioje"
+
+#: cookieadmin/includes/admin/consent.php:98
+msgid "Preference Position"
+msgstr "Preferencijos pozicija"
+
+#: cookieadmin/includes/admin/consent.php:102
+msgid "Center"
+msgstr "Centras"
+
+#: cookieadmin/includes/admin/consent.php:106
+msgid "Side"
+msgstr "Šonas"
+
+#: cookieadmin/includes/admin/consent.php:110
+msgid "Draw down"
+msgstr "Ištraukti žemyn"
+
+#: cookieadmin/includes/admin/consent.php:116
+msgid "Notice Section"
+msgstr "Pranešimų skyrius"
+
+#: cookieadmin/includes/admin/consent.php:118
+#: cookieadmin/includes/admin/consent.php:124
+#: cookieadmin/includes/admin/consent.php:207
+#: cookieadmin/includes/admin/consent.php:213
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: cookieadmin/includes/admin/consent.php:120
+msgid "Notice"
+msgstr "Pranešimas"
+
+#: cookieadmin/includes/admin/consent.php:131
+#: cookieadmin/includes/admin/consent.php:220
+msgid "Content"
+msgstr "Turinys"
+
+#: cookieadmin/includes/admin/consent.php:138
+#: cookieadmin/includes/admin/consent.php:227
+msgid "Background"
+msgstr "Fonas"
+
+#: cookieadmin/includes/admin/consent.php:145
+#: cookieadmin/includes/admin/consent.php:234
+msgid "Border"
+msgstr "Rėmelis"
+
+#: cookieadmin/includes/admin/consent.php:156
+msgid "Buttons"
+msgstr "Mygtukai"
+
+#: cookieadmin/includes/admin/consent.php:205
+msgid "Preference Section"
+msgstr "Preferencijų skyrius"
+
+#: cookieadmin/includes/admin/consent.php:209
+msgid "Privacy Notice"
+msgstr "Privatumo pranešimas"
+
+#: cookieadmin/includes/admin/consent.php:244
+msgid "Links"
+msgstr "Nuorodos"
+
+#: cookieadmin/includes/admin/consent.php:251
+msgid "Button Switch On"
+msgstr "Įjungti mygtuką"
+
+#: cookieadmin/includes/admin/consent.php:258
+msgid "Button Switch Off"
+msgstr "Išjungti mygtuką"
+
+#: cookieadmin/includes/admin/consent.php:270
+#: cookieadmin/includes/admin/settings.php:126
+msgid "Save Settings"
+msgstr "Išsaugoti nustatymus"
+
+#: cookieadmin/includes/admin/consent.php:271
+msgid "Show Preview"
+msgstr "Rodyti peržiūrą"
+
+#: cookieadmin/includes/admin/consent.php:295
+#: cookieadmin/includes/admin/settings.php:151
+msgid "Sorry, but you do not have permissions to perform this action"
+msgstr "Atsiprašome, bet neturite leidimų atlikti šį veiksmą"
+
+#: cookieadmin/includes/admin/consent.php:382
+#: cookieadmin/includes/admin/settings.php:188
+msgid "Settings saved successfully"
+msgstr "Nustatymai sėkmingai išsaugoti"
+
+#: cookieadmin/includes/admin/dashboard.php:23
+msgid "Consent Banner"
+msgstr "Sutikimo juosta"
+
+#: cookieadmin/includes/admin/dashboard.php:24
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Enabled"
+msgstr "Įjungta"
+
+#: cookieadmin/includes/admin/dashboard.php:29
+#: cookieadmin/includes/admin/dashboard.php:36
+#: cookieadmin/includes/admin/dashboard.php:43
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: cookieadmin/includes/admin/dashboard.php:35
+#: cookieadmin/includes/admin/settings.php:62
+msgid "Google Consent Mode v2"
+msgstr "Google sutikimo režimas v2"
+
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Disabled"
+msgstr "Išjungta"
+
+#: cookieadmin/includes/admin/dashboard.php:42
+msgid "Auto Scan"
+msgstr "Automatinis skanavimas"
+
+#: cookieadmin/includes/admin/scan.php:14
+msgid "Manage Cookies"
+msgstr "Tvarkyti slapukus"
+
+#: cookieadmin/includes/admin/scan.php:74
+#: cookieadmin/includes/admin/scan.php:75
+msgid "No Cookies Found!"
+msgstr "Slapukų nerasta!"
+
+#: cookieadmin/includes/admin/scan.php:84
+msgid "Scanned Cookies"
+msgstr "Skenuoti slapukai"
+
+#: cookieadmin/includes/admin/scan.php:85
+msgid "Scanned cookies will be automatically categorised and displayed here. You can add, edit and delete cookies as per your needs."
+msgstr "Skenuoti slapukai bus automatiškai kategorizuoti ir čia rodomi. Galite pridėti, redaguoti ir ištrinti slapukus pagal savo poreikius."
+
+#: cookieadmin/includes/admin/scan.php:89
+msgid "Add Cookie"
+msgstr "Pridėti slapuką"
+
+#: cookieadmin/includes/admin/scan.php:92
+msgid "Basic scan might miss some cookies."
+msgstr "Pagrindinis skanavimas gali praleisti kai kuriuos slapukus."
+
+#: cookieadmin/includes/admin/scan.php:94
+msgid "Scan"
+msgstr "Skanuoti"
+
+#: cookieadmin/includes/admin/scan.php:95
+msgid "Full Scan"
+msgstr "Pilnas skanavimas"
+
+#: cookieadmin/includes/admin/scan.php:106
+msgid "Action"
+msgstr "Veiksmas"
+
+#: cookieadmin/includes/admin/scan.php:110
+#: cookieadmin/includes/functions.php:220
+msgid "Necessary Cookies"
+msgstr "Būtini slapukai"
+
+#: cookieadmin/includes/admin/scan.php:114
+#: cookieadmin/includes/functions.php:222
+msgid "Functional Cookies"
+msgstr "Funkciniai slapukai"
+
+#: cookieadmin/includes/admin/scan.php:118
+#: cookieadmin/includes/functions.php:224
+msgid "Analytical Cookies"
+msgstr "Analitiniai slapukai"
+
+#: cookieadmin/includes/admin/scan.php:122
+msgid "Marketing Cookies"
+msgstr "Rinkodaros slapukai"
+
+#: cookieadmin/includes/admin/scan.php:126
+msgid "Unknown Cookies"
+msgstr "Nežinomi slapukai"
+
+#: cookieadmin/includes/admin/scan.php:149
+msgid "Edit Cookie"
+msgstr "Redaguoti slapuką"
+
+#: cookieadmin/includes/admin/scan.php:155
+msgid "Category"
+msgstr "Kategorija"
+
+#: cookieadmin/includes/admin/scan.php:157
+msgid "Select a category"
+msgstr "Pasirinkite kategoriją"
+
+#: cookieadmin/includes/admin/scan.php:158
+#: cookieadmin/includes/admin/settings.php:35
+msgid "Necessary"
+msgstr "Būtini"
+
+#: cookieadmin/includes/admin/scan.php:159
+#: cookieadmin/includes/admin/settings.php:38
+msgid "Functional"
+msgstr "Funkciniai"
+
+#: cookieadmin/includes/admin/scan.php:160
+#: cookieadmin/includes/admin/settings.php:41
+msgid "Analytical"
+msgstr "Analitiniai"
+
+#: cookieadmin/includes/admin/scan.php:161
+msgid "Marketing"
+msgstr "Rinkodaros"
+
+#: cookieadmin/includes/admin/scan.php:162
+msgid "Unknown"
+msgstr "Nežinomi"
+
+#: cookieadmin/includes/admin/scan.php:167
+msgid "Cookie Name/ID"
+msgstr "Slapuko pavadinimas/ID"
+
+#: cookieadmin/includes/admin/scan.php:168
+msgid "Enter Cookie Name or id"
+msgstr "Įveskite slapuko pavadinimą arba ID"
+
+#: cookieadmin/includes/admin/scan.php:173
+msgid "Enter Cookie description here"
+msgstr "Įveskite slapuko aprašymą čia"
+
+#: cookieadmin/includes/admin/scan.php:177 cookieadmin/includes/enduser.php:44
+msgid "Duration"
+msgstr "Trukmė"
+
+#: cookieadmin/includes/admin/scan.php:178
+msgid "Set 0 for Session or expiry in days"
+msgstr "Nustatykite 0 sesijai arba galiojimo dienų skaičių"
+
+#: cookieadmin/includes/admin/scan.php:183
+msgid "Save"
+msgstr "Išsaugoti"
+
+#: cookieadmin/includes/admin/scan.php:264
+msgid "Cookie Scan can be triggered once an hour"
+msgstr "Slapukų skanavimas gali būti vykdomas kas valandą"
+
+#: cookieadmin/includes/admin/scan.php:341
+msgid "No Cookies Found"
+msgstr "Slapukų nerasta"
+
+#: cookieadmin/includes/admin/scan.php:477
+msgid "No new cookies Found!"
+msgstr "Naujų slapukų nerasta!"
+
+#: cookieadmin/includes/admin/scan.php:513
+msgid "Cookie updation Failed, Error: "
+msgstr "Slapuko atnaujinimas nepavyko, klaida: "
+
+#: cookieadmin/includes/admin/scan.php:518
+msgid "Cookie updation successful"
+msgstr "Slapuko atnaujinimas sėkmingas"
+
+#: cookieadmin/includes/admin/scan.php:530
+msgid "Error : Cookie Id missing"
+msgstr "Klaida: trūksta slapuko ID"
+
+#: cookieadmin/includes/admin/scan.php:541
+msgid "Cookie deletion Failed, Error: "
+msgstr "Slapuko ištrynimas nepavyko, klaida: "
+
+#: cookieadmin/includes/admin/scan.php:545
+msgid "Cookie deletion successful"
+msgstr "Slapuko ištrynimas sėkmingas"
+
+#: cookieadmin/includes/admin/settings.php:29
+msgid "Load Cookies prior to consent"
+msgstr "Įkelti slapukus prieš sutikimą"
+
+#: cookieadmin/includes/admin/settings.php:30
+msgid "Selected category of cookies will be loaded before user consent."
+msgstr "Pasirinkta slapukų kategorija bus įkelta prieš vartotojo sutikimą."
+
+#: cookieadmin/includes/admin/settings.php:44
+msgid "Advertisement"
+msgstr "Reklama"
+
+#: cookieadmin/includes/admin/settings.php:46
+msgid "Loading cookies prior to receiving user consent will make your website non-compliant with GDPR."
+msgstr "Slapukų įkėlimas prieš vartotojo sutikimą padarys jūsų svetainę nesuderinamą su GDPR."
+
+#: cookieadmin/includes/admin/settings.php:49
+msgid "Reload page on consent"
+msgstr "Perkrauti puslapį gavus sutikimą"
+
+#: cookieadmin/includes/admin/settings.php:50
+msgid "Page will be loaded on user consent."
+msgstr "Puslapis bus perkrautas gavus vartotojo sutikimą."
+
+#: cookieadmin/includes/admin/settings.php:63
+msgid "Enable Google consent mode v2."
+msgstr "Įjungti Google sutikimo režimą v2."
+
+#: cookieadmin/includes/admin/settings.php:74
+msgid "Hide Powered by Link"
+msgstr "Slėpti „Powered by“ nuorodą"
+
+#: cookieadmin/includes/admin/settings.php:75
+msgid "Hide powered by CookieAdmin on banner."
+msgstr "Slėpti „Powered by CookieAdmin“ juostoje."
+
+#: cookieadmin/includes/admin/settings.php:86
+msgid "Hide Re-consent Icon"
+msgstr "Slėpti pakartotinio sutikimo piktogramą"
+
+#: cookieadmin/includes/admin/settings.php:87
+msgid "Hide reconsent icon after user consent."
+msgstr "Slėpti pakartotinio sutikimo piktogramą po vartotojo sutikimo."
+
+#: cookieadmin/includes/admin/settings.php:98
+msgid "Auto Cookies Scan"
+msgstr "Automatinis slapukų skanavimas"
+
+#: cookieadmin/includes/admin/settings.php:99
+msgid "Monthly auto scan will detect cookies."
+msgstr "Mėnesinis automatinis skanavimas aptiks slapukus."
+
+#: cookieadmin/includes/admin/settings.php:110
+msgid "Consent Log Cleanup"
+msgstr "Sutikimo žurnalo valymas"
+
+#: cookieadmin/includes/admin/settings.php:111
+msgid "Daily auto delete consent logs older than the set limit."
+msgstr "Kasdien automatiškai ištrinti sutikimo žurnalus, vyresnius nei nustatyta riba."
+
+#: cookieadmin/includes/admin/settings.php:118
+msgid "Keep consent logs for these many days"
+msgstr "Laikyti sutikimo žurnalus tiek dienų"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete consent logs older than the set limit (runs once)"
+msgstr "Ištrinti sutikimo žurnalus, vyresnius nei nustatyta riba (vykdoma vieną kartą)"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete Now"
+msgstr "Ištrinti dabar"
+
+#: cookieadmin/includes/enduser.php:46
+msgid "Days"
+msgstr "Dienos"
+
+#: cookieadmin/includes/functions.php:214
+msgid "Powered by"
+msgstr "Palaiko"
+
+#: cookieadmin/includes/functions.php:215
+msgid "Re-consent"
+msgstr "Pakartotinis sutikimas"
+
+#: cookieadmin/includes/functions.php:216
+msgid "Cookie Preferences"
+msgstr "Slapukų nustatymai"
+
+#: cookieadmin/includes/functions.php:217
+msgid "Always Active"
+msgstr "Visada aktyvus"
+
+#: cookieadmin/includes/functions.php:218
+msgid "Remark"
+msgstr "Pastaba"
+
+#: cookieadmin/includes/functions.php:219
+msgid "None"
+msgstr "Nėra"
+
+#: cookieadmin/includes/functions.php:221
+msgid "Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data."
+msgstr "Būtini slapukai įgalina svarbias svetainės funkcijas, tokias kaip saugus prisijungimas ir sutikimo nustatymų keitimas. Jie nesaugo asmeninių duomenų."
+
+#: cookieadmin/includes/functions.php:223
+msgid "Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools."
+msgstr "Funkciniai slapukai palaiko funkcijas, tokias kaip turinio dalinimasis socialiniuose tinkluose, atsiliepimų rinkimas ir trečiųjų šalių įrankių įjungimas."
+
+#: cookieadmin/includes/functions.php:225
+msgid "Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources."
+msgstr "Analitiniai slapukai seka lankytojų sąveikas, teikdami įžvalgas apie tokius rodiklius kaip lankytojų skaičius, atmetimo rodiklis ir srauto šaltiniai."
+
+#: cookieadmin/includes/functions.php:226
+msgid "Advertisement Cookies"
+msgstr "Reklamos slapukai"
+
+#: cookieadmin/includes/functions.php:227
+msgid "Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns."
+msgstr "Reklamos slapukai pateikia suasmenintas reklamas pagal jūsų ankstesnius apsilankymus ir analizuoja reklamos kampanijų efektyvumą."
+
+#: cookieadmin/includes/functions.php:228
+msgid "Unclassified Cookies"
+msgstr "Neklasifikuoti slapukai"
+
+#: cookieadmin/includes/functions.php:229
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "Neklasifikuoti slapukai yra slapukai, kuriuos šiuo metu klasifikuojame kartu su atskirų slapukų teikėjais."

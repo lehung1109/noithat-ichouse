@@ -1,0 +1,33 @@
+.column-seo_title,
+.column-meta_description,
+.column-redirect_url,
+.column-canonical_url{ 
+width: 15%; 
+}
+
+.column-redirect_enabled,
+.column-noindex,
+.column-nofollow,
+.column-word_count,
+.column-seo_score{ 
+width: 8%; 
+text-align: center; 
+}
+
+.column-target_keyword{ 
+width: 12%; 
+}
+
+.siteseo-score-circle{
+width: 32px;
+height: 32px;
+border-radius: 50%;
+color: #fff;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+font-weight: bold;
+font-size: 14px;
+box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+margin: 0 auto;
+}

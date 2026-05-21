@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-02-09 17:03+0530\n"
+"PO-Revision-Date: 2026-02-12 15:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: cookieadmin\n"
+"X-Poedit-SearchPath-1: cookieadmin-pro\n"
+
+#: cookieadmin-pro/includes/admin.php:57 cookieadmin/includes/admin.php:97
+msgid "Consent Logs"
+msgstr "同意日志"
+
+#: cookieadmin-pro/includes/admin.php:75
+msgid "Export CSV"
+msgstr "导出 CSV"
+
+#: cookieadmin-pro/includes/admin.php:82
+msgid "Consent Id"
+msgstr "同意编号"
+
+#: cookieadmin-pro/includes/admin.php:83
+msgid "Status"
+msgstr "状态"
+
+#: cookieadmin-pro/includes/admin.php:84
+msgid "Country"
+msgstr "国家"
+
+#: cookieadmin-pro/includes/admin.php:85
+msgid "User IP (Anonymized)"
+msgstr "用户 IP（匿名）"
+
+#: cookieadmin-pro/includes/admin.php:86
+msgid "Time"
+msgstr "时间"
+
+#: cookieadmin-pro/includes/admin.php:113
+msgid "No consent logs recorded yet!"
+msgstr "尚无同意日志记录！"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "Displaying"
+msgstr "显示"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "of"
+msgstr "共"
+
+#: cookieadmin-pro/includes/admin.php:125
+msgid "item(s)"
+msgstr "条目"
+
+#: cookieadmin-pro/includes/admin.php:235
+#: cookieadmin-pro/includes/admin.php:322
+msgid "Accepted"
+msgstr "已接受"
+
+#: cookieadmin-pro/includes/admin.php:238
+#: cookieadmin-pro/includes/admin.php:324
+msgid "Rejected"
+msgstr "已拒绝"
+
+#: cookieadmin-pro/includes/admin.php:241
+#: cookieadmin-pro/includes/admin.php:326
+msgid "Partially Accepted"
+msgstr "部分接受"
+
+#: cookieadmin-pro/includes/admin.php:293
+msgid "Table does not exists"
+msgstr "表不存在"
+
+#: cookieadmin-pro/includes/admin.php:304
+msgid "No data to export"
+msgstr "无数据可导出"
+
+#: cookieadmin-pro/includes/admin.php:362
+msgid "Unknow version difference type"
+msgstr "未知版本差异类型"
+
+#: cookieadmin-pro/includes/admin.php:386
+#: cookieadmin/includes/admin/scan.php:492
+msgid "Error : Cookie details missing"
+msgstr "错误：缺少 Cookie 详情"
+
+#: cookieadmin-pro/includes/admin.php:420
+msgid "Cookie addition Failed, Error: "
+msgstr "添加 Cookie 失败，错误： "
+
+#: cookieadmin-pro/includes/admin.php:427
+msgid "Cookie addition successful"
+msgstr "添加 Cookie 成功"
+
+#: cookieadmin-pro/includes/admin.php:438
+msgid "Deletion is already running in the background. You will be notified on completion."
+msgstr "删除操作已在后台运行。完成后您将收到通知。"
+
+#: cookieadmin-pro/includes/admin.php:448
+msgid "Please set a valid logs expiry day(s) limit to start deleting."
+msgstr "请设置有效的日志过期天数限制以开始删除。"
+
+#: cookieadmin-pro/includes/admin.php:460
+msgid "Deletion has started in the background. You will be notified on completion."
+msgstr "删除操作已在后台开始。完成后您将收到通知。"
+
+#: cookieadmin-pro/includes/functions.php:239
+msgid "Install CookieAdmin Pro License Key"
+msgstr "安装 CookieAdmin Pro 许可证密钥"
+
+#: cookieadmin-pro/includes/functions.php:417
+#, php-format
+msgid "Your SoftWP license has %1$sexpired%2$s. Please renew it to continue receiving uninterrupted updates and support for %3$s."
+msgstr "您的 SoftWP 许可证已 %1$s过期%2$s。请续订以继续接收 %3$s 的持续更新和支持。"
+
+#: cookieadmin-pro/includes/functions.php:497
+#: cookieadmin/includes/admin/scan.php:103
+msgid "Name"
+msgstr "名称"
+
+#: cookieadmin-pro/includes/functions.php:498
+#: cookieadmin/includes/admin/scan.php:104
+#: cookieadmin/includes/admin/scan.php:172
+msgid "Description"
+msgstr "描述"
+
+#: cookieadmin-pro/includes/functions.php:499
+#: cookieadmin/includes/admin/scan.php:105
+msgid "Expiry"
+msgstr "过期"
+
+#: cookieadmin-pro/includes/functions.php:513
+msgid "days"
+msgstr "天"
+
+#: cookieadmin-pro/includes/functions.php:513 cookieadmin/includes/admin.php:63
+#: cookieadmin/includes/admin/scan.php:43 cookieadmin/includes/enduser.php:45
+msgid "Session"
+msgstr "会话"
+
+#: cookieadmin-pro/includes/functions.php:518
+msgid "Not Available"
+msgstr "不可用"
+
+#: cookieadmin-pro/includes/license.php:21
+msgid "Security Check Failed"
+msgstr "安全检查失败"
+
+#: cookieadmin-pro/includes/license.php:28
+msgid "The license key was not submitted"
+msgstr "未提交许可证密钥"
+
+#: cookieadmin-pro/includes/license.php:35
+msgid "The response was malformed"
+msgstr "响应格式错误"
+
+#: cookieadmin-pro/includes/license.php:42
+msgid "The license key is invalid"
+msgstr "许可证密钥无效"
+
+#: cookieadmin-pro/includes/license.php:46
+msgid "Successfully updated the license key"
+msgstr "许可证密钥更新成功"
+
+#: cookieadmin-pro/includes/license.php:58 cookieadmin/includes/admin.php:100
+msgid "License"
+msgstr "许可证"
+
+#: cookieadmin-pro/includes/license.php:64
+msgid "CookieAdmin Version"
+msgstr "CookieAdmin 版本"
+
+#: cookieadmin-pro/includes/license.php:66
+msgid "Pro Version"
+msgstr "专业版"
+
+#: cookieadmin-pro/includes/license.php:71
+msgid "CookieAdmin License"
+msgstr "CookieAdmin 许可证"
+
+#: cookieadmin-pro/includes/license.php:74
+msgid "Unlicensed"
+msgstr "未授权"
+
+#: cookieadmin-pro/includes/license.php:77
+msgid "Update License"
+msgstr "更新许可证"
+
+#: cookieadmin-pro/includes/license.php:84
+msgid "License Status"
+msgstr "许可证状态"
+
+#: cookieadmin-pro/includes/license.php:85
+msgid "License Expires"
+msgstr "许可证过期时间"
+
+#: cookieadmin-pro/includes/license.php:100
+msgid "Server's IP Address"
+msgstr "服务器 IP 地址"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:776
+msgid "Check for updates"
+msgstr "检查更新"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:821
+msgid "This plugin is up to date."
+msgstr "此插件已是最新。"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:823
+msgid "A new version of this plugin is available."
+msgstr "此插件有新版本可用。"
+
+#: cookieadmin-pro/includes/plugin-update-checker.php:825
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "未知的更新检查状态 \"%s\""
+
+#: cookieadmin-pro/includes/scanner.php:42
+msgid "Network error: "
+msgstr "网络错误： "
+
+#: cookieadmin-pro/includes/scanner.php:54
+msgid "Status Code: "
+msgstr "状态码： "
+
+#: cookieadmin-pro/includes/scanner.php:60
+msgid "The scanner server returned an unreadable response."
+msgstr "扫描服务器返回了无法读取的响应。"
+
+#: cookieadmin-pro/includes/short-cirtuit.php:122
+msgid "You have not installed the free version of CookieAdmin. CookieAdmin Pro depends on the free version, so you must install it first in order to use CookieAdmin Pro."
+msgstr "您尚未安装 CookieAdmin 免费版。CookieAdmin Pro 依赖免费版，必须先安装免费版才能使用 CookieAdmin Pro。"
+
+#: cookieadmin-pro/includes/short-cirtuit.php:136
+msgid "CookieAdmin Pro depends on the free version of CookieAdmin, so you need to install / update the free version first."
+msgstr "CookieAdmin Pro 依赖 CookieAdmin 免费版，您需要先安装/更新免费版。"
+
+#: cookieadmin-pro/includes/short-cirtuit.php:137
+msgid "Install/Update Now"
+msgstr "立即安装/更新"
+
+#: cookieadmin-pro/init.php:179
+msgid "You are using an older version of CookieAdmin Pro. We recommend updating to the latest version to ensure seamless and uninterrupted use of the application."
+msgstr "您正在使用较旧版本的 CookieAdmin Pro。建议更新到最新版本以确保应用程序的无缝和持续使用。"
+
+#: cookieadmin-pro/init.php:185
+msgid "You are using an older version of CookieAdmin. We recommend updating to the latest free version to ensure smooth and uninterrupted use of the application."
+msgstr "您正在使用较旧版本的 CookieAdmin。建议更新到最新免费版本以确保应用程序的顺畅和持续使用。"
+
+#: cookieadmin/assets/cookie/policies.php:16
+msgid "We respect your privacy"
+msgstr "我们尊重您的隐私"
+
+#: cookieadmin/assets/cookie/policies.php:17
+msgid "Cookies help us improve your experience, deliver personalized content, and analyze traffic. You can choose which cookies to allow by clicking <b>Customize</b>. Click <b>Accept All</b> to consent or <b>Reject All</b> to decline non-essential cookies."
+msgstr "Cookie 帮助我们提升您的体验，提供个性化内容并分析流量。您可以点击 <b>自定义</b> 选择允许的 Cookie。点击 <b>全部接受</b> 同意，或点击 <b>全部拒绝</b> 拒绝非必要 Cookie。"
+
+#: cookieadmin/assets/cookie/policies.php:18
+msgid "Personalize Your Cookie Preferences"
+msgstr "个性化您的 Cookie 偏好"
+
+#: cookieadmin/assets/cookie/policies.php:19
+msgid "We use cookies to ensure smooth navigation and enable essential site functions. You can view detailed information about each cookie category below. <br />Cookies marked as <b>Necessary</b> are stored in your browser because they are essential for basic site functionality. <b>These cookies do not require your consent under GDPR.</b> <br />We also use third-party cookies to analyze site usage, remember your preferences, and deliver relevant content and ads. These will only be activated with your consent. You can choose to enable or disable these cookies, but please note that turning off some types may affect your browsing experience."
+msgstr "我们使用 Cookie 确保顺畅导航并启用必要的站点功能。您可以查看下方每类 Cookie 的详细信息。<br />标记为 <b>必要</b> 的 Cookie 会存储在您的浏览器中，因为它们对基本站点功能至关重要。<b>这些 Cookie 根据 GDPR 不需要您的同意。</b><br />我们还使用第三方 Cookie 来分析站点使用情况、记住您的偏好并提供相关内容和广告。只有在您同意时才会启用这些 Cookie。您可以选择启用或禁用这些 Cookie，但请注意关闭某些类型可能会影响您的浏览体验。"
+
+#: cookieadmin/assets/cookie/policies.php:20
+#: cookieadmin/assets/cookie/policies.php:55
+msgid "Modify Cookie Preferences"
+msgstr "修改 Cookie 偏好"
+
+#: cookieadmin/assets/cookie/policies.php:29
+#: cookieadmin/assets/cookie/policies.php:64
+msgid "Customize"
+msgstr "自定义"
+
+#: cookieadmin/assets/cookie/policies.php:32
+#: cookieadmin/assets/cookie/policies.php:67
+msgid "Reject All"
+msgstr "全部拒绝"
+
+#: cookieadmin/assets/cookie/policies.php:35
+#: cookieadmin/assets/cookie/policies.php:70
+msgid "Accept All"
+msgstr "全部接受"
+
+#: cookieadmin/assets/cookie/policies.php:38
+#: cookieadmin/assets/cookie/policies.php:73
+msgid "Save Preferences"
+msgstr "保存偏好"
+
+#: cookieadmin/assets/cookie/policies.php:51
+msgid "Your Privacy Matters"
+msgstr "您的隐私很重要"
+
+#: cookieadmin/assets/cookie/policies.php:52
+msgid "We use cookies to improve your browsing experience, deliver personalized content and ads, and analyze website traffic. By clicking <b>Accept All</b>, you consent to our use of cookies. You can choose to manage your preferences or opt out of the sale or sharing of your personal information."
+msgstr "我们使用 Cookie 改善您的浏览体验，提供个性化内容和广告，并分析网站流量。点击 <b>全部接受</b> 即表示您同意我们使用 Cookie。您可以选择管理偏好或选择退出个人信息的销售或共享。"
+
+#: cookieadmin/assets/cookie/policies.php:53
+msgid "Customize Your Cookie Settings"
+msgstr "自定义您的 Cookie 设置"
+
+#: cookieadmin/assets/cookie/policies.php:54
+msgid "We use cookies to support essential site functions and help you navigate efficiently. You can find detailed information about each cookie category below. <br /><b>Necessary</b> cookies are required for core site functionality and are always enabled. These do not require your consent. <br />Other cookies, including third-party cookies, are used to analyze usage, remember preferences, and provide relevant ads and content. These cookies are only used if you choose to enable them. You can adjust your preferences at any time. Disabling certain cookies may impact your browsing experience."
+msgstr "我们使用 Cookie 支持必要的站点功能，帮助您高效导航。您可以在下方找到每类 Cookie 的详细信息。<br /><b>必要</b> Cookie 是核心站点功能所必需，始终启用，无需您的同意。<br />其他 Cookie，包括第三方 Cookie，用于分析使用情况、记住偏好并提供相关广告和内容。只有在您选择启用时才会使用这些 Cookie。您可以随时调整偏好。禁用某些 Cookie 可能会影响您的浏览体验。"
+
+#: cookieadmin/includes/admin.php:60
+msgid "Show more"
+msgstr "显示更多"
+
+#: cookieadmin/includes/admin.php:61 cookieadmin/includes/enduser.php:43
+msgid "Show less"
+msgstr "显示更少"
+
+#: cookieadmin/includes/admin.php:62 cookieadmin/includes/admin/scan.php:45
+msgid "Day(s)"
+msgstr "天"
+
+#: cookieadmin/includes/admin.php:86
+msgid "CookieAdmin"
+msgstr "CookieAdmin"
+
+#: cookieadmin/includes/admin.php:88
+#: cookieadmin/includes/admin/dashboard.php:15
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: cookieadmin/includes/admin.php:90 cookieadmin/includes/admin/consent.php:22
+msgid "Consent Form"
+msgstr "同意表单"
+
+#: cookieadmin/includes/admin.php:92 cookieadmin/includes/admin/settings.php:19
+msgid "Settings"
+msgstr "设置"
+
+#: cookieadmin/includes/admin.php:94
+msgid "Scan Cookies"
+msgstr "扫描 Cookie"
+
+#: cookieadmin/includes/admin.php:104
+msgid "CookieAdmin Go Pro"
+msgstr "CookieAdmin Go Pro"
+
+#: cookieadmin/includes/admin.php:104
+msgid "Go Pro"
+msgstr "升级专业版"
+
+#: cookieadmin/includes/admin.php:143
+msgid "Share with your followers"
+msgstr "与您的关注者分享"
+
+#: cookieadmin/includes/admin.php:145
+msgid "I easily manage Cookie Consent Banner on my #WordPress site using @cookieadmin"
+msgstr "我轻松管理我的 #WordPress 网站上的 Cookie 同意横幅，使用 @cookieadmin"
+
+#: cookieadmin/includes/admin.php:155
+msgid " You can report any bugs "
+msgstr " 您可以报告任何错误 "
+
+#: cookieadmin/includes/admin.php:155
+msgid "here"
+msgstr "这里"
+
+#: cookieadmin/includes/admin.php:187
+#, php-format
+msgid "<br><strong>Cookie Scan is running:</strong> %d Cookies found. Please wait for cookies to appear on <a href=\"%s\">Scan Cookies Page</a>"
+msgstr "<br><strong>Cookie 扫描正在进行：</strong>发现 %d 个 Cookie。请等待 Cookie 出现在 <a href=\"%s\">扫描 Cookie 页面</a>"
+
+#: cookieadmin/includes/admin.php:192
+#, php-format
+msgid "<br><strong>Cookie Scan completed successfully:</strong> Please visit <a href=\"%s\">Scan Cookies</a> to review scan results."
+msgstr "<br><strong>Cookie 扫描成功完成：</strong>请访问 <a href=\"%s\">扫描 Cookie</a> 查看扫描结果。"
+
+#: cookieadmin/includes/admin.php:196
+#, php-format
+msgid "<br><strong>Cookie Scan failed:</strong> Please <a href=\"%s\">Scan Cookies</a> again for compliance. %s"
+msgstr "<br><strong>Cookie 扫描失败：</strong>请重新 <a href=\"%s\">扫描 Cookie</a> 以确保合规。%s"
+
+#: cookieadmin/includes/admin.php:244
+#, php-format
+msgid "<br><strong>Consent logs are being deleted :</strong> %d logs deleted. Please wait for deletion process to complete."
+msgstr "<br><strong>同意日志正在删除：</strong>已删除 %d 条日志。请等待删除过程完成。"
+
+#: cookieadmin/includes/admin.php:250
+#, php-format
+msgid "<br><strong>Consent logs deleted successfully:</strong> %d logs deleted."
+msgstr "<br><strong>同意日志删除成功：</strong>已删除 %d 条日志。"
+
+#: cookieadmin/includes/admin.php:254
+#, php-format
+msgid "<br><strong>Consent logs deletion failed:</strong> %d logs deleted. Error : %s"
+msgstr "<br><strong>同意日志删除失败：</strong>已删除 %d 条日志。错误：%s"
+
+#: cookieadmin/includes/admin.php:312
+#, php-format
+msgid "New versions of %1$s %2$s available. Updating ensures better performance, security, and access to the latest features."
+msgstr "%1$s %2$s 有新版本可用。更新可确保更好的性能、安全性和访问最新功能。"
+
+#: cookieadmin/includes/admin.php:369
+msgid "Pro"
+msgstr "专业版"
+
+#: cookieadmin/includes/admin/consent.php:33
+#: cookieadmin/includes/admin/dashboard.php:28
+msgid "Consent Type"
+msgstr "同意类型"
+
+#: cookieadmin/includes/admin/consent.php:36
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "GDPR"
+msgstr "GDPR"
+
+#: cookieadmin/includes/admin/consent.php:37
+#: cookieadmin/includes/admin/dashboard.php:31
+msgid "US State Laws"
+msgstr "美国州法律"
+
+#: cookieadmin/includes/admin/consent.php:43
+msgid "Consent Expiry"
+msgstr "同意过期"
+
+#: cookieadmin/includes/admin/consent.php:50
+msgid "Notice Type"
+msgstr "通知类型"
+
+#: cookieadmin/includes/admin/consent.php:54
+msgid "Box"
+msgstr "框"
+
+#: cookieadmin/includes/admin/consent.php:58
+msgid "Footer"
+msgstr "页脚"
+
+#: cookieadmin/includes/admin/consent.php:62
+msgid "Popup"
+msgstr "弹窗"
+
+#: cookieadmin/includes/admin/consent.php:68
+msgid "Notice Position"
+msgstr "通知位置"
+
+#: cookieadmin/includes/admin/consent.php:72
+msgid "Bottom Left"
+msgstr "左下角"
+
+#: cookieadmin/includes/admin/consent.php:76
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: cookieadmin/includes/admin/consent.php:80
+msgid "Top Left"
+msgstr "左上角"
+
+#: cookieadmin/includes/admin/consent.php:84
+msgid "Top Right"
+msgstr "右上角"
+
+#: cookieadmin/includes/admin/consent.php:88
+msgid "Top"
+msgstr "顶部"
+
+#: cookieadmin/includes/admin/consent.php:92
+msgid "Bottom"
+msgstr "底部"
+
+#: cookieadmin/includes/admin/consent.php:98
+msgid "Preference Position"
+msgstr "偏好位置"
+
+#: cookieadmin/includes/admin/consent.php:102
+msgid "Center"
+msgstr "居中"
+
+#: cookieadmin/includes/admin/consent.php:106
+msgid "Side"
+msgstr "侧边"
+
+#: cookieadmin/includes/admin/consent.php:110
+msgid "Draw down"
+msgstr "下拉"
+
+#: cookieadmin/includes/admin/consent.php:116
+msgid "Notice Section"
+msgstr "通知部分"
+
+#: cookieadmin/includes/admin/consent.php:118
+#: cookieadmin/includes/admin/consent.php:124
+#: cookieadmin/includes/admin/consent.php:207
+#: cookieadmin/includes/admin/consent.php:213
+msgid "Title"
+msgstr "标题"
+
+#: cookieadmin/includes/admin/consent.php:120
+msgid "Notice"
+msgstr "通知"
+
+#: cookieadmin/includes/admin/consent.php:131
+#: cookieadmin/includes/admin/consent.php:220
+msgid "Content"
+msgstr "内容"
+
+#: cookieadmin/includes/admin/consent.php:138
+#: cookieadmin/includes/admin/consent.php:227
+msgid "Background"
+msgstr "背景"
+
+#: cookieadmin/includes/admin/consent.php:145
+#: cookieadmin/includes/admin/consent.php:234
+msgid "Border"
+msgstr "边框"
+
+#: cookieadmin/includes/admin/consent.php:156
+msgid "Buttons"
+msgstr "按钮"
+
+#: cookieadmin/includes/admin/consent.php:205
+msgid "Preference Section"
+msgstr "偏好部分"
+
+#: cookieadmin/includes/admin/consent.php:209
+msgid "Privacy Notice"
+msgstr "隐私通知"
+
+#: cookieadmin/includes/admin/consent.php:244
+msgid "Links"
+msgstr "链接"
+
+#: cookieadmin/includes/admin/consent.php:251
+msgid "Button Switch On"
+msgstr "按钮开"
+
+#: cookieadmin/includes/admin/consent.php:258
+msgid "Button Switch Off"
+msgstr "按钮关"
+
+#: cookieadmin/includes/admin/consent.php:270
+#: cookieadmin/includes/admin/settings.php:126
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: cookieadmin/includes/admin/consent.php:271
+msgid "Show Preview"
+msgstr "显示预览"
+
+#: cookieadmin/includes/admin/consent.php:295
+#: cookieadmin/includes/admin/settings.php:151
+msgid "Sorry, but you do not have permissions to perform this action"
+msgstr "抱歉，您无权限执行此操作"
+
+#: cookieadmin/includes/admin/consent.php:382
+#: cookieadmin/includes/admin/settings.php:188
+msgid "Settings saved successfully"
+msgstr "设置保存成功"
+
+#: cookieadmin/includes/admin/dashboard.php:23
+msgid "Consent Banner"
+msgstr "同意横幅"
+
+#: cookieadmin/includes/admin/dashboard.php:24
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Enabled"
+msgstr "已启用"
+
+#: cookieadmin/includes/admin/dashboard.php:29
+#: cookieadmin/includes/admin/dashboard.php:36
+#: cookieadmin/includes/admin/dashboard.php:43
+msgid "Edit"
+msgstr "编辑"
+
+#: cookieadmin/includes/admin/dashboard.php:35
+#: cookieadmin/includes/admin/settings.php:62
+msgid "Google Consent Mode v2"
+msgstr "Google 同意模式 v2"
+
+#: cookieadmin/includes/admin/dashboard.php:38
+#: cookieadmin/includes/admin/dashboard.php:45
+msgid "Disabled"
+msgstr "已禁用"
+
+#: cookieadmin/includes/admin/dashboard.php:42
+msgid "Auto Scan"
+msgstr "自动扫描"
+
+#: cookieadmin/includes/admin/scan.php:14
+msgid "Manage Cookies"
+msgstr "管理 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:74
+#: cookieadmin/includes/admin/scan.php:75
+msgid "No Cookies Found!"
+msgstr "未找到 Cookie！"
+
+#: cookieadmin/includes/admin/scan.php:84
+msgid "Scanned Cookies"
+msgstr "已扫描的 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:85
+msgid "Scanned cookies will be automatically categorised and displayed here. You can add, edit and delete cookies as per your needs."
+msgstr "已扫描的 Cookie 将自动分类并显示在此。您可以根据需要添加、编辑和删除 Cookie。"
+
+#: cookieadmin/includes/admin/scan.php:89
+msgid "Add Cookie"
+msgstr "添加 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:92
+msgid "Basic scan might miss some cookies."
+msgstr "基础扫描可能遗漏部分 Cookie。"
+
+#: cookieadmin/includes/admin/scan.php:94
+msgid "Scan"
+msgstr "扫描"
+
+#: cookieadmin/includes/admin/scan.php:95
+msgid "Full Scan"
+msgstr "全面扫描"
+
+#: cookieadmin/includes/admin/scan.php:106
+msgid "Action"
+msgstr "操作"
+
+#: cookieadmin/includes/admin/scan.php:110
+#: cookieadmin/includes/functions.php:220
+msgid "Necessary Cookies"
+msgstr "必要的 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:114
+#: cookieadmin/includes/functions.php:222
+msgid "Functional Cookies"
+msgstr "功能性 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:118
+#: cookieadmin/includes/functions.php:224
+msgid "Analytical Cookies"
+msgstr "分析性 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:122
+msgid "Marketing Cookies"
+msgstr "营销 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:126
+msgid "Unknown Cookies"
+msgstr "未知 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:149
+msgid "Edit Cookie"
+msgstr "编辑 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:155
+msgid "Category"
+msgstr "类别"
+
+#: cookieadmin/includes/admin/scan.php:157
+msgid "Select a category"
+msgstr "选择类别"
+
+#: cookieadmin/includes/admin/scan.php:158
+#: cookieadmin/includes/admin/settings.php:35
+msgid "Necessary"
+msgstr "必要"
+
+#: cookieadmin/includes/admin/scan.php:159
+#: cookieadmin/includes/admin/settings.php:38
+msgid "Functional"
+msgstr "功能性"
+
+#: cookieadmin/includes/admin/scan.php:160
+#: cookieadmin/includes/admin/settings.php:41
+msgid "Analytical"
+msgstr "分析性"
+
+#: cookieadmin/includes/admin/scan.php:161
+msgid "Marketing"
+msgstr "营销"
+
+#: cookieadmin/includes/admin/scan.php:162
+msgid "Unknown"
+msgstr "未知"
+
+#: cookieadmin/includes/admin/scan.php:167
+msgid "Cookie Name/ID"
+msgstr "Cookie 名称/ID"
+
+#: cookieadmin/includes/admin/scan.php:168
+msgid "Enter Cookie Name or id"
+msgstr "输入 Cookie 名称或 ID"
+
+#: cookieadmin/includes/admin/scan.php:173
+msgid "Enter Cookie description here"
+msgstr "在此输入 Cookie 描述"
+
+#: cookieadmin/includes/admin/scan.php:177 cookieadmin/includes/enduser.php:44
+msgid "Duration"
+msgstr "持续时间"
+
+#: cookieadmin/includes/admin/scan.php:178
+msgid "Set 0 for Session or expiry in days"
+msgstr "设置 0 表示会话或以天为单位的过期时间"
+
+#: cookieadmin/includes/admin/scan.php:183
+msgid "Save"
+msgstr "保存"
+
+#: cookieadmin/includes/admin/scan.php:264
+msgid "Cookie Scan can be triggered once an hour"
+msgstr "Cookie 扫描每小时可触发一次"
+
+#: cookieadmin/includes/admin/scan.php:341
+msgid "No Cookies Found"
+msgstr "未找到 Cookie"
+
+#: cookieadmin/includes/admin/scan.php:477
+msgid "No new cookies Found!"
+msgstr "未发现新 Cookie！"
+
+#: cookieadmin/includes/admin/scan.php:513
+msgid "Cookie updation Failed, Error: "
+msgstr "Cookie 更新失败，错误： "
+
+#: cookieadmin/includes/admin/scan.php:518
+msgid "Cookie updation successful"
+msgstr "Cookie 更新成功"
+
+#: cookieadmin/includes/admin/scan.php:530
+msgid "Error : Cookie Id missing"
+msgstr "错误：缺少 Cookie Id"
+
+#: cookieadmin/includes/admin/scan.php:541
+msgid "Cookie deletion Failed, Error: "
+msgstr "Cookie 删除失败，错误： "
+
+#: cookieadmin/includes/admin/scan.php:545
+msgid "Cookie deletion successful"
+msgstr "Cookie 删除成功"
+
+#: cookieadmin/includes/admin/settings.php:29
+msgid "Load Cookies prior to consent"
+msgstr "在同意前加载 Cookie"
+
+#: cookieadmin/includes/admin/settings.php:30
+msgid "Selected category of cookies will be loaded before user consent."
+msgstr "选定类别的 Cookie 将在用户同意前加载。"
+
+#: cookieadmin/includes/admin/settings.php:44
+msgid "Advertisement"
+msgstr "广告"
+
+#: cookieadmin/includes/admin/settings.php:46
+msgid "Loading cookies prior to receiving user consent will make your website non-compliant with GDPR."
+msgstr "在收到用户同意前加载 Cookie 会导致您的网站不符合 GDPR。"
+
+#: cookieadmin/includes/admin/settings.php:49
+msgid "Reload page on consent"
+msgstr "同意后重新加载页面"
+
+#: cookieadmin/includes/admin/settings.php:50
+msgid "Page will be loaded on user consent."
+msgstr "用户同意后页面将重新加载。"
+
+#: cookieadmin/includes/admin/settings.php:63
+msgid "Enable Google consent mode v2."
+msgstr "启用 Google 同意模式 v2。"
+
+#: cookieadmin/includes/admin/settings.php:74
+msgid "Hide Powered by Link"
+msgstr "隐藏“技术支持”链接"
+
+#: cookieadmin/includes/admin/settings.php:75
+msgid "Hide powered by CookieAdmin on banner."
+msgstr "在横幅上隐藏 CookieAdmin 的技术支持链接。"
+
+#: cookieadmin/includes/admin/settings.php:86
+msgid "Hide Re-consent Icon"
+msgstr "隐藏重新同意图标"
+
+#: cookieadmin/includes/admin/settings.php:87
+msgid "Hide reconsent icon after user consent."
+msgstr "用户同意后隐藏重新同意图标。"
+
+#: cookieadmin/includes/admin/settings.php:98
+msgid "Auto Cookies Scan"
+msgstr "自动 Cookie 扫描"
+
+#: cookieadmin/includes/admin/settings.php:99
+msgid "Monthly auto scan will detect cookies."
+msgstr "每月自动扫描将检测 Cookie。"
+
+#: cookieadmin/includes/admin/settings.php:110
+msgid "Consent Log Cleanup"
+msgstr "同意日志清理"
+
+#: cookieadmin/includes/admin/settings.php:111
+msgid "Daily auto delete consent logs older than the set limit."
+msgstr "每天自动删除超过设定期限的同意日志。"
+
+#: cookieadmin/includes/admin/settings.php:118
+msgid "Keep consent logs for these many days"
+msgstr "保留同意日志天数"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete consent logs older than the set limit (runs once)"
+msgstr "删除超过设定期限的同意日志（执行一次）"
+
+#: cookieadmin/includes/admin/settings.php:119
+msgid "Delete Now"
+msgstr "立即删除"
+
+#: cookieadmin/includes/enduser.php:46
+msgid "Days"
+msgstr "天"
+
+#: cookieadmin/includes/functions.php:214
+msgid "Powered by"
+msgstr "技术支持"
+
+#: cookieadmin/includes/functions.php:215
+msgid "Re-consent"
+msgstr "重新同意"
+
+#: cookieadmin/includes/functions.php:216
+msgid "Cookie Preferences"
+msgstr "Cookie 偏好"
+
+#: cookieadmin/includes/functions.php:217
+msgid "Always Active"
+msgstr "始终激活"
+
+#: cookieadmin/includes/functions.php:218
+msgid "Remark"
+msgstr "备注"
+
+#: cookieadmin/includes/functions.php:219
+msgid "None"
+msgstr "无"
+
+#: cookieadmin/includes/functions.php:221
+msgid "Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data."
+msgstr "必要的 Cookie 启用网站基本功能，如安全登录和同意偏好调整，不存储个人数据。"
+
+#: cookieadmin/includes/functions.php:223
+msgid "Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools."
+msgstr "功能性 Cookie 支持内容分享、收集反馈和启用第三方工具等功能。"
+
+#: cookieadmin/includes/functions.php:225
+msgid "Analytical cookies track visitor interactions, providing insights on metrics like visitor count, bounce rate, and traffic sources."
+msgstr "分析性 Cookie 跟踪访客互动，提供访客数量、跳出率和流量来源等指标洞察。"
+
+#: cookieadmin/includes/functions.php:226
+msgid "Advertisement Cookies"
+msgstr "广告 Cookie"
+
+#: cookieadmin/includes/functions.php:227
+msgid "Advertisement cookies deliver personalized ads based on your previous visits and analyze the effectiveness of ad campaigns."
+msgstr "广告 Cookie 根据您的访问记录投放个性化广告，并分析广告活动效果。"
+
+#: cookieadmin/includes/functions.php:228
+msgid "Unclassified Cookies"
+msgstr "未分类 Cookie"
+
+#: cookieadmin/includes/functions.php:229
+msgid "Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies."
+msgstr "未分类 Cookie 是我们与各 Cookie 提供商共同分类中的 Cookie。"

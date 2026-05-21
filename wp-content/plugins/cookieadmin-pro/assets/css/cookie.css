@@ -1,0 +1,401 @@
+:root {
+	--cookieadmin-pro-primary-color: #001d39;
+	--cookieadmin-pro-primary-hover-color: #985e23;
+
+	--cookieadmin-pro-secondary-color: #0046b2;
+	--cookieadmin-pro-secondary-hover-color: #0065ff;
+
+	--cookieadmin-pro-txcolor: #0f172a;
+
+	--cookieadmin-pro-green-txtcolor: #3a8356;
+	--cookieadmin-pro-warning-txtcolor: #9c7930;
+	--cookieadmin-pro-red-txtcolor: #b55355;
+
+	--cookieadmin-pro-green-color: #15a448;
+	--cookieadmin-pro-warning-color: #e9b306;
+	--cookieadmin-pro-red-color: #dd2727;
+}
+
+
+/* Reconsent Icon */
+
+.cookieadmin-reconsent-icons-grid{
+	display: flex;
+	flex-direction:column;
+	flex-wrap: wrap;
+	max-width: 500px;
+	padding: 0px 0px 10px 0px;
+	gap: 10px;
+}
+
+.cookieadmin-reconsent-icons-list{
+	display:flex;
+	flex-direction:row;
+	gap:5px;
+}
+
+.cookieadmin-reconsent-icon{
+	background-color: var(--cookieadmin-pro-secondary-hover-color);
+	border-radius: 50%;
+	padding:5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cookieadmin-reconsent-icon img{
+	height: 40px;
+	cursor: pointer;
+}
+
+.cookieadmin-reconsent-icon:hover {
+	opacity: 0.8;
+}
+
+.cookieadmin-reconsent-icon:has(input:checked) {
+	background-color: var(--cookieadmin-pro-secondary-color) !important;
+}
+
+input[name="cookieadmin_reconsent_icon"]{
+	display: none;
+}
+
+
+/* ==========================================================================
+   Scan Pages Selection UI
+   ========================================================================== */
+
+.cookieadmin-sp-ui {
+	margin: 16px 10px;
+	padding: 16px;
+	background: #fff;
+	border: 1px solid #e2e8f0;
+	border-radius: 4px;
+	width: 100%;
+	box-sizing: border-box;
+	flex-basis: 100%;
+}
+
+.cookieadmin-sp-label {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	margin-bottom: 12px;
+}
+
+.cookieadmin-sp-label .cookieadmin-title {
+	font-size: 14px;
+	font-weight: 600;
+	color: var(--cookieadmin-pro-txcolor);
+}
+
+.cookieadmin-sp-wrapper{
+	display:flex;
+	gap:20px;
+	align-items:flex-start;
+}
+
+.cookieadmin-sp-cards {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	min-height: 42px;
+	padding: 8px 12px;
+	border: 1px solid #d0d5dd;
+	border-radius: 6px;
+	background: #fff;
+	margin-bottom: 8px;
+}
+
+.cookieadmin-sp-card {
+	display: flex;
+	flex-direction: column;
+	padding: 8px 12px;
+	border-radius: 4px;
+	background: #f8fafc;
+	transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.cookieadmin-sp-card--home {
+	background: #ecfdf5;
+	border: 1px solid #b0decd;
+	
+}
+
+.cookieadmin-sp-card--page {
+	border: 1px solid #93afdc;
+	background: #eff6ff;
+}
+
+.cookieadmin-sp-card--latest_post,
+.cookieadmin-sp-card--post {
+	border: 1px solid #bca6ee;
+	background: #f5f3ff;
+}
+
+.cookieadmin-sp-card--latest_product,
+.cookieadmin-sp-card--product {
+	border: 1px solid #f1d6a9;
+	background: #fffbeb;
+}
+
+.cookieadmin-sp-card--warning {
+	border: 1px solid #ef4444;
+	background: #fef2f2;
+}
+
+.cookieadmin-sp-card-title {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	font-size: 13px;
+	line-height: 1.4;
+}
+
+.cookieadmin-sp-card-title .dashicons {
+	width: 16px;
+	height: 16px;
+	font-size: 16px;
+	color: #64748b;
+	flex-shrink: 0;
+}
+
+.cookieadmin-sp-card--home .cookieadmin-sp-card-title .dashicons {
+	color: #059669;
+}
+
+.cookieadmin-sp-card-name {
+	flex: 1;
+	font-weight: 500;
+	color: #334155;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.cookieadmin-sp-card-lock {
+	color: #059669 !important;
+	opacity: 0.6;
+}
+
+.cookieadmin-sp-card-unavailable {
+	font-size: 11px;
+	color: #dc2626;
+	font-weight: 500;
+	white-space: nowrap;
+}
+
+.cookieadmin-sp-card-remove {
+	cursor: pointer;
+	font-size: 18px;
+	line-height: 1;
+	color: #94a3b8;
+	transition: color 0.15s ease;
+	flex-shrink: 0;
+	padding: 0 2px;
+}
+
+.cookieadmin-sp-card-remove:hover {
+	color: #dc2626;
+}
+
+.cookieadmin-sp-card--home .cookieadmin-sp-card-remove {
+	display: none;
+}
+
+.cookieadmin-sp-card-url {
+	font-size: 12px;
+	color: #94a3b8;
+	padding-left: 24px;
+	margin-top: 2px;
+	word-break: break-all;
+}
+
+.cookieadmin-sp-footer {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	margin-top: 12px;
+	flex-wrap: wrap;
+}
+
+.cookieadmin-sp-count {
+	font-size: 12px;
+	color: #64748b;
+	font-weight: 500;
+}
+
+.cookieadmin-sp-saved-text {
+	font-size: 12px;
+	color: #059669;
+	font-weight: 500;
+	opacity: 0;
+	transition: opacity 0.3s ease;
+}
+
+.cookieadmin-sp-saved-visible {
+	opacity: 1;
+}
+
+.cookieadmin-sp-footer-actions {
+	margin-left: auto;
+}
+
+.cookieadmin-sp-footer-actions .cookieadmin-btn {
+	height: 32px;
+	font-size: 12px;
+	padding: 4px 12px;
+}
+
+.cookieadmin-sp-search-wrap {
+	position: relative;
+}
+
+.cookieadmin-sp-search {
+	width: 100%;
+	height: 38px;
+	padding: 0 12px;
+	border: 1px solid #d1d5db;
+	border-radius: 4px;
+	font-size: 13px;
+	color: #374151;
+	background: #f9fafb;
+	transition: border-color 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+	outline: none;
+	box-sizing: border-box;
+}
+
+.cookieadmin-sp-search:hover {
+	background: #fff;
+	border-color: #9ca3af;
+}
+
+.cookieadmin-sp-search:focus {
+	background: #fff;
+	border-color: #3b82f6;
+	box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.cookieadmin-sp-search:disabled {
+	opacity: 0.5;
+	cursor: not-allowed;
+	background: #f1f5f9;
+}
+
+.cookieadmin-sp-dropdown {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	right: 0;
+	z-index: 100;
+	background: #fff;
+	border: 1px solid #e2e8f0;
+	border-top: none;
+	border-radius: 0 0 4px 4px;
+	max-height: 240px;
+	overflow-y: auto;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+}
+
+.cookieadmin-sp-dropdown-empty {
+	padding: 12px 16px;
+	font-size: 13px;
+	color: #94a3b8;
+	text-align: center;
+}
+
+.cookieadmin-sp-dropdown-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 8px 12px;
+	cursor: pointer;
+	transition: background 0.1s ease;
+	border-bottom: 1px solid #f1f5f9;
+}
+
+.cookieadmin-sp-dropdown-item:last-child {
+	border-bottom: none;
+}
+
+.cookieadmin-sp-dropdown-item:hover {
+	background: #f1f5f9;
+}
+
+.cookieadmin-sp-dropdown-item--static {
+	background: #fafbfc;
+}
+
+.cookieadmin-sp-dropdown-item--static:hover {
+	background: #f1f5f9;
+}
+
+.cookieadmin-sp-dropdown-item--disabled {
+	opacity: 0.4;
+	cursor: not-allowed;
+}
+
+.cookieadmin-sp-dropdown-item--disabled:hover {
+	background: transparent;
+}
+
+.cookieadmin-sp-type-badge {
+	display: inline-block;
+	padding: 1px 6px;
+	border-radius: 3px;
+	font-size: 10px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+	flex-shrink: 0;
+}
+
+.cookieadmin-sp-type-badge--page {
+	background: #dbeafe;
+	color: #1d4ed8;
+}
+
+.cookieadmin-sp-type-badge--post {
+	background: #ede9fe;
+	color: #6d28d9;
+}
+
+.cookieadmin-sp-type-badge--product {
+	background: #fef3c7;
+	color: #b45309;
+}
+
+.cookieadmin-sp-dropdown-item-title {
+	flex: 1;
+	font-size: 13px;
+	color: #334155;
+	font-weight: 500;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.cookieadmin-sp-dropdown-item-url {
+	font-size: 12px;
+	color: #94a3b8;
+	flex-shrink: 0;
+	max-width: 180px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+@media (max-width: 782px) {
+	.cookieadmin-sp-footer {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+	.cookieadmin-sp-footer-actions {
+		margin-left: 0;
+	}
+	.cookieadmin-sp-dropdown-item-url {
+		display: none;
+	}
+}
